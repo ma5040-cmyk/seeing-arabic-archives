@@ -1,0 +1,151 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <link rel="icon" href="data:,">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Sans+Arabic:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <title>Seeing Arabic Archives</title>
+  <style>
+    :root { color-scheme:dark; --ink:#10161a; --paper:#e4e8ea; --muted:#a9b0b5; }
+    * { box-sizing:border-box; }
+    html,body { width:100%; height:100%; margin:0; overflow:hidden; background:linear-gradient(180deg,#6e7378 0%,#8a8f94 100%); }
+    body { font-family:"Times New Roman",serif; color:var(--paper); }
+    canvas { display:block; }
+    #app { position:fixed; inset:0; background:linear-gradient(180deg,#6e7378 0%,#8a8f94 100%); }
+    #hud { position:fixed; inset:0; z-index:20; pointer-events:none; }
+    #hud button,#hud a { pointer-events:auto; }
+    .panel-button { pointer-events:auto; border:0; background:transparent; color:#111619; padding:.35rem .45rem; border-radius:0; font:12px "Times New Roman",serif; }
+    body.opening-later .panel-button, body.opening-later #site-title, body.opening-later #mode-label,
+    body.cafe-mode .panel-button, body.cafe-mode #site-title, body.cafe-mode #mode-label { color:#f0f2f3; }
+    #skip { position:fixed; right:max(18px,env(safe-area-inset-right)); bottom:max(18px,env(safe-area-inset-bottom)); }
+    #continue-ride { position:fixed; left:50%; bottom:max(18px,env(safe-area-inset-bottom)); transform:translateX(-50%); z-index:21; white-space:nowrap; }
+    body.cafe-mode #continue-ride { display:none; }
+    #site-title,#mode-label,#scene-index,#opening-network,#layer-report,#rooms-button,#cafe-clock,#skip,#curator,#room-nav,#continue-ride { display:none!important; }
+    #site-title { position:fixed; left:18px; top:12px; z-index:21; padding:0; border:0; background:transparent; color:#111619; text-align:left; font:14px/1.15 "Times New Roman",serif; pointer-events:auto; }
+    #site-title span { display:block; }
+    #site-title .title-ar { margin-top:2px; direction:rtl; font:12px/1.1 "IBM Plex Sans Arabic","Times New Roman",serif; }
+    #mode-label { position:fixed; left:18px; top:52px; opacity:.9; color:#111619; font:12px/1.18 "Times New Roman",serif; letter-spacing:0; text-transform:none; }
+    #mode-label .mode-ar { display:block; margin-top:2px; direction:rtl; font:12px/1.2 "IBM Plex Sans Arabic","Times New Roman",serif; }
+    #top-navigation { position:fixed; top:10px; left:14px; right:auto; z-index:22; display:flex; align-items:flex-start; justify-content:flex-start; gap:6px; max-width:calc(100vw - 250px); pointer-events:none; }
+    #top-navigation .panel-button { padding:.34rem .48rem; font-size:11px; white-space:nowrap; }
+    #scene-index { display:flex; flex-wrap:wrap; gap:4px; }
+    #layer-report { display:none!important; }
+    #hud>* { pointer-events:none!important; }
+    #hud button,#hud a { pointer-events:auto!important; }
+    #cafe-hud { position:fixed; top:72px; right:14px; display:none; align-items:flex-start; gap:12px; pointer-events:auto; }
+    #cafe-hud.visible { display:flex; }
+    #cafe-clock { display:grid; gap:2px; min-width:0; padding:0; color:#f0f2f3; text-align:right; font:12px/1.2 "Times New Roman",serif; }
+    #cafe-clock .time-ar { direction:rtl; font-family:"IBM Plex Sans Arabic","Times New Roman",serif; }
+    #archive-bar { position:fixed; top:10px; right:14px; max-width:min(760px,62vw); color:#e4e8ea; font:10px/1.2 "Times New Roman",serif; text-align:right; pointer-events:none; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+    #archive-bar .bar-en { display:block; overflow:hidden; text-overflow:ellipsis; }
+    #archive-bar .bar-ar,#atlas-link { display:none; }
+    #opening-network { position:fixed; display:none; top:82px; right:14px; max-width:min(1000px,76vw); color:#f0f2f3; text-align:right; font:11px/1.2 "Times New Roman",serif; pointer-events:auto; }
+    #opening-network .network-ar { display:block; margin-top:2px; direction:rtl; font:11px/1.2 Amiri,"IBM Plex Sans Arabic",serif; }
+    #opening-network a { display:inline-block; margin-top:4px; color:#f0f2f3; text-decoration:underline; text-underline-offset:2px; }
+    #curator { position:fixed; left:18px; bottom:18px; display:none; max-width:min(520px,calc(100vw - 36px)); pointer-events:auto; }
+    #curator.active { display:block; }
+    #curator textarea { width:100%; min-height:96px; margin-top:.5rem; background:#101010; color:white; border:1px solid #555; }
+    #room-nav { position:fixed; left:50%; bottom:28px; transform:translateX(-50%); display:flex; gap:8px; pointer-events:auto; }
+    #room-nav button { display:none; }
+    #room-nav button:first-child { display:block; }
+    #room-hint { position:fixed; left:50%; bottom:18px; transform:translateX(-50%); display:none; color:#f0f2f3; font:11px "Times New Roman",serif; pointer-events:none; white-space:nowrap; }
+    body.cafe-mode #room-hint { display:block; }
+    #player { position:fixed; z-index:40; right:18px; bottom:18px; width:min(420px,calc(100vw - 36px)); aspect-ratio:16/9; background:#050505; border:1px solid #555; display:none; }
+    #player.active { display:block; }
+    #player iframe,#player video { width:100%; height:100%; border:0; }
+    #player button { position:absolute; right:-1px; top:-38px; }
+    #opening-cards { position:fixed; z-index:15; left:clamp(20px,5vw,68px); right:clamp(20px,5vw,68px); bottom:clamp(78px,9vh,96px); pointer-events:none; }
+    .opening-entry { position:absolute; left:0; bottom:0; width:min(1100px,90vw); max-width:1100px; margin:0; color:#f0f2f3; text-align:left; font:11px/1.2 "Times New Roman",serif; opacity:0; pointer-events:none; }
+    .opening-entry.visible { opacity:1; }
+    .opening-entry.scene-1 { position:fixed; left:clamp(24px,4vw,48px); top:104px; bottom:auto; width:min(340px,34vw); color:#111619; }
+    .opening-entry.scene-1 .opening-records { max-height:none; overflow:hidden; }
+    .opening-entry.scene-1 .archive-line { display:flex; justify-content:space-between; gap:12px; margin-bottom:7px; }
+    .opening-entry.scene-1 .record-en,.opening-entry.scene-1 .record-ar { flex:1; }
+    .opening-entry.scene-1 .record-ar { margin:0; }
+    .opening-entry .year { font-weight:700; }
+    .opening-entry .entry-ar { margin-top:3px; direction:rtl; text-align:right; font:12px/1.25 Amiri,"IBM Plex Sans Arabic",serif; }
+    .opening-entry .opening-records { margin-top:7px; max-height:72vh; overflow:auto; pointer-events:none; overscroll-behavior:contain; scrollbar-width:thin; scrollbar-color:rgba(235,240,242,.5) transparent; font-size:11px; line-height:1.2; }
+    .opening-entry .archive-line { margin:0 0 4px; }
+    .opening-entry .archive-line .record-ar { margin:1px 0 0; direction:rtl; text-align:right; font:11px/1.2 Amiri,"IBM Plex Sans Arabic",serif; }
+    .opening-entry .group-heading { font-size:14px; font-weight:400; }
+    .opening-entry .group-heading-ar { margin-top:1px; direction:rtl; text-align:right; font:12px/1.2 Amiri,"IBM Plex Sans Arabic",serif; }
+    #error-box { display:none; position:fixed; z-index:100; top:12px; left:12px; right:12px; max-height:35vh; overflow:auto; padding:12px; color:#ffb5b5; background:rgba(35,0,0,.96); border:2px solid #f44; font:13px/1.45 Consolas,monospace; white-space:pre-wrap; pointer-events:auto; }
+    #error-box.visible { display:block; }
+    #arrival-fog { position:fixed; inset:0; z-index:18; pointer-events:none; opacity:0; transition:none; background:linear-gradient(180deg,rgba(110,115,120,.96),rgba(138,143,148,.96)); }
+    body.arrival-fog #arrival-fog { opacity:1; }
+    @media (max-width:900px) { #top-navigation { top:10px; left:8px; right:auto; max-width:38vw; justify-content:flex-start; flex-wrap:wrap; } #archive-bar { top:10px; right:8px; max-width:58vw; } }
+    @media (max-width:680px) { .opening-entry { width:94vw; } .opening-entry .opening-records { max-height:72vh; } #cafe-clock { font-size:12px; } #top-navigation .panel-button { padding:.28rem .36rem; font-size:11px; } }
+  </style>
+  <script type="importmap">
+  {
+    "imports": {
+      "three": "./lib/build/three.module.js",
+      "three/addons/": "./lib/examples/jsm/"
+    }
+  }
+  </script>
+</head>
+<body>
+  <pre id="error-box" role="alert" aria-live="assertive"></pre>
+  <script>
+    (() => {
+      const box = document.getElementById('error-box');
+      const show = (message) => {
+        box.textContent += `${box.textContent ? '\n\n' : ''}${message}`;
+        box.classList.add('visible');
+      };
+      window.onerror = (message, source, line, column, error) => {
+        show(`${error?.stack || message}\n${source || ''}${line ? `:${line}:${column || 0}` : ''}`);
+      };
+      window.addEventListener('unhandledrejection', (event) => {
+        const reason = event.reason;
+        show(reason?.stack || String(reason));
+      });
+    })();
+  </script>
+  <div id="app"></div>
+  <div id="hud">
+    <button id="site-title" type="button"><span>Seeing Arabic Archives</span><span class="title-ar" lang="ar" dir="rtl">أرشيفات عربية مرئية</span></button>
+    <div id="mode-label"><span class="mode-en">Scroll to enter</span><span class="mode-ar" lang="ar" dir="rtl">مرّر للدخول</span></div>
+    <nav id="top-navigation" aria-label="Opening navigation">
+      <button id="start-again" class="panel-button" type="button">↺ Experience it again</button>
+      <div id="scene-index">
+        <button class="panel-button" type="button" data-opening-scene="0">Globe</button>
+        <button class="panel-button" type="button" data-opening-scene="1">Information</button>
+        <button class="panel-button" type="button" data-opening-scene="2">Images</button>
+        <button class="panel-button" type="button" data-opening-scene="3">Café</button>
+      </div>
+    </nav>
+    <div id="opening-network"><span class="network-en"></span><span class="network-ar" lang="ar" dir="rtl"></span><a href="./data/archives.csv" target="_blank" rel="noopener">Atlas of the network / أطلس الشبكة</a></div>
+    <pre id="layer-report" hidden></pre>
+    <div id="cafe-hud">
+      <button id="rooms-button" class="panel-button" type="button">← Rooms / الغرف</button>
+      <div>
+        <span id="cafe-clock" aria-live="polite"><span class="time-en">23:41 · Thursday 19 November 2026</span><span class="time-ar" lang="ar" dir="rtl">٢٣:٤١ · الخميس ١٩ نوفمبر ٢٠٢٦</span></span>
+        <div id="archive-bar"><span class="bar-en"></span><span class="bar-ar" lang="ar" dir="rtl"></span><a id="atlas-link" href="./data/archives.csv" target="_blank" rel="noopener">Atlas of the network / أطلس الشبكة</a></div>
+      </div>
+    </div>
+    <button id="skip" class="panel-button">Skip / تخطّ</button>
+    <div id="opening-cards"></div>
+    <div id="curator">
+      <strong>Curator mode · C</strong>
+      <div id="curator-status">Click a room surface to tag it.</div>
+      <textarea id="curator-json" aria-label="Surface assignments JSON"></textarea>
+      <button id="save-surfaces" class="panel-button">Copy/save assignments</button>
+    </div>
+    <div id="room-nav">
+      <button class="panel-button" data-room="cafe">The Internet Café</button>
+    </div>
+    <div id="room-hint">Drag to look · WASD / arrows to move</div>
+  </div>
+  <button id="continue-ride" class="panel-button" type="button">Continue ↓</button>
+  <div id="player"><button id="close-player" class="panel-button">Close</button></div>
+  <div id="arrival-fog" aria-hidden="true"></div>
+  <script src="./lib/vendor/d3.min.js"></script>
+  <script src="./lib/vendor/topojson-client.min.js"></script>
+  <script type="module" src="./src/main.js?v=94"></script>
+</body>
+</html>
