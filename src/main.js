@@ -1,7 +1,7 @@
 import * as THREE from 'three';
 import { Opening } from './opening.js?v=62';
 import { Hub } from './hub.js?v=15';
-import { Cafe } from './cafe.js?v=69';
+import { Cafe } from './cafe.js?v=70';
 
 const app = document.querySelector('#app');
 const renderer = new THREE.WebGLRenderer({ antialias:true, alpha:true, powerPreference:'high-performance' });
