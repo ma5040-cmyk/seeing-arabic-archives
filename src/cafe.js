@@ -144,7 +144,7 @@ export class Cafe {
     if(!this.roomPromise){
       const loader=new Rhino3dmLoader();
       loader.setLibraryPath('./lib/rhino3dm/');
-      this.roomPromise=loader.loadAsync('./models/cafe.3dm').catch(error=>{
+      this.roomPromise=loader.loadAsync('./models/Cafe.3dm').catch(error=>{
         this.roomPromise=null;
         throw error;
       });
