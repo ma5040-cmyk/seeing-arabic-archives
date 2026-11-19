@@ -1,0 +1,1751 @@
+{
+ "type": "FeatureCollection",
+ "name": "arabic_archives_network",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.5018,
+     33.8938
+    ]
+   },
+   "properties": {
+    "id": "AIF",
+    "name": "Arab Image Foundation",
+    "name_ar": "المؤسسة العربية للصورة",
+    "city": "Beirut",
+    "country": "Lebanon",
+    "coord_precision": "city",
+    "pos": "RI",
+    "holder_position": "In region · independent / community",
+    "in_arab_world": true,
+    "inst": "foundation",
+    "media": "photo",
+    "start": 1860,
+    "end": 1993,
+    "depicts": "Lebanon;Egypt;Syria;Iraq;Palestine;Morocco;Mexico",
+    "holdings": "600,000+ photographs from the Arab world and diaspora (family, studio, everyday); ~25,000 online on 2019 platform",
+    "online": "~22,000–25,000 (2019 launch)",
+    "online_est": 25000,
+    "access": "open",
+    "license": "CC BY-SA 4.0",
+    "method": "Web platform with keyword/date search; no documented public API — collect item pages politely or request a data export",
+    "url": "https://arabimagefoundation.org",
+    "sim": "1;2;3",
+    "notes": "",
+    "verified": "2026-11-18",
+    "source_note": "Platform launch counts (2019), CC BY-SA licence, 1860–1993 search range"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.5167,
+     33.8925
+    ]
+   },
+   "properties": {
+    "id": "DEBBAS",
+    "name": "Fouad Debbas Collection, Sursock Museum",
+    "name_ar": "مجموعة فؤاد دباس – متحف سرسق",
+    "city": "Beirut",
+    "country": "Lebanon",
+    "coord_precision": "approx. building",
+    "pos": "RI",
+    "holder_position": "In region · independent / community",
+    "in_arab_world": true,
+    "inst": "museum",
+    "media": "photo;postcard;stereoview;print",
+    "start": 1830,
+    "end": 1960,
+    "depicts": "Lebanon;Syria;Palestine;Egypt",
+    "holdings": "30,000+ photographs, postcards, stereoscopic views and prints of the region; Orientalist/commercial studio images (Bonfils, Sabounji, Abdullah Frères)",
+    "online": "Selection only; database under construction",
+    "online_est": null,
+    "access": "onsite / selection online",
+    "license": "© Sursock Museum",
+    "method": "Exhibition selections on sursock.museum; request access for research",
+    "url": "https://sursock.museum/node/26",
+    "sim": "1;3",
+    "notes": "",
+    "verified": "2026-11-18",
+    "source_note": "Sursock Museum collection page and talk listing"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.5232,
+     33.8868
+    ]
+   },
+   "properties": {
+    "id": "ACA",
+    "name": "Arab Center for Architecture",
+    "name_ar": "المركز العربي للعمارة",
+    "city": "Beirut",
+    "country": "Lebanon",
+    "coord_precision": "approx. building",
+    "pos": "RI",
+    "holder_position": "In region · independent / community",
+    "in_arab_world": true,
+    "inst": "architecture archive",
+    "media": "architecture drawing;photo;slide;document",
+    "start": 1930,
+    "end": 1980,
+    "depicts": "Lebanon;Iraq;Syria;Egypt",
+    "holdings": "Archives of modern Arab architects and engineers (e.g. Wassek Adib & Karol Schayer, Assem Salam, Farid Trad, Georges Doumani); online database of architects and buildings",
+    "online": "Database of architects/buildings; drawings onsite",
+    "online_est": null,
+    "access": "research centre / database",
+    "license": "© ACA",
+    "method": "Online database + research-centre visits; strong match for the studio-museum walkthrough (Idea 3)",
+    "url": "https://arab-architecture.org",
+    "sim": "3;2",
+    "notes": "",
+    "verified": "2026-11-18",
+    "source_note": "ACA collection & contact pages; Sharjah Architecture Triennial exhibitions"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.50806,
+     33.85833
+    ]
+   },
+   "properties": {
+    "id": "UMAM",
+    "name": "UMAM Documentation & Research",
+    "name_ar": "أمم للتوثيق والأبحاث",
+    "city": "Beirut (Haret Hreik)",
+    "country": "Lebanon",
+    "coord_precision": "building",
+    "pos": "RI",
+    "holder_position": "In region · independent / community",
+    "in_arab_world": true,
+    "inst": "private archive",
+    "media": "document;poster;video;press",
+    "start": 1840,
+    "end": 2026,
+    "depicts": "Lebanon",
+    "holdings": "Archive of Lebanon's civil violence and war memory: newspapers, leaflets, posters, videos, personal and official papers",
+    "online": "~80% of holdings listed in online inventory (2019)",
+    "online_est": null,
+    "access": "catalogue online; consult onsite",
+    "license": "© UMAM",
+    "method": "Search online inventory, then view documents at UMAM",
+    "url": "https://www.umam-dr.org",
+    "sim": "1",
+    "notes": "",
+    "verified": "2026-11-18",
+    "source_note": "UMAM online archive launch (2019) and organisational profile"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.667,
+     33.917
+    ]
+   },
+   "properties": {
+    "id": "AMAR",
+    "name": "AMAR Foundation for Arab Music Archiving & Research",
+    "name_ar": "مؤسسة التوثيق والبحث في الموسيقى العربية",
+    "city": "Qornet el-Hamra, Metn",
+    "country": "Lebanon",
+    "coord_precision": "approx. village",
+    "pos": "RI",
+    "holder_position": "In region · independent / community",
+    "in_arab_world": true,
+    "inst": "sound archive",
+    "media": "audio (78rpm, reel)",
+    "start": 1903,
+    "end": 1970,
+    "depicts": "Egypt;Syria;Lebanon;Iraq",
+    "holdings": "~7,000–10,000 78rpm records of the Nahda era (1903–1930s) and ~6,000 hours of reel recordings",
+    "online": "Podcast series (Rawdat al-Balabel) and streams",
+    "online_est": null,
+    "access": "selected audio online",
+    "license": "© AMAR",
+    "method": "Use as the sound layer: published podcast episodes / streams; request access for research",
+    "url": "https://www.amar-foundation.org",
+    "sim": "1;3",
+    "notes": "",
+    "verified": "2026-11-18",
+    "source_note": "AMAR About page; AFAC grantee profile"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.48,
+     33.9
+    ]
+   },
+   "properties": {
+    "id": "AUB",
+    "name": "AUB Libraries – Archives & Special Collections",
+    "name_ar": "مكتبات الجامعة الأميركية في بيروت",
+    "city": "Beirut",
+    "country": "Lebanon",
+    "coord_precision": "approx. campus",
+    "pos": "RS",
+    "holder_position": "In region · state or university",
+    "in_arab_world": true,
+    "inst": "university library",
+    "media": "photo;postcard;poster;manuscript;map",
+    "start": 1866,
+    "end": 2026,
+    "depicts": "Lebanon;Syria;Palestine;Egypt;Brazil (São Paulo)",
+    "holdings": "~100,000 photographs, 11,500 posters, 1,800 manuscripts, 2,000 maps; Isa Iskandar al-Ma'luf postcards (Lebanon, Palestine, Syria; diaspora in Latin America)",
+    "online": "Digital collections with per-item IIIF manifests",
+    "online_est": null,
+    "access": "open (educational use)",
+    "license": "Educational/scholarly use",
+    "method": "IIIF manifest on each item (libraries.aub.edu.lb/digital-collections) — best-structured Beirut source for code",
+    "url": "https://libraries.aub.edu.lb/digital-collections/",
+    "sim": "1;2;3",
+    "notes": "",
+    "verified": "2026-11-18",
+    "source_note": "AUB ASC holdings page; digital record showing IIIF manifest; EAP MENA hub page"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.5047,
+     33.8892
+    ]
+   },
+   "properties": {
+    "id": "IFPO",
+    "name": "Ifpo Photothèque (via MédiHAL)",
+    "name_ar": "المعهد الفرنسي للشرق الأدنى",
+    "city": "Beirut",
+    "country": "Lebanon",
+    "coord_precision": "city",
+    "pos": "OW",
+    "holder_position": "Outside · foreign institution",
+    "in_arab_world": true,
+    "inst": "research institute",
+    "media": "photo (archaeology, cities)",
+    "start": 1910,
+    "end": 1960,
+    "depicts": "Syria;Lebanon",
+    "holdings": "French Mandate–era archaeological and urban photographs (Palmyra, Damascus Azem Palace, Euphrates, Jebel Zawiye)",
+    "online": "Part of photothèque on MédiHAL; many mirrored on Wikimedia Commons",
+    "online_est": null,
+    "access": "open",
+    "license": "see each MédiHAL record",
+    "method": "MédiHAL records (media.hal.science); HAL search API; Commons mirror category 'MédiHAL'",
+    "url": "https://media.hal.science",
+    "sim": "1;2",
+    "notes": "Mandate-era gaze on Syria; strong for Syria layer",
+    "verified": "2026-11-18",
+    "source_note": "MédiHAL item records (1910–1960 dates); Commons mirror"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.18345,
+     31.96297
+    ]
+   },
+   "properties": {
+    "id": "PMDA",
+    "name": "Palestinian Museum Digital Archive",
+    "name_ar": "أرشيف المتحف الفلسطيني الرقمي",
+    "city": "Birzeit",
+    "country": "Palestine",
+    "coord_precision": "building",
+    "pos": "RI",
+    "holder_position": "In region · independent / community",
+    "in_arab_world": true,
+    "inst": "museum archive",
+    "media": "photo;document;letter;ID;film;audio",
+    "start": 1800,
+    "end": 2026,
+    "depicts": "Palestine;Lebanon;Jordan",
+    "holdings": "Family and institutional collections, digitised and returned to owners; 'history from below'",
+    "online": "363,574 digitised items, 419 collections (Mar 2025); +6,000 items released Aug 2025",
+    "online_est": 363574,
+    "access": "open (personal/educational, non-commercial)",
+    "license": "© museum / third parties",
+    "method": "Browse with DATE / TYPE / LOCATIONS facets (palarchive.org/index.php/Browse/objects)",
+    "url": "https://palarchive.org",
+    "sim": "1;2;3",
+    "notes": "",
+    "verified": "2026-11-18",
+    "source_note": "Museum figures Mar 2025; Aug 2025 release; palarchive.org About & FAQ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     54.4346,
+     24.5235
+    ]
+   },
+   "properties": {
+    "id": "AKKASAH",
+    "name": "Akkasah Photography Archive, NYU Abu Dhabi",
+    "name_ar": "عكّاسة",
+    "city": "Abu Dhabi",
+    "country": "UAE",
+    "coord_precision": "approx. campus",
+    "pos": "RS",
+    "holder_position": "In region · state or university",
+    "in_arab_world": true,
+    "inst": "university archive",
+    "media": "photo",
+    "start": 1890,
+    "end": 2017,
+    "depicts": "Egypt;Iraq;Palestine;Lebanon;Syria;Algeria;Tunisia;UAE;Kuwait;Bahrain;Saudi Arabia",
+    "holdings": "35,000+ images (family albums, studios, Egyptian cinema stills, Gulf contemporary series); 'digitise and return' partnerships",
+    "online": "~12,900 online (2023)",
+    "online_est": 12900,
+    "access": "open",
+    "license": "per collection",
+    "method": "NYU finding-aids portal image pages (findingaids.library.nyu.edu/akkasah/...)",
+    "url": "https://akkasah.org",
+    "sim": "1;2",
+    "notes": "",
+    "verified": "2026-11-18",
+    "source_note": "NYUAD release (Jul 2023): 35,000+ held, 12,900 online"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     54.4352,
+     24.524
+    ]
+   },
+   "properties": {
+    "id": "MAWRID",
+    "name": "al Mawrid Arab Art Archive, NYU Abu Dhabi",
+    "name_ar": "المورد – أرشيف الفن العربي",
+    "city": "Abu Dhabi",
+    "country": "UAE",
+    "coord_precision": "approx. campus",
+    "pos": "RS",
+    "holder_position": "In region · state or university",
+    "in_arab_world": true,
+    "inst": "art archive",
+    "media": "document;photo;press clipping;artwork image",
+    "start": 1850,
+    "end": 1995,
+    "depicts": "Egypt;Iraq;Syria;Jordan;UAE",
+    "holdings": "Artists' papers (Salah Taher, Mahmoud Hammad, Rafa Nasiri & May Muzaffar, Hanaa Malallah, Hussain Sharif, Ahmad Nawash)",
+    "online": "45,000+ scans (2025)",
+    "online_est": 45000,
+    "access": "open online; rest onsite",
+    "license": "rights stay with estates",
+    "method": "NYU archival collections portal (findingaids.library.nyu.edu/arabartarchive/...)",
+    "url": "https://nyuad.nyu.edu/almawrid",
+    "sim": "2",
+    "notes": "",
+    "verified": "2026-11-18",
+    "source_note": "NYUAD Feb/Mar 2025 release"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     54.3773,
+     24.4539
+    ]
+   },
+   "properties": {
+    "id": "AGDA",
+    "name": "Arabian Gulf Digital Archive (National Library & Archives UAE)",
+    "name_ar": "الأرشيف الرقمي للخليج العربي",
+    "city": "Abu Dhabi",
+    "country": "UAE",
+    "coord_precision": "city",
+    "pos": "RS",
+    "holder_position": "In region · state or university",
+    "in_arab_world": true,
+    "inst": "national archive (digital)",
+    "media": "document;photo;video",
+    "start": 1800,
+    "end": 2000,
+    "depicts": "UAE;Oman;Qatar;Bahrain;Kuwait;Saudi Arabia",
+    "holdings": "British government records on the Gulf, digitised from the UK National Archives; bilingual",
+    "online": "~250,000 records (launch)",
+    "online_est": 250000,
+    "access": "open, free download",
+    "license": "© NLA UAE (site)",
+    "method": "Search and download on agda.ae",
+    "url": "https://www.agda.ae",
+    "sim": "2",
+    "notes": "The Gulf seen through British administrative records, returned as digital copies",
+    "verified": "2026-11-18",
+    "source_note": "AGDA About; launch coverage (250,000 records)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     55.2708,
+     25.2048
+    ]
+   },
+   "properties": {
+    "id": "MASA",
+    "name": "Atassi Foundation – Modern Art of Syria Archive (MASA)",
+    "name_ar": "مؤسسة الأتاسي – أرشيف الفن السوري الحديث",
+    "city": "Dubai",
+    "country": "UAE",
+    "coord_precision": "city",
+    "pos": "EX",
+    "holder_position": "Exile · activist / born-digital",
+    "in_arab_world": true,
+    "inst": "foundation",
+    "media": "document;photo;artwork image",
+    "start": 1930,
+    "end": 2023,
+    "depicts": "Syria",
+    "holdings": "Syrian modern art archives (Atassi Gallery archive, Leila Nseir archive, e-library); Syrian family foundation based in Dubai since 2012",
+    "online": "Five archive collections on searchable platform",
+    "online_est": null,
+    "access": "open",
+    "license": "© Atassi Foundation",
+    "method": "masaarchive.org collection pages",
+    "url": "https://masaarchive.org/en/home/",
+    "sim": "2;3",
+    "notes": "",
+    "verified": "2026-11-18",
+    "source_note": "Atassi Foundation MASA pages; interview (five collections)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     55.37736,
+     25.32269
+    ]
+   },
+   "properties": {
+    "id": "BARJEEL",
+    "name": "Barjeel Art Foundation",
+    "name_ar": "مؤسسة بارجيل للفنون",
+    "city": "Sharjah",
+    "country": "UAE",
+    "coord_precision": "building",
+    "pos": "RI",
+    "holder_position": "In region · independent / community",
+    "in_arab_world": true,
+    "inst": "art foundation",
+    "media": "artwork image",
+    "start": 1900,
+    "end": 2025,
+    "depicts": "Egypt;Iraq;Syria;Lebanon;Palestine;Morocco;Algeria;Tunisia",
+    "holdings": "Modern and contemporary Arab art collection of Sultan Sooud Al Qassemi",
+    "online": "1,453 artworks in online collection",
+    "online_est": 1453,
+    "access": "open (view)",
+    "license": "© artists",
+    "method": "Collection pages on barjeelartfoundation.org",
+    "url": "https://www.barjeelartfoundation.org/collection/",
+    "sim": "2",
+    "notes": "",
+    "verified": "2026-11-18",
+    "source_note": "Barjeel online collection count"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     55.4209,
+     25.3463
+    ]
+   },
+   "properties": {
+    "id": "SAT",
+    "name": "Sharjah Architecture Triennial – Journeys into Architecture Archives",
+    "name_ar": "ترينالي الشارقة للعمارة",
+    "city": "Sharjah",
+    "country": "UAE",
+    "coord_precision": "city",
+    "pos": "RS",
+    "holder_position": "In region · state or university",
+    "in_arab_world": true,
+    "inst": "triennial / research room",
+    "media": "architecture drawing;model;document",
+    "start": 1930,
+    "end": 1980,
+    "depicts": "Lebanon;Egypt;Morocco;Iraq;Syria;Tunisia",
+    "holdings": "Collection Room: Beirut, Cairo, Rabat (2023) and Baghdad, Damascus, Tunis (2026), from private and institutional archives",
+    "online": "Planned permanent online resource",
+    "online_est": null,
+    "access": "exhibition; online resource planned",
+    "license": "per lender",
+    "method": "Follow sharjaharchitecture.org; contact for 2023 materials",
+    "url": "https://sharjaharchitecture.org",
+    "sim": "3",
+    "notes": "",
+    "verified": "2026-11-18",
+    "source_note": "e-flux announcements 2023 and 2026"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     51.4388,
+     25.3176
+    ]
+   },
+   "properties": {
+    "id": "QDL",
+    "name": "Qatar Digital Library",
+    "name_ar": "مكتبة قطر الرقمية",
+    "city": "Doha",
+    "country": "Qatar",
+    "coord_precision": "approx. building",
+    "pos": "RS",
+    "holder_position": "In region · state or university",
+    "in_arab_world": true,
+    "inst": "national library partnership",
+    "media": "document;map;manuscript;photo",
+    "start": 1600,
+    "end": 1950,
+    "depicts": "Qatar;Bahrain;Kuwait;Oman;UAE;Saudi Arabia;Iraq;Hejaz (Mecca)",
+    "holdings": "India Office Records on the Gulf and Arabic manuscripts from the British Library, with Qatar National Library",
+    "online": "500,000+ records",
+    "online_est": 500000,
+    "access": "open",
+    "license": "open (see item)",
+    "method": "IIIF manifests per item (downloadable by code)",
+    "url": "https://www.qdl.qa",
+    "sim": "2",
+    "notes": "",
+    "verified": "2026-11-18",
+    "source_note": "QDL description (500,000+ records); IIIF per proposal"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     29.9092,
+     31.2089
+    ]
+   },
+   "properties": {
+    "id": "BA",
+    "name": "Memory of Modern Egypt, Bibliotheca Alexandrina",
+    "name_ar": "ذاكرة مصر المعاصرة – مكتبة الإسكندرية",
+    "city": "Alexandria",
+    "country": "Egypt",
+    "coord_precision": "building",
+    "pos": "RS",
+    "holder_position": "In region · state or university",
+    "in_arab_world": true,
+    "inst": "national library (digital)",
+    "media": "photo;document;press;audio;video;coin;stamp",
+    "start": 1805,
+    "end": 1981,
+    "depicts": "Egypt",
+    "holdings": "Digital archive of modern Egypt with timeline 1805–1981; sister archives for Nasser, Sadat and the Suez Canal",
+    "online": "~11,000 documents + 20,000+ photographs (at launch)",
+    "online_est": 31000,
+    "access": "open",
+    "license": "© BA",
+    "method": "Timeline + topic browsing on modernegypt.bibalex.org",
+    "url": "http://modernegypt.bibalex.org",
+    "sim": "1;2",
+    "notes": "",
+    "verified": "2026-11-18",
+    "source_note": "BA project descriptions; launch counts"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     31.4996,
+     30.0196
+    ]
+   },
+   "properties": {
+    "id": "AUC",
+    "name": "AUC Rare Books & Special Collections Library",
+    "name_ar": "مكتبة الكتب النادرة – الجامعة الأمريكية بالقاهرة",
+    "city": "New Cairo",
+    "country": "Egypt",
+    "coord_precision": "approx. campus",
+    "pos": "RS",
+    "holder_position": "In region · state or university",
+    "in_arab_world": true,
+    "inst": "university library",
+    "media": "architecture drawing;photo;document",
+    "start": 1850,
+    "end": 2000,
+    "depicts": "Egypt",
+    "holdings": "Regional Architecture Collections (Hassan Fathy, Ramses Wissa Wassef), K.A.C. Creswell photographs, Nubia survey images",
+    "online": "RBSCL Digital Library (permission needed for reuse)",
+    "online_est": null,
+    "access": "online view; permission to reuse",
+    "license": "© AUC",
+    "method": "RBSCL Digital Library search",
+    "url": "https://library.aucegypt.edu/libraries/rbscl",
+    "sim": "3;2",
+    "notes": "",
+    "verified": "2026-11-18",
+    "source_note": "AUC RBSCL photographs & architecture pages"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     31.2357,
+     30.0444
+    ]
+   },
+   "properties": {
+    "id": "858",
+    "name": "858: An Archive of Resistance (Mosireen)",
+    "name_ar": "٨٥٨: أرشيف ثوري – مصرين",
+    "city": "Cairo",
+    "country": "Egypt",
+    "coord_precision": "city",
+    "pos": "EX",
+    "holder_position": "Exile · activist / born-digital",
+    "in_arab_world": true,
+    "inst": "activist collective",
+    "media": "video;photo;document",
+    "start": 2011,
+    "end": 2013,
+    "depicts": "Egypt",
+    "holdings": "858 hours of indexed, time-stamped citizen video of the 2011 revolution (at launch, 2018)",
+    "online": "858+ hours",
+    "online_est": null,
+    "access": "open",
+    "license": "Creative Commons (Mosireen films)",
+    "method": "Browse 858.ma; contains graphic violence — handle with care",
+    "url": "https://858.ma",
+    "sim": "1",
+    "notes": "",
+    "verified": "2026-11-18",
+    "source_note": "Mosireen 'What is 858'; launch coverage"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.3522,
+     48.8566
+    ]
+   },
+   "properties": {
+    "id": "CMSR",
+    "name": "Creative Memory of the Syrian Revolution",
+    "name_ar": "الذاكرة الإبداعية للثورة السورية",
+    "city": "Paris (founded Beirut 2013)",
+    "country": "France",
+    "coord_precision": "city",
+    "pos": "EX",
+    "holder_position": "Exile · activist / born-digital",
+    "in_arab_world": false,
+    "inst": "independent archive",
+    "media": "poster;graffiti;cartoon;photo;video;song",
+    "start": 2011,
+    "end": 2026,
+    "depicts": "Syria",
+    "holdings": "Artistic and cultural expressions of the Syrian uprising, trilingual; includes a MAP linking items to places in Syria",
+    "online": "~37,800 documents (~13,000 items)",
+    "online_est": 37800,
+    "access": "open",
+    "license": "© authors",
+    "method": "creativememory.org; its MAP gives item–location links (ready-made spatial data)",
+    "url": "https://creativememory.org",
+    "sim": "1;2",
+    "notes": "",
+    "verified": "2026-11-18",
+    "source_note": "Sites of Conscience profile; Majalla figures; MEE on MAP feature"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.405,
+     52.52
+    ]
+   },
+   "properties": {
+    "id": "SYARCH",
+    "name": "Syrian Archive (Mnemonic)",
+    "name_ar": "الأرشيف السوري",
+    "city": "Berlin",
+    "country": "Germany",
+    "coord_precision": "city",
+    "pos": "EX",
+    "holder_position": "Exile · activist / born-digital",
+    "in_arab_world": false,
+    "inst": "human-rights archive",
+    "media": "video;photo;document",
+    "start": 2011,
+    "end": 2026,
+    "depicts": "Syria;Yemen;Sudan",
+    "holdings": "Verified digital documentation of the Syrian conflict; sister Yemeni and Sudanese archives",
+    "online": "5.2 million+ items collected (not all public)",
+    "online_est": 5200000,
+    "access": "partly public",
+    "license": "restricted / per item",
+    "method": "Public investigations & databases on syrianarchive.org; graphic content — ethics review before use",
+    "url": "https://syrianarchive.org",
+    "sim": "1",
+    "notes": "",
+    "verified": "2026-11-18",
+    "source_note": "Syria Direct (5.2M items); Mnemonic descriptions"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.3963,
+     52.5212
+    ]
+   },
+   "properties": {
+    "id": "SHAP",
+    "name": "Syrian Heritage Archive Project (Museum für Islamische Kunst + DAI)",
+    "name_ar": "مشروع أرشيف التراث السوري",
+    "city": "Berlin",
+    "country": "Germany",
+    "coord_precision": "building",
+    "pos": "OW",
+    "holder_position": "Outside · foreign institution",
+    "in_arab_world": false,
+    "inst": "museum + archaeological institute",
+    "media": "photo;plan;document",
+    "start": 1900,
+    "end": 2017,
+    "depicts": "Syria",
+    "holdings": "Photographs and plans of Syrian sites from 80+ collectors; 4,000+ new places added to iDAI.gazetteer",
+    "online": "270,000+ items received; excerpt online",
+    "online_est": 270000,
+    "access": "excerpt open; database via DAI",
+    "license": "per collection",
+    "method": "iDAI.objects/Arachne images + iDAI.gazetteer place IDs — use the gazetteer alongside al-Thurayyā to match Syrian place names",
+    "url": "https://syrian-heritage.org/shap",
+    "sim": "1;2;3",
+    "notes": "Critiqued for keeping data and categorisation in Germany",
+    "verified": "2026-11-18",
+    "source_note": "SHAP history page (270,000 items, 4,000 places); DAI project page"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.2577,
+     51.752
+    ]
+   },
+   "properties": {
+    "id": "MANAR",
+    "name": "Manar al-Athar Photo Archive, University of Oxford",
+    "name_ar": "منار الآثار",
+    "city": "Oxford",
+    "country": "United Kingdom",
+    "coord_precision": "city",
+    "pos": "OW",
+    "holder_position": "Outside · foreign institution",
+    "in_arab_world": false,
+    "inst": "university photo archive",
+    "media": "photo (sites, monuments)",
+    "start": 1960,
+    "end": 2020,
+    "depicts": "Syria;Palestine;Jordan;Lebanon;Egypt;Libya;Iraq",
+    "holdings": "Researcher photographs of archaeological sites and buildings, labelled in Arabic and English",
+    "online": "~70,000 images",
+    "online_est": 70000,
+    "access": "open; free for academic use with credit",
+    "license": "free academic use",
+    "method": "High-res downloads; organised by site (geographic sets)",
+    "url": "https://www.manar-al-athar.ox.ac.uk",
+    "sim": "1;2",
+    "notes": "",
+    "verified": "2026-11-18",
+    "source_note": "Oxford pages; HIA resource listing (~70,000)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.2622,
+     51.7627
+    ]
+   },
+   "properties": {
+    "id": "MECA",
+    "name": "Middle East Centre Archive, St Antony's College",
+    "name_ar": "أرشيف مركز الشرق الأوسط – أكسفورد",
+    "city": "Oxford",
+    "country": "United Kingdom",
+    "coord_precision": "building",
+    "pos": "OW",
+    "holder_position": "Outside · foreign institution",
+    "in_arab_world": false,
+    "inst": "college archive",
+    "media": "photo;papers",
+    "start": 1850,
+    "end": 1979,
+    "depicts": "Palestine;Iraq;Syria;Lebanon;Egypt;Oman;Jordan",
+    "holdings": "Papers of 500+ officials, soldiers, missionaries and travellers; 80,000+ photographs of the Middle East (1850s–1970s)",
+    "online": "Guides/handlists online; images onsite",
+    "online_est": null,
+    "access": "by appointment",
+    "license": "© MECA",
+    "method": "Download collection guides (e.g. Israel/Palestine guide); visit to photograph",
+    "url": "https://www.sant.ox.ac.uk/research-centres/middle-east-centre-archive",
+    "sim": "1;2",
+    "notes": "Colonial administrators' gaze",
+    "verified": "2026-11-18",
+    "source_note": "MECA donor leaflet (80,000+ images)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.1277,
+     51.5299
+    ]
+   },
+   "properties": {
+    "id": "BL",
+    "name": "British Library (India Office Records; Endangered Archives Programme)",
+    "name_ar": "المكتبة البريطانية",
+    "city": "London",
+    "country": "United Kingdom",
+    "coord_precision": "building",
+    "pos": "OW",
+    "holder_position": "Outside · foreign institution",
+    "in_arab_world": false,
+    "inst": "national library",
+    "media": "document;manuscript;photo;map",
+    "start": 1600,
+    "end": 1950,
+    "depicts": "Qatar;Bahrain;Kuwait;Oman;Tunisia;Palestine;Lebanon",
+    "holdings": "Holder of the Gulf records digitised for QDL; EAP funds digitisation of at-risk archives worldwide (e.g. Djerba manuscript libraries, BSAJ Jerusalem archive)",
+    "online": "EAP: millions of images worldwide (Arab subset smaller)",
+    "online_est": null,
+    "access": "open (EAP)",
+    "license": "per project",
+    "method": "eap.bl.uk project pages; AUB is the EAP regional hub for MENA",
+    "url": "https://eap.bl.uk",
+    "sim": "2",
+    "notes": "",
+    "verified": "2026-11-18",
+    "source_note": "EAP site, annual report; AUB EAP hub page; Culture in Crisis project pages"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.2797,
+     51.481
+    ]
+   },
+   "properties": {
+    "id": "KEW",
+    "name": "The National Archives (UK), Kew",
+    "name_ar": "الأرشيف الوطني البريطاني",
+    "city": "London (Kew)",
+    "country": "United Kingdom",
+    "coord_precision": "building",
+    "pos": "OW",
+    "holder_position": "Outside · foreign institution",
+    "in_arab_world": false,
+    "inst": "national archive",
+    "media": "document",
+    "start": 1800,
+    "end": 1990,
+    "depicts": "UAE;Oman;Qatar;Bahrain",
+    "holdings": "Source of the British records digitised for the Arabian Gulf Digital Archive",
+    "online": "Via AGDA",
+    "online_est": null,
+    "access": "via AGDA",
+    "license": "Crown copyright / AGDA",
+    "method": "Use AGDA for the digitised Gulf files",
+    "url": "https://www.nationalarchives.gov.uk",
+    "sim": "2",
+    "notes": "",
+    "verified": "2026-11-18",
+    "source_note": "AGDA: UK–UAE collaboration"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.228,
+     48.842
+    ]
+   },
+   "properties": {
+    "id": "KAHN",
+    "name": "Musée départemental Albert-Kahn – Archives of the Planet",
+    "name_ar": "أرشيف الكوكب – متحف ألبير كان",
+    "city": "Boulogne-Billancourt",
+    "country": "France",
+    "coord_precision": "approx. building",
+    "pos": "OW",
+    "holder_position": "Outside · foreign institution",
+    "in_arab_world": false,
+    "inst": "museum",
+    "media": "autochrome (early colour photo);film",
+    "start": 1909,
+    "end": 1931,
+    "depicts": "Lebanon;Syria;Palestine;Morocco;Algeria;Tunisia;Egypt",
+    "holdings": "72,000 autochromes and ~100 hours of film from ~50 countries, incl. French Mandate Lebanon/Syria and Morocco",
+    "online": "All 72,000 autochromes online since 2019 (global count)",
+    "online_est": 72000,
+    "access": "open",
+    "license": "open data (Hauts-de-Seine)",
+    "method": "Open-data portal datasets (opendata.hauts-de-seine.fr / data.gouv.fr) with metadata + image links",
+    "url": "https://collections.albert-kahn.hauts-de-seine.fr",
+    "sim": "1;2",
+    "notes": "Earliest colour images of the region; a 'world archive' gaze",
+    "verified": "2026-11-18",
+    "source_note": "Open data portals; museum release coverage"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.497,
+     52.1601
+    ]
+   },
+   "properties": {
+    "id": "LEIDEN",
+    "name": "Leiden University Libraries – Middle Eastern Collections",
+    "name_ar": "مكتبات جامعة لايدن",
+    "city": "Leiden",
+    "country": "Netherlands",
+    "coord_precision": "city",
+    "pos": "OW",
+    "holder_position": "Outside · foreign institution",
+    "in_arab_world": false,
+    "inst": "university library",
+    "media": "photo;papers;manuscript",
+    "start": 1850,
+    "end": 1940,
+    "depicts": "Hejaz (Mecca);Saudi Arabia",
+    "holdings": "Snouck Hurgronje papers and photographs of Mecca and Jeddah (1884–85), incl. work of Meccan photographer 'Abd al-Ghaffar",
+    "online": "2,000+ Middle Eastern objects online (2021); Snouck papers largely viewable",
+    "online_est": 2000,
+    "access": "open (some restricted)",
+    "license": "per item",
+    "method": "digitalcollections.universiteitleiden.nl (check item pages for IIIF)",
+    "url": "https://digitalcollections.universiteitleiden.nl",
+    "sim": "1;2",
+    "notes": "A local photographer's work filed under a European scholar's name",
+    "verified": "2026-11-18",
+    "source_note": "Leiden library news 2021, 2024; QDL article on 'Abd al-Ghaffar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.9747,
+     41.0236
+    ]
+   },
+   "properties": {
+    "id": "SALT",
+    "name": "SALT Research",
+    "name_ar": "سالت للأبحاث",
+    "city": "Istanbul",
+    "country": "Türkiye",
+    "coord_precision": "building",
+    "pos": "OW",
+    "holder_position": "Outside · foreign institution",
+    "in_arab_world": false,
+    "inst": "research library & archive",
+    "media": "photo;postcard;plan;map",
+    "start": 1850,
+    "end": 2000,
+    "depicts": "Lebanon;Syria;Palestine;Iraq;Ottoman centre (Istanbul)",
+    "holdings": "Ottoman Bank archive, Photograph & Postcard Archive with city sets incl. Beirut, Latakia, Baalbek, Hejaz Railway (Haifa line)",
+    "online": "Large open repository (e.g. 8,730 items in one photo set)",
+    "online_est": null,
+    "access": "open; free for individual research",
+    "license": "free for research",
+    "method": "DSpace repository (archives.saltresearch.org/handle/...); browse by city",
+    "url": "https://archives.saltresearch.org",
+    "sim": "1;2",
+    "notes": "The Arab provinces seen from the imperial centre",
+    "verified": "2026-11-18",
+    "source_note": "SALT archive pages (Beirut set; rights statement)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.0047,
+     38.8887
+    ]
+   },
+   "properties": {
+    "id": "MATSON",
+    "name": "Library of Congress – Matson (American Colony) Photograph Collection",
+    "name_ar": "مكتبة الكونغرس – مجموعة ماتسون",
+    "city": "Washington, DC",
+    "country": "USA",
+    "coord_precision": "building",
+    "pos": "OW",
+    "holder_position": "Outside · foreign institution",
+    "in_arab_world": false,
+    "inst": "national library",
+    "media": "photo (glass/film negatives)",
+    "start": 1898,
+    "end": 1946,
+    "depicts": "Palestine;Jordan;Lebanon;Syria;Egypt;Iraq",
+    "holdings": "23,000+ negatives, transparencies and prints by the American Colony Photo Dept / Matson Photo Service",
+    "online": "13,700+ negatives online; no known restrictions",
+    "online_est": 13700,
+    "access": "open",
+    "license": "no known restrictions",
+    "method": "loc.gov JSON API: add ?fo=json to the collection URL; master TIFFs on tile.loc.gov",
+    "url": "https://www.loc.gov/collections/g-eric-and-edith-matson-photographs/",
+    "sim": "1;2;3",
+    "notes": "Outside photographers in Jerusalem",
+    "verified": "2026-11-18",
+    "source_note": "LoC collection pages (23,000+; 13,700+ online)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.4741,
+     34.078
+    ]
+   },
+   "properties": {
+    "id": "GETTY",
+    "name": "Getty Research Institute – Gigord & Jacobson collections",
+    "name_ar": "معهد غيتي للأبحاث",
+    "city": "Los Angeles",
+    "country": "USA",
+    "coord_precision": "building",
+    "pos": "OW",
+    "holder_position": "Outside · foreign institution",
+    "in_arab_world": false,
+    "inst": "research institute",
+    "media": "photo;lantern slide;album",
+    "start": 1850,
+    "end": 1958,
+    "depicts": "Ottoman centre (Istanbul);Lebanon;Syria;Egypt;Palestine",
+    "holdings": "Pierre de Gigord collection (6,000+ Ottoman-era photographs, digitised); Jacobson collection (4,500+ MENA photographs 1850–1920)",
+    "online": "6,000+ digitised (Gigord)",
+    "online_est": 6000,
+    "access": "open (Open Content)",
+    "license": "Getty Open Content",
+    "method": "GRI catalogue records / Gigord finding aid (OAC) with free downloads",
+    "url": "https://www.getty.edu/research/",
+    "sim": "1;2",
+    "notes": "",
+    "verified": "2026-11-18",
+    "source_note": "Getty Iris post (2018); OAC finding aid"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.0942,
+     42.3601
+    ]
+   },
+   "properties": {
+    "id": "AKDC",
+    "name": "Aga Khan Documentation Center at MIT / Archnet",
+    "name_ar": "مركز آغا خان للتوثيق – MIT",
+    "city": "Cambridge, MA",
+    "country": "USA",
+    "coord_precision": "campus",
+    "pos": "OW",
+    "holder_position": "Outside · foreign institution",
+    "in_arab_world": false,
+    "inst": "university documentation centre",
+    "media": "photo;negative;architecture drawing",
+    "start": 1920,
+    "end": 1980,
+    "depicts": "Iraq;Syria",
+    "holdings": "Kamil & Rifat Chadirji Photographic Archive (~100,000 negatives/images, mostly Iraq), Rifat Chadirji architecture archive; Aleppo heritage materials",
+    "online": "Selection on Archnet",
+    "online_est": null,
+    "access": "selection open; archive on request",
+    "license": "© AKDC",
+    "method": "archnet.org collections (e.g. /collections/17)",
+    "url": "https://archnet.org/collections/17",
+    "sim": "2;3",
+    "notes": "Moved from the Arab Image Foundation (on loan) to MIT",
+    "verified": "2026-11-18",
+    "source_note": "MIT AKDC announcement; Archnet collection page; HIA listing"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9632,
+     40.7794
+    ]
+   },
+   "properties": {
+    "id": "MET",
+    "name": "The Metropolitan Museum of Art – Open Access",
+    "name_ar": "متحف المتروبوليتان",
+    "city": "New York",
+    "country": "USA",
+    "coord_precision": "building",
+    "pos": "OW",
+    "holder_position": "Outside · foreign institution",
+    "in_arab_world": false,
+    "inst": "museum",
+    "media": "object;artwork image;photo",
+    "start": 600,
+    "end": 1900,
+    "depicts": "Egypt;Syria;Iraq;Morocco;Hejaz (Mecca)",
+    "holdings": "Islamic Art department objects among 492,000+ works; public-domain images CC0",
+    "online": "406,000+ open images (whole museum)",
+    "online_est": 406000,
+    "access": "open API, no key",
+    "license": "CC0",
+    "method": "collectionapi.metmuseum.org/public/collection/v1/search?q=...&hasImages=true&departmentId=14",
+    "url": "https://metmuseum.github.io",
+    "sim": "2;3",
+    "notes": "Objects, not photographs — good for 3D/object layer",
+    "verified": "2026-11-18",
+    "source_note": "Met Open Access & API docs"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9822,
+     40.7532
+    ]
+   },
+   "properties": {
+    "id": "NYPL",
+    "name": "New York Public Library – Digital Collections",
+    "name_ar": "مكتبة نيويورك العامة",
+    "city": "New York",
+    "country": "USA",
+    "coord_precision": "building",
+    "pos": "OW",
+    "holder_position": "Outside · foreign institution",
+    "in_arab_world": false,
+    "inst": "public library",
+    "media": "photo;print;scrapbook",
+    "start": 1880,
+    "end": 1940,
+    "depicts": "Little Syria, New York;Hejaz (Mecca)",
+    "holdings": "Little Syria views (Washington St, Percy Loomis Sperr 1929; scrapbooks), Snouck Hurgronje 'Bilder aus Mekka' plates",
+    "online": "Item-level digital collections",
+    "online_est": null,
+    "access": "open",
+    "license": "per item (many public domain)",
+    "method": "NYPL Digital Collections API (free token) or item pages",
+    "url": "https://digitalcollections.nypl.org",
+    "sim": "2;3",
+    "notes": "",
+    "verified": "2026-11-18",
+    "source_note": "NYPL items & 'Remembering Manhattan's Little Syria' blog"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9519,
+     40.7925
+    ]
+   },
+   "properties": {
+    "id": "MCNY",
+    "name": "Museum of the City of New York",
+    "name_ar": "متحف مدينة نيويورك",
+    "city": "New York",
+    "country": "USA",
+    "coord_precision": "building",
+    "pos": "OW",
+    "holder_position": "Outside · foreign institution",
+    "in_arab_world": false,
+    "inst": "museum",
+    "media": "photo",
+    "start": 1880,
+    "end": 1950,
+    "depicts": "Little Syria, New York",
+    "holdings": "Berenice Abbott 'Changing New York' (Lebanon Restaurant, 90 Washington St, 1936); Mapping NYC geolocated posts",
+    "online": "Collections portal; Mapping NYC",
+    "online_est": null,
+    "access": "open (view)",
+    "license": "© MCNY",
+    "method": "Mapping NYC already places photos on the street grid",
+    "url": "https://mappingnyc.mcny.org",
+    "sim": "2;3",
+    "notes": "",
+    "verified": "2026-11-18",
+    "source_note": "MCNY Mapping NYC post"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.01389,
+     40.70806
+    ]
+   },
+   "properties": {
+    "id": "WSHS",
+    "name": "Washington Street Historical Society (Little Syria)",
+    "name_ar": "جمعية شارع واشنطن التاريخية",
+    "city": "New York (Lower Manhattan)",
+    "country": "USA",
+    "coord_precision": "neighbourhood",
+    "pos": "DI",
+    "holder_position": "Diaspora · community or museum",
+    "in_arab_world": false,
+    "inst": "community historical society",
+    "media": "photo;document;oral history",
+    "start": 1880,
+    "end": 1946,
+    "depicts": "Little Syria, New York;Lebanon;Syria",
+    "holdings": "Community memory of Little Syria (St George's church, Downtown Community House, 109 Washington St)",
+    "online": "Online themes/exhibit",
+    "online_est": null,
+    "access": "open",
+    "license": "© WSHS",
+    "method": "Use as the seed node of the network (your Little Syria archive)",
+    "url": "https://www.nypl.org/blog/2015/11/19/manhattans-little-syria",
+    "sim": "1;2;3",
+    "notes": "",
+    "verified": "2026-11-18",
+    "source_note": "NYPL blog; Hyperallergic; Tribeca Trib"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -83.1763,
+     42.3223
+    ]
+   },
+   "properties": {
+    "id": "AANM",
+    "name": "Arab American National Museum",
+    "name_ar": "المتحف الوطني العربي الأمريكي",
+    "city": "Dearborn, MI",
+    "country": "USA",
+    "coord_precision": "building",
+    "pos": "DI",
+    "holder_position": "Diaspora · community or museum",
+    "in_arab_world": false,
+    "inst": "museum",
+    "media": "photo;document;object;oral history",
+    "start": 1880,
+    "end": 2026,
+    "depicts": "Little Syria, New York;Lebanon;Syria;Palestine;Iraq;Yemen",
+    "holdings": "Arab American collections (Evelyn Shakir, Naff copies); produced 'Little Syria, NY 1880–1940' exhibition",
+    "online": "PastPerfect online database; 1,510 items on Michigan Memories",
+    "online_est": 1510,
+    "access": "open",
+    "license": "© AANM",
+    "method": "arabamerican.pastperfectonline.com keyword search (images-only filter)",
+    "url": "https://arabamerican.pastperfectonline.com",
+    "sim": "2;3",
+    "notes": "",
+    "verified": "2026-11-18",
+    "source_note": "AANM PastPerfect; Michigan Memories; NYC Municipal Archives exhibit page"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -78.6821,
+     35.7847
+    ]
+   },
+   "properties": {
+    "id": "KCLDS",
+    "name": "Khayrallah Center – Nassour Archive of Lebanese Diaspora (NC State)",
+    "name_ar": "مركز خيرالله لدراسات الانتشار اللبناني",
+    "city": "Raleigh, NC",
+    "country": "USA",
+    "coord_precision": "campus",
+    "pos": "DI",
+    "holder_position": "Diaspora · community or museum",
+    "in_arab_world": false,
+    "inst": "university research centre",
+    "media": "letter;photo;periodical;oral history",
+    "start": 1880,
+    "end": 2020,
+    "depicts": "Lebanon;Brazil (São Paulo);Mexico",
+    "holdings": "Family papers and letters (e.g. Kmeid-Ellis letters 1925–1980), The Syrian World (1926–35), photographs",
+    "online": "Omeka digital archive",
+    "online_est": null,
+    "access": "open (non-commercial)",
+    "license": "educational use",
+    "method": "Omeka site (lebanesestudies.omeka.chass.ncsu.edu); try /api/items if enabled",
+    "url": "https://lebanesestudies.ncsu.edu",
+    "sim": "2",
+    "notes": "",
+    "verified": "2026-11-18",
+    "source_note": "Khayrallah Center pages; NCSU finding aids"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.03,
+     38.8913
+    ]
+   },
+   "properties": {
+    "id": "NMAH",
+    "name": "Smithsonian NMAH Archives Center – Faris & Yamna Naff Arab American Collection",
+    "name_ar": "مجموعة نَف العربية الأمريكية – سميثسونيان",
+    "city": "Washington, DC",
+    "country": "USA",
+    "coord_precision": "building",
+    "pos": "OW",
+    "holder_position": "Outside · foreign institution",
+    "in_arab_world": false,
+    "inst": "national museum archive",
+    "media": "audio;document;photo",
+    "start": 1880,
+    "end": 1985,
+    "depicts": "Lebanon;Syria;Arab America (Dearborn)",
+    "holdings": "Alixa Naff's early Arab American immigration collection; 75 digitised oral-history audio files + interview notes",
+    "online": "75 audio files + 30 PDFs online",
+    "online_est": 105,
+    "access": "open",
+    "license": "per item",
+    "method": "Smithsonian collections search (si.edu/object/archives/sova-nmah-ac-0078)",
+    "url": "https://www.si.edu/object/archives/sova-nmah-ac-0078",
+    "sim": "1;2",
+    "notes": "",
+    "verified": "2026-11-18",
+    "source_note": "SOVA record NMAH.AC.0078"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -76.9579,
+     38.9989
+    ]
+   },
+   "properties": {
+    "id": "IJA",
+    "name": "Iraqi Jewish Archive (US National Archives)",
+    "name_ar": "الأرشيف اليهودي العراقي",
+    "city": "College Park, MD",
+    "country": "USA",
+    "coord_precision": "building",
+    "pos": "OW",
+    "holder_position": "Outside · foreign institution",
+    "in_arab_world": false,
+    "inst": "national archive (temporary custody)",
+    "media": "book;document",
+    "start": 1540,
+    "end": 1975,
+    "depicts": "Iraq",
+    "holdings": "~2,700 books and tens of thousands of documents of Iraq's Jewish community, recovered in Baghdad in 2003",
+    "online": "Fully digitised (ijarchive.org)",
+    "online_est": 2700,
+    "access": "open",
+    "license": "per item",
+    "method": "ijarchive.org item PDFs and images",
+    "url": "https://ijarchive.org",
+    "sim": "2",
+    "notes": "Custody disputed between US, Iraq and community claims",
+    "verified": "2026-11-18",
+    "source_note": "NARA pages; Wikipedia summary of custody"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.3926,
+     45.5938
+    ]
+   },
+   "properties": {
+    "id": "HMML",
+    "name": "Hill Museum & Manuscript Library – vHMML Reading Room",
+    "name_ar": "مكتبة هيل للمخطوطات",
+    "city": "Collegeville, MN",
+    "country": "USA",
+    "coord_precision": "campus",
+    "pos": "OW",
+    "holder_position": "Outside · foreign institution",
+    "in_arab_world": false,
+    "inst": "manuscript library",
+    "media": "manuscript",
+    "start": 900,
+    "end": 1950,
+    "depicts": "Iraq;Syria",
+    "holdings": "Syriac, Arabic and Garshuni manuscripts from churches and private libraries in Iraq (Mosul, Qaraqosh, Duhok, Alqosh), digitised with CNMO Erbil",
+    "online": "Item records with IIIF (some need registration)",
+    "online_est": null,
+    "access": "open / registered",
+    "license": "per partner",
+    "method": "vhmml.org/readingRoom IIIF manifests",
+    "url": "https://www.vhmml.org/readingRoom/",
+    "sim": "2",
+    "notes": "",
+    "verified": "2026-11-18",
+    "source_note": "vHMML records; HMML repository pages"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.3698,
+     29.7604
+    ]
+   },
+   "properties": {
+    "id": "ARAMCO",
+    "name": "AramcoWorld Photo Archive",
+    "name_ar": "أرشيف صور أرامكو وورلد",
+    "city": "Houston, TX",
+    "country": "USA",
+    "coord_precision": "city",
+    "pos": "OW",
+    "holder_position": "Outside · foreign institution",
+    "in_arab_world": false,
+    "inst": "corporate magazine archive",
+    "media": "photo",
+    "start": 1964,
+    "end": 2026,
+    "depicts": "Saudi Arabia;Egypt;Morocco;Syria;Yemen;Oman",
+    "holdings": "Published and unpublished images from AramcoWorld stories plus historical collections",
+    "online": "50,000+ images (registration)",
+    "online_est": 50000,
+    "access": "free with permission",
+    "license": "permission required (no fee)",
+    "method": "Register, search, request use per image",
+    "url": "https://www.aramcoworld.com/resources/photo-archive",
+    "sim": "1",
+    "notes": "Oil-company public-relations gaze",
+    "verified": "2026-11-18",
+    "source_note": "AramcoWorld photo archive & terms pages"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.0723,
+     38.9076
+    ]
+   },
+   "properties": {
+    "id": "PPPA",
+    "name": "Palestine Poster Project Archives",
+    "name_ar": "أرشيف مشروع الملصق الفلسطيني",
+    "city": "Washington, DC (project base)",
+    "country": "USA",
+    "coord_precision": "approx. city",
+    "pos": "DI",
+    "holder_position": "Diaspora · community or museum",
+    "in_arab_world": false,
+    "inst": "independent poster archive",
+    "media": "poster",
+    "start": 1900,
+    "end": 2026,
+    "depicts": "Palestine",
+    "holdings": "11,500+ Palestine posters; Liberation Graphics subset nominated to UNESCO Memory of the World",
+    "online": "11,500+ posters",
+    "online_est": 11500,
+    "access": "open",
+    "license": "per poster",
+    "method": "Browse palestineposterproject.org",
+    "url": "https://www.palestineposterproject.org",
+    "sim": "1;2",
+    "notes": "",
+    "verified": "2026-11-18",
+    "source_note": "McGill Islamic Studies Library guide"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -46.611,
+     -23.5475
+    ]
+   },
+   "properties": {
+    "id": "MI-SP",
+    "name": "Museu da Imigração do Estado de São Paulo",
+    "name_ar": "متحف الهجرة – ساو باولو",
+    "city": "São Paulo",
+    "country": "Brazil",
+    "coord_precision": "approx. building",
+    "pos": "DI",
+    "holder_position": "Diaspora · community or museum",
+    "in_arab_world": false,
+    "inst": "state museum",
+    "media": "register;ship list;photo;newspaper",
+    "start": 1882,
+    "end": 1973,
+    "depicts": "Brazil (São Paulo);Lebanon;Syria",
+    "holdings": "Immigrant hostel registers (1882–1958), ship lists for Santos (1888–1973); immigrant newspapers incl. Arabic press",
+    "online": "250,000+ digitised images",
+    "online_est": 250000,
+    "access": "open",
+    "license": "per item",
+    "method": "Acervo Digital search by name/ship (transcribed)",
+    "url": "https://museudaimigracao.org.br",
+    "sim": "2",
+    "notes": "Many Syrians/Lebanese bypassed the hostel, so they are under-recorded here",
+    "verified": "2026-11-18",
+    "source_note": "Museum e-book & CPPR guide (2026); UFRGS note (250k images)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.2765,
+     33.5138
+    ]
+   },
+   "properties": {
+    "id": "CHD",
+    "name": "Centre for Historical Documents, Damascus",
+    "name_ar": "مركز الوثائق التاريخية – دمشق",
+    "city": "Damascus",
+    "country": "Syria",
+    "coord_precision": "city",
+    "pos": "RS",
+    "holder_position": "In region · state or university",
+    "in_arab_world": true,
+    "inst": "state archive",
+    "media": "court register;manuscript;photo;gazette",
+    "start": 1550,
+    "end": 2026,
+    "depicts": "Syria",
+    "holdings": "Ottoman sharia-court registers of Damascus, Aleppo, Hama and Homs (~2,500 registers), official gazette from 1919, photographs, family genealogies",
+    "online": "Not online; onsite only (access disrupted since 2011)",
+    "online_est": null,
+    "access": "onsite only",
+    "license": "state",
+    "method": "No digital access found — mark as a 'dark' node: known holdings, no images to extract",
+    "url": "",
+    "sim": "1",
+    "notes": "Researchers have called post-2024 Syria 'a state without an archive'; part of its Ottoman documents went to Istanbul in the early 20th c.",
+    "verified": "2026-11-18",
+    "source_note": "Enab Baladi 2023 (holdings); Harvard 'Archived Traces'; TIEM Damascus Documents studies"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     44.3845,
+     33.3464
+    ]
+   },
+   "properties": {
+    "id": "INLA",
+    "name": "Iraq National Library and Archive",
+    "name_ar": "دار الكتب والوثائق العراقية",
+    "city": "Baghdad",
+    "country": "Iraq",
+    "coord_precision": "building",
+    "pos": "RS",
+    "holder_position": "In region · state or university",
+    "in_arab_world": true,
+    "inst": "national library & archive",
+    "media": "document;book;manuscript",
+    "start": 1920,
+    "end": 2026,
+    "depicts": "Iraq",
+    "holdings": "National library and archives; lost ~25% of books and ~60% of archives in the 2003 fire and looting; digitising since",
+    "online": "Digitisation ongoing; little public online access found",
+    "online_est": null,
+    "access": "onsite",
+    "license": "state",
+    "method": "No public image API found — 'dark' node; Iraqi material online sits mostly in Cambridge MA, Minnesota and Maryland",
+    "url": "",
+    "sim": "1",
+    "notes": "",
+    "verified": "2026-11-18",
+    "source_note": "Wikipedia (location); AP/Newsweek 2015 on losses and digitisation"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8416,
+     34.0209
+    ]
+   },
+   "properties": {
+    "id": "ADM",
+    "name": "Archives du Maroc",
+    "name_ar": "أرشيف المغرب",
+    "city": "Rabat",
+    "country": "Morocco",
+    "coord_precision": "city",
+    "pos": "RS",
+    "holder_position": "In region · state or university",
+    "in_arab_world": true,
+    "inst": "national archive",
+    "media": "document;architecture drawing;photo",
+    "start": null,
+    "end": null,
+    "depicts": "Morocco",
+    "holdings": "National archive; lent architectural materials to Sharjah Architecture Triennial 2023",
+    "online": "Not confirmed — check before relying on it",
+    "online_est": null,
+    "access": "unknown",
+    "license": "unknown",
+    "method": "Contact archive; confirm online holdings",
+    "url": "https://www.archivesdumaroc.ma",
+    "sim": "3",
+    "notes": "",
+    "verified": "2026-11-18",
+    "source_note": "e-flux 2023 (SAT exhibition partner); online access not verified"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     10.8575,
+     33.8756
+    ]
+   },
+   "properties": {
+    "id": "DJERBA",
+    "name": "al-Basi Family Library, Djerba (EAP1020)",
+    "name_ar": "مكتبة عائلة الباسي – جربة",
+    "city": "Djerba",
+    "country": "Tunisia",
+    "coord_precision": "city",
+    "pos": "RI",
+    "holder_position": "In region · independent / community",
+    "in_arab_world": true,
+    "inst": "family manuscript library",
+    "media": "manuscript",
+    "start": null,
+    "end": null,
+    "depicts": "Tunisia",
+    "holdings": "Endangered private manuscript library digitised through the British Library's EAP",
+    "online": "On eap.bl.uk (project EAP1020)",
+    "online_est": null,
+    "access": "open",
+    "license": "EAP terms",
+    "method": "eap.bl.uk/project/EAP1020",
+    "url": "https://eap.bl.uk/project/EAP1020",
+    "sim": "2",
+    "notes": "",
+    "verified": "2026-11-18",
+    "source_note": "Culture in Crisis EAP listing"
+   }
+  }
+ ]
+}

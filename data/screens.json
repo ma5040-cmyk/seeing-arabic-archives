@@ -1,0 +1,378 @@
+{
+  "room": {
+    "id": "internet-cafe",
+    "title_en": "The Internet Café",
+    "title_ar": "مقهى الإنترنت",
+    "model": "models/cafe.glb",
+    "model_fallback": "models/cafe.3dm",
+    "rhino_units_to_m": 0.3048,
+    "day": {
+      "open_hour": 9,
+      "close_hour": 27,
+      "real_seconds_per_hour": 60
+    }
+  },
+  "dayDurationSeconds": 1080,
+  "smallScreens": [
+    {
+      "name": "SCREEN_01",
+      "pin": "lumiere-pyramides-1897",
+      "url": ""
+    },
+    {
+      "name": "SCREEN_02",
+      "pin": null,
+      "url": ""
+    },
+    {
+      "name": "SCREEN_03",
+      "pin": null,
+      "url": ""
+    },
+    {
+      "name": "SCREEN_04",
+      "pin": null,
+      "url": ""
+    },
+    {
+      "name": "SCREEN_05",
+      "pin": null,
+      "url": ""
+    },
+    {
+      "name": "SCREEN_06",
+      "pin": null,
+      "url": ""
+    },
+    {
+      "name": "SCREEN_07",
+      "pin": null,
+      "url": ""
+    },
+    {
+      "name": "SCREEN_08",
+      "pin": null,
+      "url": ""
+    },
+    {
+      "name": "SCREEN_09",
+      "pin": null,
+      "url": ""
+    },
+    {
+      "name": "SCREEN_10_A",
+      "pin": null,
+      "url": ""
+    },
+    {
+      "name": "SCREEN_10_B",
+      "pin": null,
+      "url": ""
+    },
+    {
+      "name": "SCREEN_11",
+      "pin": null,
+      "url": ""
+    },
+    {
+      "name": "MESH 25",
+      "pin": null,
+      "url": ""
+    }
+  ],
+  "pool": [
+    {
+      "id": "lumiere-pyramides-1897",
+      "type": "video",
+      "src": "./media/pyramides.mp4",
+      "title": "Les Pyramides (Égypte : les pyramides et le Sphinx)",
+      "title_ar": "الأهرامات",
+      "date": "March–April 1897",
+      "place": "Giza, Egypt",
+      "lat": 29.9792,
+      "lon": 31.1342,
+      "maker": "Alexandre Promio for the Lumière company",
+      "archive_id": "",
+      "held_by": "Institut Lumière, Lyon (copy on Wikimedia Commons)",
+      "held_lat": 45.7451,
+      "held_lon": 4.8711,
+      "holder_pos": "OW",
+      "license": "Public domain (Wikimedia Commons)",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Les_Pyramides,_1897.webm",
+      "note": "47 MB Wikimedia original; local playback copy is media/pyramides.mp4 (H.264, 720p, CRF 28, no audio)."
+    },
+    {
+      "id": "kahn-autochrome",
+      "type": "image",
+      "src": "",
+      "title": "Autochrome from the Archives of the Planet (Beirut, Damascus or Fez)",
+      "date": "1909–1931",
+      "place": "Lebanon / Syria / Morocco",
+      "archive_id": "KAHN",
+      "holder_pos": "OW",
+      "license": "Open data (Hauts-de-Seine)",
+      "source_url": "https://collections.albert-kahn.hauts-de-seine.fr",
+      "note": "Earliest colour photographs of the region. Download a JPEG into media/."
+    },
+    {
+      "id": "matson-jerusalem",
+      "type": "image",
+      "src": "",
+      "title": "American Colony / Matson photograph",
+      "date": "1898–1946",
+      "place": "Jerusalem",
+      "archive_id": "MATSON",
+      "holder_pos": "OW",
+      "license": "No known restrictions",
+      "source_url": "https://www.loc.gov/collections/g-eric-and-edith-matson-photographs/",
+      "note": "Run: python data/harvest_items.py loc --query Jerusalem --max 20 --download media/"
+    },
+    {
+      "id": "aif-studio",
+      "type": "image",
+      "src": "",
+      "title": "Studio portrait, Arab Image Foundation",
+      "date": "1860–1993",
+      "place": "Beirut / Cairo / Tripoli",
+      "archive_id": "AIF",
+      "holder_pos": "RI",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://arabimagefoundation.org",
+      "note": "Credit the photographer and collection on the screen."
+    },
+    {
+      "id": "pmda-family",
+      "type": "image",
+      "src": "",
+      "title": "Family collection, Palestinian Museum Digital Archive",
+      "date": "1800s–present",
+      "place": "Palestine",
+      "archive_id": "PMDA",
+      "holder_pos": "RI",
+      "license": "Personal/educational, non-commercial",
+      "source_url": "https://palarchive.org",
+      "note": "Digitised and returned to the family. Credit the collection."
+    },
+    {
+      "id": "amar-78rpm",
+      "type": "audio",
+      "src": "",
+      "title": "Nahda-era 78rpm recording",
+      "date": "1903–1930s",
+      "place": "Cairo / Beirut / Aleppo",
+      "archive_id": "AMAR",
+      "holder_pos": "RI",
+      "license": "© AMAR. Ask before reuse",
+      "source_url": "https://www.amar-foundation.org",
+      "note": "Audio item: the screen draws a turning record and a waveform."
+    },
+    {
+      "id": "858-cairo",
+      "type": "video",
+      "src": "",
+      "title": "858: An Archive of Resistance",
+      "date": "2011–2013",
+      "place": "Cairo",
+      "archive_id": "858",
+      "holder_pos": "EX",
+      "license": "Creative Commons (Mosireen)",
+      "source_url": "https://858.ma",
+      "content_warning": true,
+      "note": "Some footage shows violence. Choose clips with care. The screen shows a warning card first."
+    },
+    {
+      "id": "creative-memory",
+      "type": "image",
+      "src": "",
+      "title": "Poster / graffiti, Creative Memory of the Syrian Revolution",
+      "date": "2011–present",
+      "place": "Syria",
+      "archive_id": "CMSR",
+      "holder_pos": "EX",
+      "license": "© authors",
+      "source_url": "https://creativememory.org",
+      "note": ""
+    },
+    {
+      "id": "little-syria-1929",
+      "type": "image",
+      "src": "",
+      "title": "Washington Street, Little Syria (Percy Loomis Sperr)",
+      "date": "1929",
+      "place": "Lower Manhattan, New York",
+      "lat": 40.70806,
+      "lon": -74.01389,
+      "archive_id": "NYPL",
+      "holder_pos": "OW",
+      "license": "Check the NYPL item",
+      "source_url": "https://digitalcollections.nypl.org",
+      "note": "This is your seed archive. Pin it to one screen."
+    },
+    {
+      "id": "malhame-home-movies",
+      "type": "video",
+      "src": "",
+      "title": "Helene Jacobs Malhame home movies",
+      "date": "1930s–1940s",
+      "place": "Lebanese diaspora, USA",
+      "archive_id": "KCLDS",
+      "holder_pos": "DI",
+      "license": "Ask the Khayrallah Center",
+      "source_url": "https://www.lib.ncsu.edu/findingaids/gr0016",
+      "note": "Six silent reels as mp4. Request a clip."
+    },
+    {
+      "id": "chadirji-baghdad",
+      "type": "image",
+      "src": "",
+      "title": "Kamil Chadirji photograph",
+      "date": "1920s–1970s",
+      "place": "Baghdad",
+      "archive_id": "AKDC",
+      "holder_pos": "OW",
+      "license": "© AKDC",
+      "source_url": "https://archnet.org/collections/17",
+      "note": "Made in Iraq, kept for years at the AIF in Beirut, now at MIT. Custody chain on the big screen."
+    },
+    {
+      "id": "akkasah-album",
+      "type": "image",
+      "src": "",
+      "title": "Family album, Akkasah",
+      "date": "1890s–2017",
+      "place": "Egypt / Gulf",
+      "archive_id": "AKKASAH",
+      "holder_pos": "RS",
+      "license": "Per collection",
+      "source_url": "https://akkasah.org",
+      "note": ""
+    },
+    {
+      "id": "abd-al-ghaffar-mecca",
+      "type": "image",
+      "src": "",
+      "title": "Mecca, photograph by ʿAbd al-Ghaffar (Snouck Hurgronje papers)",
+      "date": "1880s",
+      "place": "Mecca",
+      "archive_id": "LEIDEN",
+      "holder_pos": "OW",
+      "license": "Per item",
+      "source_url": "https://digitalcollections.universiteitleiden.nl",
+      "note": "Filed under a European scholar's name."
+    },
+    {
+      "id": "qdl-gulf-file",
+      "type": "image",
+      "src": "",
+      "title": "India Office file page, Qatar Digital Library",
+      "date": "1600s–1950",
+      "place": "The Gulf",
+      "archive_id": "QDL",
+      "holder_pos": "RS",
+      "license": "Open (see item)",
+      "source_url": "https://www.qdl.qa",
+      "note": "IIIF: python data/harvest_items.py iiif --manifests manifests.txt"
+    },
+    {
+      "id": "shap-syria-site",
+      "type": "image",
+      "src": "",
+      "title": "Syrian Heritage Archive Project photograph",
+      "date": "1900–2017",
+      "place": "Syria",
+      "archive_id": "SHAP",
+      "holder_pos": "OW",
+      "license": "Per collection",
+      "source_url": "https://syrian-heritage.org/shap",
+      "note": ""
+    },
+    {
+      "id": "absence-damascus",
+      "type": "absence",
+      "src": "",
+      "title": "Centre for Historical Documents, Damascus",
+      "title_ar": "مركز الوثائق التاريخية",
+      "date": "1550–present",
+      "place": "Damascus",
+      "archive_id": "CHD",
+      "holder_pos": "RS",
+      "license": "",
+      "source_url": "",
+      "note": "Holdings exist; no images online. The screen shows NO SIGNAL. This is deliberate."
+    },
+    {
+      "id": "absence-baghdad",
+      "type": "absence",
+      "src": "",
+      "title": "Iraq National Library and Archive",
+      "title_ar": "دار الكتب والوثائق",
+      "date": "1920–present",
+      "place": "Baghdad",
+      "archive_id": "INLA",
+      "holder_pos": "RS",
+      "license": "",
+      "source_url": "",
+      "note": "About 60% of the archives were lost in 2003. NO SIGNAL."
+    }
+  ],
+  "surfaces": {},
+  "_readme": "Edit this file to put media on café screens. Add items to 'pool' with a unique 'id', 'type', 'src', and title. To pin an item, set the matching 'smallScreens' entry's 'pin' to that id (for example, name 'SCREEN_01'). Use a direct H.264 MP4 or VP8/VP9 WebM file URL with CORS enabled, or put a local file in media/ and set src to './media/clip.mp4'. Empty image/video/audio sources show a card; type 'absence' shows NO SIGNAL.",
+  "background": {
+    "mesh": "SCREEN_BG"
+  },
+  "screens": [
+    {
+      "mesh": "SCREEN_01",
+      "pin": "lumiere-pyramides-1897"
+    },
+    {
+      "mesh": "SCREEN_02",
+      "pin": ""
+    },
+    {
+      "mesh": "SCREEN_03",
+      "pin": ""
+    },
+    {
+      "mesh": "SCREEN_04",
+      "pin": ""
+    },
+    {
+      "mesh": "SCREEN_05",
+      "pin": ""
+    },
+    {
+      "mesh": "SCREEN_06",
+      "pin": ""
+    },
+    {
+      "mesh": "SCREEN_07",
+      "pin": ""
+    },
+    {
+      "mesh": "SCREEN_08",
+      "pin": ""
+    },
+    {
+      "mesh": "SCREEN_09",
+      "pin": ""
+    },
+    {
+      "mesh": "SCREEN_10_A",
+      "pin": ""
+    },
+    {
+      "mesh": "SCREEN_10_B",
+      "pin": ""
+    },
+    {
+      "mesh": "SCREEN_11",
+      "pin": ""
+    },
+    {
+      "mesh": "MESH 25",
+      "pin": ""
+    }
+  ],
+  "roomTitle": "The Internet Café"
+}

@@ -1,0 +1,192 @@
+source,source_name,target,target_name,type,note,s_lat,s_lon,t_lat,t_lon,start,end
+AIF,Arab Image Foundation,@Egypt,Egypt,depicts,Arab Image Foundation holds images/records of Egypt,33.8938,35.5018,30.0444,31.2357,1860,1993
+AIF,Arab Image Foundation,@Syria,Syria,depicts,Arab Image Foundation holds images/records of Syria,33.8938,35.5018,33.5138,36.2765,1860,1993
+AIF,Arab Image Foundation,@Iraq,Iraq,depicts,Arab Image Foundation holds images/records of Iraq,33.8938,35.5018,33.3152,44.3661,1860,1993
+AIF,Arab Image Foundation,@Palestine,Palestine,depicts,Arab Image Foundation holds images/records of Palestine,33.8938,35.5018,31.7683,35.2137,1860,1993
+AIF,Arab Image Foundation,@Morocco,Morocco,depicts,Arab Image Foundation holds images/records of Morocco,33.8938,35.5018,34.0209,-6.8416,1860,1993
+AIF,Arab Image Foundation,@Mexico,Mexico,depicts,Arab Image Foundation holds images/records of Mexico,33.8938,35.5018,19.4326,-99.1332,1860,1993
+DEBBAS,"Fouad Debbas Collection, Sursock Museum",@Syria,Syria,depicts,"Fouad Debbas Collection, Sursock Museum holds images/records of Syria",33.8925,35.5167,33.5138,36.2765,1830,1960
+DEBBAS,"Fouad Debbas Collection, Sursock Museum",@Palestine,Palestine,depicts,"Fouad Debbas Collection, Sursock Museum holds images/records of Palestine",33.8925,35.5167,31.7683,35.2137,1830,1960
+DEBBAS,"Fouad Debbas Collection, Sursock Museum",@Egypt,Egypt,depicts,"Fouad Debbas Collection, Sursock Museum holds images/records of Egypt",33.8925,35.5167,30.0444,31.2357,1830,1960
+ACA,Arab Center for Architecture,@Iraq,Iraq,depicts,Arab Center for Architecture holds images/records of Iraq,33.8868,35.5232,33.3152,44.3661,1930,1980
+ACA,Arab Center for Architecture,@Syria,Syria,depicts,Arab Center for Architecture holds images/records of Syria,33.8868,35.5232,33.5138,36.2765,1930,1980
+ACA,Arab Center for Architecture,@Egypt,Egypt,depicts,Arab Center for Architecture holds images/records of Egypt,33.8868,35.5232,30.0444,31.2357,1930,1980
+AMAR,AMAR Foundation for Arab Music Archiving & Research,@Egypt,Egypt,depicts,AMAR Foundation for Arab Music Archiving & Research holds images/records of Egypt,33.917,35.667,30.0444,31.2357,1903,1970
+AMAR,AMAR Foundation for Arab Music Archiving & Research,@Syria,Syria,depicts,AMAR Foundation for Arab Music Archiving & Research holds images/records of Syria,33.917,35.667,33.5138,36.2765,1903,1970
+AMAR,AMAR Foundation for Arab Music Archiving & Research,@Lebanon,Lebanon,depicts,AMAR Foundation for Arab Music Archiving & Research holds images/records of Lebanon,33.917,35.667,33.8938,35.5018,1903,1970
+AMAR,AMAR Foundation for Arab Music Archiving & Research,@Iraq,Iraq,depicts,AMAR Foundation for Arab Music Archiving & Research holds images/records of Iraq,33.917,35.667,33.3152,44.3661,1903,1970
+AUB,AUB Libraries – Archives & Special Collections,@Syria,Syria,depicts,AUB Libraries – Archives & Special Collections holds images/records of Syria,33.9,35.48,33.5138,36.2765,1866,2026
+AUB,AUB Libraries – Archives & Special Collections,@Palestine,Palestine,depicts,AUB Libraries – Archives & Special Collections holds images/records of Palestine,33.9,35.48,31.7683,35.2137,1866,2026
+AUB,AUB Libraries – Archives & Special Collections,@Egypt,Egypt,depicts,AUB Libraries – Archives & Special Collections holds images/records of Egypt,33.9,35.48,30.0444,31.2357,1866,2026
+AUB,AUB Libraries – Archives & Special Collections,@Brazil (São Paulo),Brazil (São Paulo),depicts,AUB Libraries – Archives & Special Collections holds images/records of Brazil (São Paulo),33.9,35.48,-23.5505,-46.6333,1866,2026
+IFPO,Ifpo Photothèque (via MédiHAL),@Syria,Syria,depicts,Ifpo Photothèque (via MédiHAL) holds images/records of Syria,33.8892,35.5047,33.5138,36.2765,1910,1960
+PMDA,Palestinian Museum Digital Archive,@Palestine,Palestine,depicts,Palestinian Museum Digital Archive holds images/records of Palestine,31.96297,35.18345,31.7683,35.2137,1800,2026
+PMDA,Palestinian Museum Digital Archive,@Lebanon,Lebanon,depicts,Palestinian Museum Digital Archive holds images/records of Lebanon,31.96297,35.18345,33.8938,35.5018,1800,2026
+PMDA,Palestinian Museum Digital Archive,@Jordan,Jordan,depicts,Palestinian Museum Digital Archive holds images/records of Jordan,31.96297,35.18345,31.9454,35.9284,1800,2026
+AKKASAH,"Akkasah Photography Archive, NYU Abu Dhabi",@Egypt,Egypt,depicts,"Akkasah Photography Archive, NYU Abu Dhabi holds images/records of Egypt",24.5235,54.4346,30.0444,31.2357,1890,2017
+AKKASAH,"Akkasah Photography Archive, NYU Abu Dhabi",@Iraq,Iraq,depicts,"Akkasah Photography Archive, NYU Abu Dhabi holds images/records of Iraq",24.5235,54.4346,33.3152,44.3661,1890,2017
+AKKASAH,"Akkasah Photography Archive, NYU Abu Dhabi",@Palestine,Palestine,depicts,"Akkasah Photography Archive, NYU Abu Dhabi holds images/records of Palestine",24.5235,54.4346,31.7683,35.2137,1890,2017
+AKKASAH,"Akkasah Photography Archive, NYU Abu Dhabi",@Lebanon,Lebanon,depicts,"Akkasah Photography Archive, NYU Abu Dhabi holds images/records of Lebanon",24.5235,54.4346,33.8938,35.5018,1890,2017
+AKKASAH,"Akkasah Photography Archive, NYU Abu Dhabi",@Syria,Syria,depicts,"Akkasah Photography Archive, NYU Abu Dhabi holds images/records of Syria",24.5235,54.4346,33.5138,36.2765,1890,2017
+AKKASAH,"Akkasah Photography Archive, NYU Abu Dhabi",@Algeria,Algeria,depicts,"Akkasah Photography Archive, NYU Abu Dhabi holds images/records of Algeria",24.5235,54.4346,36.7538,3.0588,1890,2017
+AKKASAH,"Akkasah Photography Archive, NYU Abu Dhabi",@Tunisia,Tunisia,depicts,"Akkasah Photography Archive, NYU Abu Dhabi holds images/records of Tunisia",24.5235,54.4346,36.8065,10.1815,1890,2017
+AKKASAH,"Akkasah Photography Archive, NYU Abu Dhabi",@UAE,UAE,depicts,"Akkasah Photography Archive, NYU Abu Dhabi holds images/records of UAE",24.5235,54.4346,24.4539,54.3773,1890,2017
+AKKASAH,"Akkasah Photography Archive, NYU Abu Dhabi",@Kuwait,Kuwait,depicts,"Akkasah Photography Archive, NYU Abu Dhabi holds images/records of Kuwait",24.5235,54.4346,29.3759,47.9774,1890,2017
+AKKASAH,"Akkasah Photography Archive, NYU Abu Dhabi",@Bahrain,Bahrain,depicts,"Akkasah Photography Archive, NYU Abu Dhabi holds images/records of Bahrain",24.5235,54.4346,26.2285,50.586,1890,2017
+AKKASAH,"Akkasah Photography Archive, NYU Abu Dhabi",@Saudi Arabia,Saudi Arabia,depicts,"Akkasah Photography Archive, NYU Abu Dhabi holds images/records of Saudi Arabia",24.5235,54.4346,24.7136,46.6753,1890,2017
+MAWRID,"al Mawrid Arab Art Archive, NYU Abu Dhabi",@Egypt,Egypt,depicts,"al Mawrid Arab Art Archive, NYU Abu Dhabi holds images/records of Egypt",24.524,54.4352,30.0444,31.2357,1850,1995
+MAWRID,"al Mawrid Arab Art Archive, NYU Abu Dhabi",@Iraq,Iraq,depicts,"al Mawrid Arab Art Archive, NYU Abu Dhabi holds images/records of Iraq",24.524,54.4352,33.3152,44.3661,1850,1995
+MAWRID,"al Mawrid Arab Art Archive, NYU Abu Dhabi",@Syria,Syria,depicts,"al Mawrid Arab Art Archive, NYU Abu Dhabi holds images/records of Syria",24.524,54.4352,33.5138,36.2765,1850,1995
+MAWRID,"al Mawrid Arab Art Archive, NYU Abu Dhabi",@Jordan,Jordan,depicts,"al Mawrid Arab Art Archive, NYU Abu Dhabi holds images/records of Jordan",24.524,54.4352,31.9454,35.9284,1850,1995
+MAWRID,"al Mawrid Arab Art Archive, NYU Abu Dhabi",@UAE,UAE,depicts,"al Mawrid Arab Art Archive, NYU Abu Dhabi holds images/records of UAE",24.524,54.4352,24.4539,54.3773,1850,1995
+AGDA,Arabian Gulf Digital Archive (National Library & Archives UAE),@Oman,Oman,depicts,Arabian Gulf Digital Archive (National Library & Archives UAE) holds images/records of Oman,24.4539,54.3773,23.588,58.3829,1800,2000
+AGDA,Arabian Gulf Digital Archive (National Library & Archives UAE),@Qatar,Qatar,depicts,Arabian Gulf Digital Archive (National Library & Archives UAE) holds images/records of Qatar,24.4539,54.3773,25.2854,51.531,1800,2000
+AGDA,Arabian Gulf Digital Archive (National Library & Archives UAE),@Bahrain,Bahrain,depicts,Arabian Gulf Digital Archive (National Library & Archives UAE) holds images/records of Bahrain,24.4539,54.3773,26.2285,50.586,1800,2000
+AGDA,Arabian Gulf Digital Archive (National Library & Archives UAE),@Kuwait,Kuwait,depicts,Arabian Gulf Digital Archive (National Library & Archives UAE) holds images/records of Kuwait,24.4539,54.3773,29.3759,47.9774,1800,2000
+AGDA,Arabian Gulf Digital Archive (National Library & Archives UAE),@Saudi Arabia,Saudi Arabia,depicts,Arabian Gulf Digital Archive (National Library & Archives UAE) holds images/records of Saudi Arabia,24.4539,54.3773,24.7136,46.6753,1800,2000
+MASA,Atassi Foundation – Modern Art of Syria Archive (MASA),@Syria,Syria,depicts,Atassi Foundation – Modern Art of Syria Archive (MASA) holds images/records of Syria,25.2048,55.2708,33.5138,36.2765,1930,2023
+BARJEEL,Barjeel Art Foundation,@Egypt,Egypt,depicts,Barjeel Art Foundation holds images/records of Egypt,25.32269,55.37736,30.0444,31.2357,1900,2025
+BARJEEL,Barjeel Art Foundation,@Iraq,Iraq,depicts,Barjeel Art Foundation holds images/records of Iraq,25.32269,55.37736,33.3152,44.3661,1900,2025
+BARJEEL,Barjeel Art Foundation,@Syria,Syria,depicts,Barjeel Art Foundation holds images/records of Syria,25.32269,55.37736,33.5138,36.2765,1900,2025
+BARJEEL,Barjeel Art Foundation,@Lebanon,Lebanon,depicts,Barjeel Art Foundation holds images/records of Lebanon,25.32269,55.37736,33.8938,35.5018,1900,2025
+BARJEEL,Barjeel Art Foundation,@Palestine,Palestine,depicts,Barjeel Art Foundation holds images/records of Palestine,25.32269,55.37736,31.7683,35.2137,1900,2025
+BARJEEL,Barjeel Art Foundation,@Morocco,Morocco,depicts,Barjeel Art Foundation holds images/records of Morocco,25.32269,55.37736,34.0209,-6.8416,1900,2025
+BARJEEL,Barjeel Art Foundation,@Algeria,Algeria,depicts,Barjeel Art Foundation holds images/records of Algeria,25.32269,55.37736,36.7538,3.0588,1900,2025
+BARJEEL,Barjeel Art Foundation,@Tunisia,Tunisia,depicts,Barjeel Art Foundation holds images/records of Tunisia,25.32269,55.37736,36.8065,10.1815,1900,2025
+SAT,Sharjah Architecture Triennial – Journeys into Architecture Archives,@Lebanon,Lebanon,depicts,Sharjah Architecture Triennial – Journeys into Architecture Archives holds images/records of Lebanon,25.3463,55.4209,33.8938,35.5018,1930,1980
+SAT,Sharjah Architecture Triennial – Journeys into Architecture Archives,@Egypt,Egypt,depicts,Sharjah Architecture Triennial – Journeys into Architecture Archives holds images/records of Egypt,25.3463,55.4209,30.0444,31.2357,1930,1980
+SAT,Sharjah Architecture Triennial – Journeys into Architecture Archives,@Morocco,Morocco,depicts,Sharjah Architecture Triennial – Journeys into Architecture Archives holds images/records of Morocco,25.3463,55.4209,34.0209,-6.8416,1930,1980
+SAT,Sharjah Architecture Triennial – Journeys into Architecture Archives,@Iraq,Iraq,depicts,Sharjah Architecture Triennial – Journeys into Architecture Archives holds images/records of Iraq,25.3463,55.4209,33.3152,44.3661,1930,1980
+SAT,Sharjah Architecture Triennial – Journeys into Architecture Archives,@Syria,Syria,depicts,Sharjah Architecture Triennial – Journeys into Architecture Archives holds images/records of Syria,25.3463,55.4209,33.5138,36.2765,1930,1980
+SAT,Sharjah Architecture Triennial – Journeys into Architecture Archives,@Tunisia,Tunisia,depicts,Sharjah Architecture Triennial – Journeys into Architecture Archives holds images/records of Tunisia,25.3463,55.4209,36.8065,10.1815,1930,1980
+QDL,Qatar Digital Library,@Qatar,Qatar,depicts,Qatar Digital Library holds images/records of Qatar,25.3176,51.4388,25.2854,51.531,1600,1950
+QDL,Qatar Digital Library,@Bahrain,Bahrain,depicts,Qatar Digital Library holds images/records of Bahrain,25.3176,51.4388,26.2285,50.586,1600,1950
+QDL,Qatar Digital Library,@Kuwait,Kuwait,depicts,Qatar Digital Library holds images/records of Kuwait,25.3176,51.4388,29.3759,47.9774,1600,1950
+QDL,Qatar Digital Library,@Oman,Oman,depicts,Qatar Digital Library holds images/records of Oman,25.3176,51.4388,23.588,58.3829,1600,1950
+QDL,Qatar Digital Library,@UAE,UAE,depicts,Qatar Digital Library holds images/records of UAE,25.3176,51.4388,24.4539,54.3773,1600,1950
+QDL,Qatar Digital Library,@Saudi Arabia,Saudi Arabia,depicts,Qatar Digital Library holds images/records of Saudi Arabia,25.3176,51.4388,24.7136,46.6753,1600,1950
+QDL,Qatar Digital Library,@Iraq,Iraq,depicts,Qatar Digital Library holds images/records of Iraq,25.3176,51.4388,33.3152,44.3661,1600,1950
+QDL,Qatar Digital Library,@Hejaz (Mecca),Hejaz (Mecca),depicts,Qatar Digital Library holds images/records of Hejaz (Mecca),25.3176,51.4388,21.3891,39.8579,1600,1950
+BA,"Memory of Modern Egypt, Bibliotheca Alexandrina",@Egypt,Egypt,depicts,"Memory of Modern Egypt, Bibliotheca Alexandrina holds images/records of Egypt",31.2089,29.9092,30.0444,31.2357,1805,1981
+AUC,AUC Rare Books & Special Collections Library,@Egypt,Egypt,depicts,AUC Rare Books & Special Collections Library holds images/records of Egypt,30.0196,31.4996,30.0444,31.2357,1850,2000
+CMSR,Creative Memory of the Syrian Revolution,@Syria,Syria,depicts,Creative Memory of the Syrian Revolution holds images/records of Syria,48.8566,2.3522,33.5138,36.2765,2011,2026
+SYARCH,Syrian Archive (Mnemonic),@Syria,Syria,depicts,Syrian Archive (Mnemonic) holds images/records of Syria,52.52,13.405,33.5138,36.2765,2011,2026
+SYARCH,Syrian Archive (Mnemonic),@Yemen,Yemen,depicts,Syrian Archive (Mnemonic) holds images/records of Yemen,52.52,13.405,15.3694,44.191,2011,2026
+SYARCH,Syrian Archive (Mnemonic),@Sudan,Sudan,depicts,Syrian Archive (Mnemonic) holds images/records of Sudan,52.52,13.405,15.5007,32.5599,2011,2026
+SHAP,Syrian Heritage Archive Project (Museum für Islamische Kunst + DAI),@Syria,Syria,depicts,Syrian Heritage Archive Project (Museum für Islamische Kunst + DAI) holds images/records of Syria,52.5212,13.3963,33.5138,36.2765,1900,2017
+MANAR,"Manar al-Athar Photo Archive, University of Oxford",@Syria,Syria,depicts,"Manar al-Athar Photo Archive, University of Oxford holds images/records of Syria",51.752,-1.2577,33.5138,36.2765,1960,2020
+MANAR,"Manar al-Athar Photo Archive, University of Oxford",@Palestine,Palestine,depicts,"Manar al-Athar Photo Archive, University of Oxford holds images/records of Palestine",51.752,-1.2577,31.7683,35.2137,1960,2020
+MANAR,"Manar al-Athar Photo Archive, University of Oxford",@Jordan,Jordan,depicts,"Manar al-Athar Photo Archive, University of Oxford holds images/records of Jordan",51.752,-1.2577,31.9454,35.9284,1960,2020
+MANAR,"Manar al-Athar Photo Archive, University of Oxford",@Lebanon,Lebanon,depicts,"Manar al-Athar Photo Archive, University of Oxford holds images/records of Lebanon",51.752,-1.2577,33.8938,35.5018,1960,2020
+MANAR,"Manar al-Athar Photo Archive, University of Oxford",@Egypt,Egypt,depicts,"Manar al-Athar Photo Archive, University of Oxford holds images/records of Egypt",51.752,-1.2577,30.0444,31.2357,1960,2020
+MANAR,"Manar al-Athar Photo Archive, University of Oxford",@Libya,Libya,depicts,"Manar al-Athar Photo Archive, University of Oxford holds images/records of Libya",51.752,-1.2577,32.8872,13.1913,1960,2020
+MANAR,"Manar al-Athar Photo Archive, University of Oxford",@Iraq,Iraq,depicts,"Manar al-Athar Photo Archive, University of Oxford holds images/records of Iraq",51.752,-1.2577,33.3152,44.3661,1960,2020
+MECA,"Middle East Centre Archive, St Antony's College",@Palestine,Palestine,depicts,"Middle East Centre Archive, St Antony's College holds images/records of Palestine",51.7627,-1.2622,31.7683,35.2137,1850,1979
+MECA,"Middle East Centre Archive, St Antony's College",@Iraq,Iraq,depicts,"Middle East Centre Archive, St Antony's College holds images/records of Iraq",51.7627,-1.2622,33.3152,44.3661,1850,1979
+MECA,"Middle East Centre Archive, St Antony's College",@Syria,Syria,depicts,"Middle East Centre Archive, St Antony's College holds images/records of Syria",51.7627,-1.2622,33.5138,36.2765,1850,1979
+MECA,"Middle East Centre Archive, St Antony's College",@Lebanon,Lebanon,depicts,"Middle East Centre Archive, St Antony's College holds images/records of Lebanon",51.7627,-1.2622,33.8938,35.5018,1850,1979
+MECA,"Middle East Centre Archive, St Antony's College",@Egypt,Egypt,depicts,"Middle East Centre Archive, St Antony's College holds images/records of Egypt",51.7627,-1.2622,30.0444,31.2357,1850,1979
+MECA,"Middle East Centre Archive, St Antony's College",@Oman,Oman,depicts,"Middle East Centre Archive, St Antony's College holds images/records of Oman",51.7627,-1.2622,23.588,58.3829,1850,1979
+MECA,"Middle East Centre Archive, St Antony's College",@Jordan,Jordan,depicts,"Middle East Centre Archive, St Antony's College holds images/records of Jordan",51.7627,-1.2622,31.9454,35.9284,1850,1979
+BL,British Library (India Office Records; Endangered Archives Programme),@Qatar,Qatar,depicts,British Library (India Office Records; Endangered Archives Programme) holds images/records of Qatar,51.5299,-0.1277,25.2854,51.531,1600,1950
+BL,British Library (India Office Records; Endangered Archives Programme),@Bahrain,Bahrain,depicts,British Library (India Office Records; Endangered Archives Programme) holds images/records of Bahrain,51.5299,-0.1277,26.2285,50.586,1600,1950
+BL,British Library (India Office Records; Endangered Archives Programme),@Kuwait,Kuwait,depicts,British Library (India Office Records; Endangered Archives Programme) holds images/records of Kuwait,51.5299,-0.1277,29.3759,47.9774,1600,1950
+BL,British Library (India Office Records; Endangered Archives Programme),@Oman,Oman,depicts,British Library (India Office Records; Endangered Archives Programme) holds images/records of Oman,51.5299,-0.1277,23.588,58.3829,1600,1950
+BL,British Library (India Office Records; Endangered Archives Programme),@Tunisia,Tunisia,depicts,British Library (India Office Records; Endangered Archives Programme) holds images/records of Tunisia,51.5299,-0.1277,36.8065,10.1815,1600,1950
+BL,British Library (India Office Records; Endangered Archives Programme),@Palestine,Palestine,depicts,British Library (India Office Records; Endangered Archives Programme) holds images/records of Palestine,51.5299,-0.1277,31.7683,35.2137,1600,1950
+BL,British Library (India Office Records; Endangered Archives Programme),@Lebanon,Lebanon,depicts,British Library (India Office Records; Endangered Archives Programme) holds images/records of Lebanon,51.5299,-0.1277,33.8938,35.5018,1600,1950
+KEW,"The National Archives (UK), Kew",@UAE,UAE,depicts,"The National Archives (UK), Kew holds images/records of UAE",51.481,-0.2797,24.4539,54.3773,1800,1990
+KEW,"The National Archives (UK), Kew",@Oman,Oman,depicts,"The National Archives (UK), Kew holds images/records of Oman",51.481,-0.2797,23.588,58.3829,1800,1990
+KEW,"The National Archives (UK), Kew",@Qatar,Qatar,depicts,"The National Archives (UK), Kew holds images/records of Qatar",51.481,-0.2797,25.2854,51.531,1800,1990
+KEW,"The National Archives (UK), Kew",@Bahrain,Bahrain,depicts,"The National Archives (UK), Kew holds images/records of Bahrain",51.481,-0.2797,26.2285,50.586,1800,1990
+KAHN,Musée départemental Albert-Kahn – Archives of the Planet,@Lebanon,Lebanon,depicts,Musée départemental Albert-Kahn – Archives of the Planet holds images/records of Lebanon,48.842,2.228,33.8938,35.5018,1909,1931
+KAHN,Musée départemental Albert-Kahn – Archives of the Planet,@Syria,Syria,depicts,Musée départemental Albert-Kahn – Archives of the Planet holds images/records of Syria,48.842,2.228,33.5138,36.2765,1909,1931
+KAHN,Musée départemental Albert-Kahn – Archives of the Planet,@Palestine,Palestine,depicts,Musée départemental Albert-Kahn – Archives of the Planet holds images/records of Palestine,48.842,2.228,31.7683,35.2137,1909,1931
+KAHN,Musée départemental Albert-Kahn – Archives of the Planet,@Morocco,Morocco,depicts,Musée départemental Albert-Kahn – Archives of the Planet holds images/records of Morocco,48.842,2.228,34.0209,-6.8416,1909,1931
+KAHN,Musée départemental Albert-Kahn – Archives of the Planet,@Algeria,Algeria,depicts,Musée départemental Albert-Kahn – Archives of the Planet holds images/records of Algeria,48.842,2.228,36.7538,3.0588,1909,1931
+KAHN,Musée départemental Albert-Kahn – Archives of the Planet,@Tunisia,Tunisia,depicts,Musée départemental Albert-Kahn – Archives of the Planet holds images/records of Tunisia,48.842,2.228,36.8065,10.1815,1909,1931
+KAHN,Musée départemental Albert-Kahn – Archives of the Planet,@Egypt,Egypt,depicts,Musée départemental Albert-Kahn – Archives of the Planet holds images/records of Egypt,48.842,2.228,30.0444,31.2357,1909,1931
+LEIDEN,Leiden University Libraries – Middle Eastern Collections,@Hejaz (Mecca),Hejaz (Mecca),depicts,Leiden University Libraries – Middle Eastern Collections holds images/records of Hejaz (Mecca),52.1601,4.497,21.3891,39.8579,1850,1940
+LEIDEN,Leiden University Libraries – Middle Eastern Collections,@Saudi Arabia,Saudi Arabia,depicts,Leiden University Libraries – Middle Eastern Collections holds images/records of Saudi Arabia,52.1601,4.497,24.7136,46.6753,1850,1940
+SALT,SALT Research,@Lebanon,Lebanon,depicts,SALT Research holds images/records of Lebanon,41.0236,28.9747,33.8938,35.5018,1850,2000
+SALT,SALT Research,@Syria,Syria,depicts,SALT Research holds images/records of Syria,41.0236,28.9747,33.5138,36.2765,1850,2000
+SALT,SALT Research,@Palestine,Palestine,depicts,SALT Research holds images/records of Palestine,41.0236,28.9747,31.7683,35.2137,1850,2000
+SALT,SALT Research,@Iraq,Iraq,depicts,SALT Research holds images/records of Iraq,41.0236,28.9747,33.3152,44.3661,1850,2000
+MATSON,Library of Congress – Matson (American Colony) Photograph Collection,@Palestine,Palestine,depicts,Library of Congress – Matson (American Colony) Photograph Collection holds images/records of Palestine,38.8887,-77.0047,31.7683,35.2137,1898,1946
+MATSON,Library of Congress – Matson (American Colony) Photograph Collection,@Jordan,Jordan,depicts,Library of Congress – Matson (American Colony) Photograph Collection holds images/records of Jordan,38.8887,-77.0047,31.9454,35.9284,1898,1946
+MATSON,Library of Congress – Matson (American Colony) Photograph Collection,@Lebanon,Lebanon,depicts,Library of Congress – Matson (American Colony) Photograph Collection holds images/records of Lebanon,38.8887,-77.0047,33.8938,35.5018,1898,1946
+MATSON,Library of Congress – Matson (American Colony) Photograph Collection,@Syria,Syria,depicts,Library of Congress – Matson (American Colony) Photograph Collection holds images/records of Syria,38.8887,-77.0047,33.5138,36.2765,1898,1946
+MATSON,Library of Congress – Matson (American Colony) Photograph Collection,@Egypt,Egypt,depicts,Library of Congress – Matson (American Colony) Photograph Collection holds images/records of Egypt,38.8887,-77.0047,30.0444,31.2357,1898,1946
+MATSON,Library of Congress – Matson (American Colony) Photograph Collection,@Iraq,Iraq,depicts,Library of Congress – Matson (American Colony) Photograph Collection holds images/records of Iraq,38.8887,-77.0047,33.3152,44.3661,1898,1946
+GETTY,Getty Research Institute – Gigord & Jacobson collections,@Ottoman centre (Istanbul),Ottoman centre (Istanbul),depicts,Getty Research Institute – Gigord & Jacobson collections holds images/records of Ottoman centre (Istanbul),34.078,-118.4741,41.0082,28.9784,1850,1958
+GETTY,Getty Research Institute – Gigord & Jacobson collections,@Lebanon,Lebanon,depicts,Getty Research Institute – Gigord & Jacobson collections holds images/records of Lebanon,34.078,-118.4741,33.8938,35.5018,1850,1958
+GETTY,Getty Research Institute – Gigord & Jacobson collections,@Syria,Syria,depicts,Getty Research Institute – Gigord & Jacobson collections holds images/records of Syria,34.078,-118.4741,33.5138,36.2765,1850,1958
+GETTY,Getty Research Institute – Gigord & Jacobson collections,@Egypt,Egypt,depicts,Getty Research Institute – Gigord & Jacobson collections holds images/records of Egypt,34.078,-118.4741,30.0444,31.2357,1850,1958
+GETTY,Getty Research Institute – Gigord & Jacobson collections,@Palestine,Palestine,depicts,Getty Research Institute – Gigord & Jacobson collections holds images/records of Palestine,34.078,-118.4741,31.7683,35.2137,1850,1958
+AKDC,Aga Khan Documentation Center at MIT / Archnet,@Iraq,Iraq,depicts,Aga Khan Documentation Center at MIT / Archnet holds images/records of Iraq,42.3601,-71.0942,33.3152,44.3661,1920,1980
+AKDC,Aga Khan Documentation Center at MIT / Archnet,@Syria,Syria,depicts,Aga Khan Documentation Center at MIT / Archnet holds images/records of Syria,42.3601,-71.0942,33.5138,36.2765,1920,1980
+MET,The Metropolitan Museum of Art – Open Access,@Egypt,Egypt,depicts,The Metropolitan Museum of Art – Open Access holds images/records of Egypt,40.7794,-73.9632,30.0444,31.2357,600,1900
+MET,The Metropolitan Museum of Art – Open Access,@Syria,Syria,depicts,The Metropolitan Museum of Art – Open Access holds images/records of Syria,40.7794,-73.9632,33.5138,36.2765,600,1900
+MET,The Metropolitan Museum of Art – Open Access,@Iraq,Iraq,depicts,The Metropolitan Museum of Art – Open Access holds images/records of Iraq,40.7794,-73.9632,33.3152,44.3661,600,1900
+MET,The Metropolitan Museum of Art – Open Access,@Morocco,Morocco,depicts,The Metropolitan Museum of Art – Open Access holds images/records of Morocco,40.7794,-73.9632,34.0209,-6.8416,600,1900
+MET,The Metropolitan Museum of Art – Open Access,@Hejaz (Mecca),Hejaz (Mecca),depicts,The Metropolitan Museum of Art – Open Access holds images/records of Hejaz (Mecca),40.7794,-73.9632,21.3891,39.8579,600,1900
+NYPL,New York Public Library – Digital Collections,@Hejaz (Mecca),Hejaz (Mecca),depicts,New York Public Library – Digital Collections holds images/records of Hejaz (Mecca),40.7532,-73.9822,21.3891,39.8579,1880,1940
+MCNY,Museum of the City of New York,"@Little Syria, New York","Little Syria, New York",depicts,"Museum of the City of New York holds images/records of Little Syria, New York",40.7925,-73.9519,40.70806,-74.01389,1880,1950
+WSHS,Washington Street Historical Society (Little Syria),@Lebanon,Lebanon,depicts,Washington Street Historical Society (Little Syria) holds images/records of Lebanon,40.70806,-74.01389,33.8938,35.5018,1880,1946
+WSHS,Washington Street Historical Society (Little Syria),@Syria,Syria,depicts,Washington Street Historical Society (Little Syria) holds images/records of Syria,40.70806,-74.01389,33.5138,36.2765,1880,1946
+AANM,Arab American National Museum,"@Little Syria, New York","Little Syria, New York",depicts,"Arab American National Museum holds images/records of Little Syria, New York",42.3223,-83.1763,40.70806,-74.01389,1880,2026
+AANM,Arab American National Museum,@Lebanon,Lebanon,depicts,Arab American National Museum holds images/records of Lebanon,42.3223,-83.1763,33.8938,35.5018,1880,2026
+AANM,Arab American National Museum,@Syria,Syria,depicts,Arab American National Museum holds images/records of Syria,42.3223,-83.1763,33.5138,36.2765,1880,2026
+AANM,Arab American National Museum,@Palestine,Palestine,depicts,Arab American National Museum holds images/records of Palestine,42.3223,-83.1763,31.7683,35.2137,1880,2026
+AANM,Arab American National Museum,@Iraq,Iraq,depicts,Arab American National Museum holds images/records of Iraq,42.3223,-83.1763,33.3152,44.3661,1880,2026
+AANM,Arab American National Museum,@Yemen,Yemen,depicts,Arab American National Museum holds images/records of Yemen,42.3223,-83.1763,15.3694,44.191,1880,2026
+KCLDS,Khayrallah Center – Nassour Archive of Lebanese Diaspora (NC State),@Lebanon,Lebanon,depicts,Khayrallah Center – Nassour Archive of Lebanese Diaspora (NC State) holds images/records of Lebanon,35.7847,-78.6821,33.8938,35.5018,1880,2020
+KCLDS,Khayrallah Center – Nassour Archive of Lebanese Diaspora (NC State),@Brazil (São Paulo),Brazil (São Paulo),depicts,Khayrallah Center – Nassour Archive of Lebanese Diaspora (NC State) holds images/records of Brazil (São Paulo),35.7847,-78.6821,-23.5505,-46.6333,1880,2020
+KCLDS,Khayrallah Center – Nassour Archive of Lebanese Diaspora (NC State),@Mexico,Mexico,depicts,Khayrallah Center – Nassour Archive of Lebanese Diaspora (NC State) holds images/records of Mexico,35.7847,-78.6821,19.4326,-99.1332,1880,2020
+NMAH,Smithsonian NMAH Archives Center – Faris & Yamna Naff Arab American Collection,@Lebanon,Lebanon,depicts,Smithsonian NMAH Archives Center – Faris & Yamna Naff Arab American Collection holds images/records of Lebanon,38.8913,-77.03,33.8938,35.5018,1880,1985
+NMAH,Smithsonian NMAH Archives Center – Faris & Yamna Naff Arab American Collection,@Syria,Syria,depicts,Smithsonian NMAH Archives Center – Faris & Yamna Naff Arab American Collection holds images/records of Syria,38.8913,-77.03,33.5138,36.2765,1880,1985
+NMAH,Smithsonian NMAH Archives Center – Faris & Yamna Naff Arab American Collection,@Arab America (Dearborn),Arab America (Dearborn),depicts,Smithsonian NMAH Archives Center – Faris & Yamna Naff Arab American Collection holds images/records of Arab America (Dearborn),38.8913,-77.03,42.3223,-83.1763,1880,1985
+IJA,Iraqi Jewish Archive (US National Archives),@Iraq,Iraq,depicts,Iraqi Jewish Archive (US National Archives) holds images/records of Iraq,38.9989,-76.9579,33.3152,44.3661,1540,1975
+HMML,Hill Museum & Manuscript Library – vHMML Reading Room,@Iraq,Iraq,depicts,Hill Museum & Manuscript Library – vHMML Reading Room holds images/records of Iraq,45.5938,-94.3926,33.3152,44.3661,900,1950
+HMML,Hill Museum & Manuscript Library – vHMML Reading Room,@Syria,Syria,depicts,Hill Museum & Manuscript Library – vHMML Reading Room holds images/records of Syria,45.5938,-94.3926,33.5138,36.2765,900,1950
+ARAMCO,AramcoWorld Photo Archive,@Saudi Arabia,Saudi Arabia,depicts,AramcoWorld Photo Archive holds images/records of Saudi Arabia,29.7604,-95.3698,24.7136,46.6753,1964,2026
+ARAMCO,AramcoWorld Photo Archive,@Egypt,Egypt,depicts,AramcoWorld Photo Archive holds images/records of Egypt,29.7604,-95.3698,30.0444,31.2357,1964,2026
+ARAMCO,AramcoWorld Photo Archive,@Morocco,Morocco,depicts,AramcoWorld Photo Archive holds images/records of Morocco,29.7604,-95.3698,34.0209,-6.8416,1964,2026
+ARAMCO,AramcoWorld Photo Archive,@Syria,Syria,depicts,AramcoWorld Photo Archive holds images/records of Syria,29.7604,-95.3698,33.5138,36.2765,1964,2026
+ARAMCO,AramcoWorld Photo Archive,@Yemen,Yemen,depicts,AramcoWorld Photo Archive holds images/records of Yemen,29.7604,-95.3698,15.3694,44.191,1964,2026
+ARAMCO,AramcoWorld Photo Archive,@Oman,Oman,depicts,AramcoWorld Photo Archive holds images/records of Oman,29.7604,-95.3698,23.588,58.3829,1964,2026
+PPPA,Palestine Poster Project Archives,@Palestine,Palestine,depicts,Palestine Poster Project Archives holds images/records of Palestine,38.9076,-77.0723,31.7683,35.2137,1900,2026
+MI-SP,Museu da Imigração do Estado de São Paulo,@Lebanon,Lebanon,depicts,Museu da Imigração do Estado de São Paulo holds images/records of Lebanon,-23.5475,-46.611,33.8938,35.5018,1882,1973
+MI-SP,Museu da Imigração do Estado de São Paulo,@Syria,Syria,depicts,Museu da Imigração do Estado de São Paulo holds images/records of Syria,-23.5475,-46.611,33.5138,36.2765,1882,1973
+DJERBA,"al-Basi Family Library, Djerba (EAP1020)",@Tunisia,Tunisia,depicts,"al-Basi Family Library, Djerba (EAP1020) holds images/records of Tunisia",33.8756,10.8575,36.8065,10.1815,,
+AIF,Arab Image Foundation,AKDC,Aga Khan Documentation Center at MIT / Archnet,custody,"Chadirji photographic archive: on loan at AIF Beirut, given to MIT",33.8938,35.5018,42.3601,-71.0942,,
+@Iraq,Iraq,AKDC,Aga Khan Documentation Center at MIT / Archnet,custody,"Chadirji negatives made in Iraq, now in Cambridge MA",33.3152,44.3661,42.3601,-71.0942,,
+@Hejaz (Mecca),Hejaz (Mecca),LEIDEN,Leiden University Libraries – Middle Eastern Collections,custody,Mecca photographs (1884–85) taken to Leiden,21.3891,39.8579,52.1601,4.497,,
+@Iraq,Iraq,IJA,Iraqi Jewish Archive (US National Archives),custody,"Recovered in Baghdad 2003, shipped to US National Archives",33.3152,44.3661,38.9989,-76.9579,,
+@Palestine,Palestine,MATSON,Library of Congress – Matson (American Colony) Photograph Collection,custody,American Colony negatives from Jerusalem to Library of Congress (1966–81),31.7683,35.2137,38.8887,-77.0047,,
+@Ottoman centre (Istanbul),Ottoman centre (Istanbul),GETTY,Getty Research Institute – Gigord & Jacobson collections,custody,"Gigord bought photographs in Istanbul markets, now in Los Angeles",41.0082,28.9784,34.078,-118.4741,,
+KEW,"The National Archives (UK), Kew",AGDA,Arabian Gulf Digital Archive (National Library & Archives UAE),custody,British Gulf records returned as digital copies to Abu Dhabi,51.481,-0.2797,24.4539,54.3773,,
+BL,British Library (India Office Records; Endangered Archives Programme),QDL,Qatar Digital Library,custody,India Office Gulf records digitised for Doha,51.5299,-0.1277,25.3176,51.4388,,
+@Iraq,Iraq,HMML,Hill Museum & Manuscript Library – vHMML Reading Room,custody,"Iraqi church/private manuscripts digitised with CNMO Erbil, hosted in Minnesota",33.3152,44.3661,45.5938,-94.3926,,
+CHD,"Centre for Historical Documents, Damascus",@Ottoman centre (Istanbul),Ottoman centre (Istanbul),custody,"'Damascus Documents' moved from Qubbat al-Khazna to Istanbul, early 20th c.",33.5138,36.2765,41.0082,28.9784,,
+IJA,Iraqi Jewish Archive (US National Archives),INLA,Iraq National Library and Archive,custody,"US custody is temporary; return to Iraq agreed in principle, still disputed",38.9989,-76.9579,33.3464,44.3845,,
+BL,British Library (India Office Records; Endangered Archives Programme),DJERBA,"al-Basi Family Library, Djerba (EAP1020)",partnership,EAP grant digitised the al-Basi library,51.5299,-0.1277,33.8756,10.8575,,
+AUB,AUB Libraries – Archives & Special Collections,BL,British Library (India Office Records; Endangered Archives Programme),partnership,AUB is EAP regional hub; al-Ma'luf collection online at both,33.9,35.48,51.5299,-0.1277,,
+SHAP,Syrian Heritage Archive Project (Museum für Islamische Kunst + DAI),@Syria,Syria,partnership,"4,000+ Syrian places added to iDAI.gazetteer",52.5212,13.3963,33.5138,36.2765,,
+AANM,Arab American National Museum,KCLDS,Khayrallah Center – Nassour Archive of Lebanese Diaspora (NC State),partnership,Index of Arab American Archives (with UH-Clear Lake),42.3223,-83.1763,35.7847,-78.6821,,
+AANM,Arab American National Museum,NMAH,Smithsonian NMAH Archives Center – Faris & Yamna Naff Arab American Collection,partnership,Naff collection audio copies at both,42.3223,-83.1763,38.8913,-77.03,,
+AANM,Arab American National Museum,WSHS,Washington Street Historical Society (Little Syria),partnership,"'Little Syria, NY 1880–1940' exhibition",42.3223,-83.1763,40.70806,-74.01389,,
+NYPL,New York Public Library – Digital Collections,WSHS,Washington Street Historical Society (Little Syria),partnership,Little Syria photographs and research guide,40.7532,-73.9822,40.70806,-74.01389,,
+MCNY,Museum of the City of New York,WSHS,Washington Street Historical Society (Little Syria),partnership,Abbott's 1936 Washington St photographs,40.7925,-73.9519,40.70806,-74.01389,,
+ACA,Arab Center for Architecture,SAT,Sharjah Architecture Triennial – Journeys into Architecture Archives,partnership,Lent to 'Journey into Architecture Archives' 2023,33.8868,35.5232,25.3463,55.4209,,
+AUC,AUC Rare Books & Special Collections Library,SAT,Sharjah Architecture Triennial – Journeys into Architecture Archives,partnership,Lent to 'Journey into Architecture Archives' 2023,30.0196,31.4996,25.3463,55.4209,,
+ADM,Archives du Maroc,SAT,Sharjah Architecture Triennial – Journeys into Architecture Archives,partnership,Lent to 'Journey into Architecture Archives' 2023,34.0209,-6.8416,25.3463,55.4209,,
+AIF,Arab Image Foundation,DEBBAS,"Fouad Debbas Collection, Sursock Museum",partnership,Joint exhibition 'Looking for Leisure' (2018),33.8938,35.5018,33.8925,35.5167,,
+MASA,Atassi Foundation – Modern Art of Syria Archive (MASA),MAWRID,"al Mawrid Arab Art Archive, NYU Abu Dhabi",partnership,Atassi Foundation collection listed in Arab Art Archive,25.2048,55.2708,24.524,54.4352,,
+MET,The Metropolitan Museum of Art – Open Access,AKDC,Aga Khan Documentation Center at MIT / Archnet,partnership,Met Islamic Art photographs digitised for Archnet,40.7794,-73.9632,42.3601,-71.0942,,
+@Lebanon,Lebanon,WSHS,Washington Street Historical Society (Little Syria),migration,"Sea route Beirut → New York (via Ellis Island), 1880–1940",33.8938,35.5018,40.70806,-74.01389,,
+@Syria,Syria,WSHS,Washington Street Historical Society (Little Syria),migration,Sea route from Ottoman Syria → New York,33.5138,36.2765,40.70806,-74.01389,,
+@Lebanon,Lebanon,MI-SP,Museu da Imigração do Estado de São Paulo,migration,"Sea route Beirut → Santos/São Paulo, from 1870s",33.8938,35.5018,-23.5475,-46.611,,
+@Lebanon,Lebanon,AANM,Arab American National Museum,migration,Migration to Detroit/Dearborn,33.8938,35.5018,42.3223,-83.1763,,
+@Lebanon,Lebanon,KCLDS,Khayrallah Center – Nassour Archive of Lebanese Diaspora (NC State),migration,Migration to North Carolina,33.8938,35.5018,35.7847,-78.6821,,
+@Lebanon,Lebanon,@Mexico,Mexico,migration,Lebanese community in Mexico (AIF Madrigal de Bulhosen collection),33.8938,35.5018,19.4326,-99.1332,,

@@ -1,0 +1,4972 @@
+{
+ "type": "FeatureCollection",
+ "name": "arabic_archives_edges",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      35.5018,
+      33.8938
+     ],
+     [
+      31.2357,
+      30.0444
+     ]
+    ]
+   },
+   "properties": {
+    "source": "AIF",
+    "source_name": "Arab Image Foundation",
+    "target": "@Egypt",
+    "target_name": "Egypt",
+    "type": "depicts",
+    "note": "Arab Image Foundation holds images/records of Egypt",
+    "start": 1860,
+    "end": 1993
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      35.5018,
+      33.8938
+     ],
+     [
+      36.2765,
+      33.5138
+     ]
+    ]
+   },
+   "properties": {
+    "source": "AIF",
+    "source_name": "Arab Image Foundation",
+    "target": "@Syria",
+    "target_name": "Syria",
+    "type": "depicts",
+    "note": "Arab Image Foundation holds images/records of Syria",
+    "start": 1860,
+    "end": 1993
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      35.5018,
+      33.8938
+     ],
+     [
+      44.3661,
+      33.3152
+     ]
+    ]
+   },
+   "properties": {
+    "source": "AIF",
+    "source_name": "Arab Image Foundation",
+    "target": "@Iraq",
+    "target_name": "Iraq",
+    "type": "depicts",
+    "note": "Arab Image Foundation holds images/records of Iraq",
+    "start": 1860,
+    "end": 1993
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      35.5018,
+      33.8938
+     ],
+     [
+      35.2137,
+      31.7683
+     ]
+    ]
+   },
+   "properties": {
+    "source": "AIF",
+    "source_name": "Arab Image Foundation",
+    "target": "@Palestine",
+    "target_name": "Palestine",
+    "type": "depicts",
+    "note": "Arab Image Foundation holds images/records of Palestine",
+    "start": 1860,
+    "end": 1993
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      35.5018,
+      33.8938
+     ],
+     [
+      -6.8416,
+      34.0209
+     ]
+    ]
+   },
+   "properties": {
+    "source": "AIF",
+    "source_name": "Arab Image Foundation",
+    "target": "@Morocco",
+    "target_name": "Morocco",
+    "type": "depicts",
+    "note": "Arab Image Foundation holds images/records of Morocco",
+    "start": 1860,
+    "end": 1993
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      35.5018,
+      33.8938
+     ],
+     [
+      -99.1332,
+      19.4326
+     ]
+    ]
+   },
+   "properties": {
+    "source": "AIF",
+    "source_name": "Arab Image Foundation",
+    "target": "@Mexico",
+    "target_name": "Mexico",
+    "type": "depicts",
+    "note": "Arab Image Foundation holds images/records of Mexico",
+    "start": 1860,
+    "end": 1993
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      35.5167,
+      33.8925
+     ],
+     [
+      36.2765,
+      33.5138
+     ]
+    ]
+   },
+   "properties": {
+    "source": "DEBBAS",
+    "source_name": "Fouad Debbas Collection, Sursock Museum",
+    "target": "@Syria",
+    "target_name": "Syria",
+    "type": "depicts",
+    "note": "Fouad Debbas Collection, Sursock Museum holds images/records of Syria",
+    "start": 1830,
+    "end": 1960
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      35.5167,
+      33.8925
+     ],
+     [
+      35.2137,
+      31.7683
+     ]
+    ]
+   },
+   "properties": {
+    "source": "DEBBAS",
+    "source_name": "Fouad Debbas Collection, Sursock Museum",
+    "target": "@Palestine",
+    "target_name": "Palestine",
+    "type": "depicts",
+    "note": "Fouad Debbas Collection, Sursock Museum holds images/records of Palestine",
+    "start": 1830,
+    "end": 1960
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      35.5167,
+      33.8925
+     ],
+     [
+      31.2357,
+      30.0444
+     ]
+    ]
+   },
+   "properties": {
+    "source": "DEBBAS",
+    "source_name": "Fouad Debbas Collection, Sursock Museum",
+    "target": "@Egypt",
+    "target_name": "Egypt",
+    "type": "depicts",
+    "note": "Fouad Debbas Collection, Sursock Museum holds images/records of Egypt",
+    "start": 1830,
+    "end": 1960
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      35.5232,
+      33.8868
+     ],
+     [
+      44.3661,
+      33.3152
+     ]
+    ]
+   },
+   "properties": {
+    "source": "ACA",
+    "source_name": "Arab Center for Architecture",
+    "target": "@Iraq",
+    "target_name": "Iraq",
+    "type": "depicts",
+    "note": "Arab Center for Architecture holds images/records of Iraq",
+    "start": 1930,
+    "end": 1980
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      35.5232,
+      33.8868
+     ],
+     [
+      36.2765,
+      33.5138
+     ]
+    ]
+   },
+   "properties": {
+    "source": "ACA",
+    "source_name": "Arab Center for Architecture",
+    "target": "@Syria",
+    "target_name": "Syria",
+    "type": "depicts",
+    "note": "Arab Center for Architecture holds images/records of Syria",
+    "start": 1930,
+    "end": 1980
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      35.5232,
+      33.8868
+     ],
+     [
+      31.2357,
+      30.0444
+     ]
+    ]
+   },
+   "properties": {
+    "source": "ACA",
+    "source_name": "Arab Center for Architecture",
+    "target": "@Egypt",
+    "target_name": "Egypt",
+    "type": "depicts",
+    "note": "Arab Center for Architecture holds images/records of Egypt",
+    "start": 1930,
+    "end": 1980
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      35.667,
+      33.917
+     ],
+     [
+      31.2357,
+      30.0444
+     ]
+    ]
+   },
+   "properties": {
+    "source": "AMAR",
+    "source_name": "AMAR Foundation for Arab Music Archiving & Research",
+    "target": "@Egypt",
+    "target_name": "Egypt",
+    "type": "depicts",
+    "note": "AMAR Foundation for Arab Music Archiving & Research holds images/records of Egypt",
+    "start": 1903,
+    "end": 1970
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      35.667,
+      33.917
+     ],
+     [
+      36.2765,
+      33.5138
+     ]
+    ]
+   },
+   "properties": {
+    "source": "AMAR",
+    "source_name": "AMAR Foundation for Arab Music Archiving & Research",
+    "target": "@Syria",
+    "target_name": "Syria",
+    "type": "depicts",
+    "note": "AMAR Foundation for Arab Music Archiving & Research holds images/records of Syria",
+    "start": 1903,
+    "end": 1970
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      35.667,
+      33.917
+     ],
+     [
+      35.5018,
+      33.8938
+     ]
+    ]
+   },
+   "properties": {
+    "source": "AMAR",
+    "source_name": "AMAR Foundation for Arab Music Archiving & Research",
+    "target": "@Lebanon",
+    "target_name": "Lebanon",
+    "type": "depicts",
+    "note": "AMAR Foundation for Arab Music Archiving & Research holds images/records of Lebanon",
+    "start": 1903,
+    "end": 1970
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      35.667,
+      33.917
+     ],
+     [
+      44.3661,
+      33.3152
+     ]
+    ]
+   },
+   "properties": {
+    "source": "AMAR",
+    "source_name": "AMAR Foundation for Arab Music Archiving & Research",
+    "target": "@Iraq",
+    "target_name": "Iraq",
+    "type": "depicts",
+    "note": "AMAR Foundation for Arab Music Archiving & Research holds images/records of Iraq",
+    "start": 1903,
+    "end": 1970
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      35.48,
+      33.9
+     ],
+     [
+      36.2765,
+      33.5138
+     ]
+    ]
+   },
+   "properties": {
+    "source": "AUB",
+    "source_name": "AUB Libraries – Archives & Special Collections",
+    "target": "@Syria",
+    "target_name": "Syria",
+    "type": "depicts",
+    "note": "AUB Libraries – Archives & Special Collections holds images/records of Syria",
+    "start": 1866,
+    "end": 2026
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      35.48,
+      33.9
+     ],
+     [
+      35.2137,
+      31.7683
+     ]
+    ]
+   },
+   "properties": {
+    "source": "AUB",
+    "source_name": "AUB Libraries – Archives & Special Collections",
+    "target": "@Palestine",
+    "target_name": "Palestine",
+    "type": "depicts",
+    "note": "AUB Libraries – Archives & Special Collections holds images/records of Palestine",
+    "start": 1866,
+    "end": 2026
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      35.48,
+      33.9
+     ],
+     [
+      31.2357,
+      30.0444
+     ]
+    ]
+   },
+   "properties": {
+    "source": "AUB",
+    "source_name": "AUB Libraries – Archives & Special Collections",
+    "target": "@Egypt",
+    "target_name": "Egypt",
+    "type": "depicts",
+    "note": "AUB Libraries – Archives & Special Collections holds images/records of Egypt",
+    "start": 1866,
+    "end": 2026
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      35.48,
+      33.9
+     ],
+     [
+      -46.6333,
+      -23.5505
+     ]
+    ]
+   },
+   "properties": {
+    "source": "AUB",
+    "source_name": "AUB Libraries – Archives & Special Collections",
+    "target": "@Brazil (São Paulo)",
+    "target_name": "Brazil (São Paulo)",
+    "type": "depicts",
+    "note": "AUB Libraries – Archives & Special Collections holds images/records of Brazil (São Paulo)",
+    "start": 1866,
+    "end": 2026
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      35.5047,
+      33.8892
+     ],
+     [
+      36.2765,
+      33.5138
+     ]
+    ]
+   },
+   "properties": {
+    "source": "IFPO",
+    "source_name": "Ifpo Photothèque (via MédiHAL)",
+    "target": "@Syria",
+    "target_name": "Syria",
+    "type": "depicts",
+    "note": "Ifpo Photothèque (via MédiHAL) holds images/records of Syria",
+    "start": 1910,
+    "end": 1960
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      35.18345,
+      31.96297
+     ],
+     [
+      35.2137,
+      31.7683
+     ]
+    ]
+   },
+   "properties": {
+    "source": "PMDA",
+    "source_name": "Palestinian Museum Digital Archive",
+    "target": "@Palestine",
+    "target_name": "Palestine",
+    "type": "depicts",
+    "note": "Palestinian Museum Digital Archive holds images/records of Palestine",
+    "start": 1800,
+    "end": 2026
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      35.18345,
+      31.96297
+     ],
+     [
+      35.5018,
+      33.8938
+     ]
+    ]
+   },
+   "properties": {
+    "source": "PMDA",
+    "source_name": "Palestinian Museum Digital Archive",
+    "target": "@Lebanon",
+    "target_name": "Lebanon",
+    "type": "depicts",
+    "note": "Palestinian Museum Digital Archive holds images/records of Lebanon",
+    "start": 1800,
+    "end": 2026
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      35.18345,
+      31.96297
+     ],
+     [
+      35.9284,
+      31.9454
+     ]
+    ]
+   },
+   "properties": {
+    "source": "PMDA",
+    "source_name": "Palestinian Museum Digital Archive",
+    "target": "@Jordan",
+    "target_name": "Jordan",
+    "type": "depicts",
+    "note": "Palestinian Museum Digital Archive holds images/records of Jordan",
+    "start": 1800,
+    "end": 2026
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      54.4346,
+      24.5235
+     ],
+     [
+      31.2357,
+      30.0444
+     ]
+    ]
+   },
+   "properties": {
+    "source": "AKKASAH",
+    "source_name": "Akkasah Photography Archive, NYU Abu Dhabi",
+    "target": "@Egypt",
+    "target_name": "Egypt",
+    "type": "depicts",
+    "note": "Akkasah Photography Archive, NYU Abu Dhabi holds images/records of Egypt",
+    "start": 1890,
+    "end": 2017
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      54.4346,
+      24.5235
+     ],
+     [
+      44.3661,
+      33.3152
+     ]
+    ]
+   },
+   "properties": {
+    "source": "AKKASAH",
+    "source_name": "Akkasah Photography Archive, NYU Abu Dhabi",
+    "target": "@Iraq",
+    "target_name": "Iraq",
+    "type": "depicts",
+    "note": "Akkasah Photography Archive, NYU Abu Dhabi holds images/records of Iraq",
+    "start": 1890,
+    "end": 2017
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      54.4346,
+      24.5235
+     ],
+     [
+      35.2137,
+      31.7683
+     ]
+    ]
+   },
+   "properties": {
+    "source": "AKKASAH",
+    "source_name": "Akkasah Photography Archive, NYU Abu Dhabi",
+    "target": "@Palestine",
+    "target_name": "Palestine",
+    "type": "depicts",
+    "note": "Akkasah Photography Archive, NYU Abu Dhabi holds images/records of Palestine",
+    "start": 1890,
+    "end": 2017
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      54.4346,
+      24.5235
+     ],
+     [
+      35.5018,
+      33.8938
+     ]
+    ]
+   },
+   "properties": {
+    "source": "AKKASAH",
+    "source_name": "Akkasah Photography Archive, NYU Abu Dhabi",
+    "target": "@Lebanon",
+    "target_name": "Lebanon",
+    "type": "depicts",
+    "note": "Akkasah Photography Archive, NYU Abu Dhabi holds images/records of Lebanon",
+    "start": 1890,
+    "end": 2017
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      54.4346,
+      24.5235
+     ],
+     [
+      36.2765,
+      33.5138
+     ]
+    ]
+   },
+   "properties": {
+    "source": "AKKASAH",
+    "source_name": "Akkasah Photography Archive, NYU Abu Dhabi",
+    "target": "@Syria",
+    "target_name": "Syria",
+    "type": "depicts",
+    "note": "Akkasah Photography Archive, NYU Abu Dhabi holds images/records of Syria",
+    "start": 1890,
+    "end": 2017
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      54.4346,
+      24.5235
+     ],
+     [
+      3.0588,
+      36.7538
+     ]
+    ]
+   },
+   "properties": {
+    "source": "AKKASAH",
+    "source_name": "Akkasah Photography Archive, NYU Abu Dhabi",
+    "target": "@Algeria",
+    "target_name": "Algeria",
+    "type": "depicts",
+    "note": "Akkasah Photography Archive, NYU Abu Dhabi holds images/records of Algeria",
+    "start": 1890,
+    "end": 2017
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      54.4346,
+      24.5235
+     ],
+     [
+      10.1815,
+      36.8065
+     ]
+    ]
+   },
+   "properties": {
+    "source": "AKKASAH",
+    "source_name": "Akkasah Photography Archive, NYU Abu Dhabi",
+    "target": "@Tunisia",
+    "target_name": "Tunisia",
+    "type": "depicts",
+    "note": "Akkasah Photography Archive, NYU Abu Dhabi holds images/records of Tunisia",
+    "start": 1890,
+    "end": 2017
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      54.4346,
+      24.5235
+     ],
+     [
+      54.3773,
+      24.4539
+     ]
+    ]
+   },
+   "properties": {
+    "source": "AKKASAH",
+    "source_name": "Akkasah Photography Archive, NYU Abu Dhabi",
+    "target": "@UAE",
+    "target_name": "UAE",
+    "type": "depicts",
+    "note": "Akkasah Photography Archive, NYU Abu Dhabi holds images/records of UAE",
+    "start": 1890,
+    "end": 2017
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      54.4346,
+      24.5235
+     ],
+     [
+      47.9774,
+      29.3759
+     ]
+    ]
+   },
+   "properties": {
+    "source": "AKKASAH",
+    "source_name": "Akkasah Photography Archive, NYU Abu Dhabi",
+    "target": "@Kuwait",
+    "target_name": "Kuwait",
+    "type": "depicts",
+    "note": "Akkasah Photography Archive, NYU Abu Dhabi holds images/records of Kuwait",
+    "start": 1890,
+    "end": 2017
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      54.4346,
+      24.5235
+     ],
+     [
+      50.586,
+      26.2285
+     ]
+    ]
+   },
+   "properties": {
+    "source": "AKKASAH",
+    "source_name": "Akkasah Photography Archive, NYU Abu Dhabi",
+    "target": "@Bahrain",
+    "target_name": "Bahrain",
+    "type": "depicts",
+    "note": "Akkasah Photography Archive, NYU Abu Dhabi holds images/records of Bahrain",
+    "start": 1890,
+    "end": 2017
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      54.4346,
+      24.5235
+     ],
+     [
+      46.6753,
+      24.7136
+     ]
+    ]
+   },
+   "properties": {
+    "source": "AKKASAH",
+    "source_name": "Akkasah Photography Archive, NYU Abu Dhabi",
+    "target": "@Saudi Arabia",
+    "target_name": "Saudi Arabia",
+    "type": "depicts",
+    "note": "Akkasah Photography Archive, NYU Abu Dhabi holds images/records of Saudi Arabia",
+    "start": 1890,
+    "end": 2017
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      54.4352,
+      24.524
+     ],
+     [
+      31.2357,
+      30.0444
+     ]
+    ]
+   },
+   "properties": {
+    "source": "MAWRID",
+    "source_name": "al Mawrid Arab Art Archive, NYU Abu Dhabi",
+    "target": "@Egypt",
+    "target_name": "Egypt",
+    "type": "depicts",
+    "note": "al Mawrid Arab Art Archive, NYU Abu Dhabi holds images/records of Egypt",
+    "start": 1850,
+    "end": 1995
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      54.4352,
+      24.524
+     ],
+     [
+      44.3661,
+      33.3152
+     ]
+    ]
+   },
+   "properties": {
+    "source": "MAWRID",
+    "source_name": "al Mawrid Arab Art Archive, NYU Abu Dhabi",
+    "target": "@Iraq",
+    "target_name": "Iraq",
+    "type": "depicts",
+    "note": "al Mawrid Arab Art Archive, NYU Abu Dhabi holds images/records of Iraq",
+    "start": 1850,
+    "end": 1995
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      54.4352,
+      24.524
+     ],
+     [
+      36.2765,
+      33.5138
+     ]
+    ]
+   },
+   "properties": {
+    "source": "MAWRID",
+    "source_name": "al Mawrid Arab Art Archive, NYU Abu Dhabi",
+    "target": "@Syria",
+    "target_name": "Syria",
+    "type": "depicts",
+    "note": "al Mawrid Arab Art Archive, NYU Abu Dhabi holds images/records of Syria",
+    "start": 1850,
+    "end": 1995
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      54.4352,
+      24.524
+     ],
+     [
+      35.9284,
+      31.9454
+     ]
+    ]
+   },
+   "properties": {
+    "source": "MAWRID",
+    "source_name": "al Mawrid Arab Art Archive, NYU Abu Dhabi",
+    "target": "@Jordan",
+    "target_name": "Jordan",
+    "type": "depicts",
+    "note": "al Mawrid Arab Art Archive, NYU Abu Dhabi holds images/records of Jordan",
+    "start": 1850,
+    "end": 1995
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      54.4352,
+      24.524
+     ],
+     [
+      54.3773,
+      24.4539
+     ]
+    ]
+   },
+   "properties": {
+    "source": "MAWRID",
+    "source_name": "al Mawrid Arab Art Archive, NYU Abu Dhabi",
+    "target": "@UAE",
+    "target_name": "UAE",
+    "type": "depicts",
+    "note": "al Mawrid Arab Art Archive, NYU Abu Dhabi holds images/records of UAE",
+    "start": 1850,
+    "end": 1995
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      54.3773,
+      24.4539
+     ],
+     [
+      58.3829,
+      23.588
+     ]
+    ]
+   },
+   "properties": {
+    "source": "AGDA",
+    "source_name": "Arabian Gulf Digital Archive (National Library & Archives UAE)",
+    "target": "@Oman",
+    "target_name": "Oman",
+    "type": "depicts",
+    "note": "Arabian Gulf Digital Archive (National Library & Archives UAE) holds images/records of Oman",
+    "start": 1800,
+    "end": 2000
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      54.3773,
+      24.4539
+     ],
+     [
+      51.531,
+      25.2854
+     ]
+    ]
+   },
+   "properties": {
+    "source": "AGDA",
+    "source_name": "Arabian Gulf Digital Archive (National Library & Archives UAE)",
+    "target": "@Qatar",
+    "target_name": "Qatar",
+    "type": "depicts",
+    "note": "Arabian Gulf Digital Archive (National Library & Archives UAE) holds images/records of Qatar",
+    "start": 1800,
+    "end": 2000
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      54.3773,
+      24.4539
+     ],
+     [
+      50.586,
+      26.2285
+     ]
+    ]
+   },
+   "properties": {
+    "source": "AGDA",
+    "source_name": "Arabian Gulf Digital Archive (National Library & Archives UAE)",
+    "target": "@Bahrain",
+    "target_name": "Bahrain",
+    "type": "depicts",
+    "note": "Arabian Gulf Digital Archive (National Library & Archives UAE) holds images/records of Bahrain",
+    "start": 1800,
+    "end": 2000
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      54.3773,
+      24.4539
+     ],
+     [
+      47.9774,
+      29.3759
+     ]
+    ]
+   },
+   "properties": {
+    "source": "AGDA",
+    "source_name": "Arabian Gulf Digital Archive (National Library & Archives UAE)",
+    "target": "@Kuwait",
+    "target_name": "Kuwait",
+    "type": "depicts",
+    "note": "Arabian Gulf Digital Archive (National Library & Archives UAE) holds images/records of Kuwait",
+    "start": 1800,
+    "end": 2000
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      54.3773,
+      24.4539
+     ],
+     [
+      46.6753,
+      24.7136
+     ]
+    ]
+   },
+   "properties": {
+    "source": "AGDA",
+    "source_name": "Arabian Gulf Digital Archive (National Library & Archives UAE)",
+    "target": "@Saudi Arabia",
+    "target_name": "Saudi Arabia",
+    "type": "depicts",
+    "note": "Arabian Gulf Digital Archive (National Library & Archives UAE) holds images/records of Saudi Arabia",
+    "start": 1800,
+    "end": 2000
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      55.2708,
+      25.2048
+     ],
+     [
+      36.2765,
+      33.5138
+     ]
+    ]
+   },
+   "properties": {
+    "source": "MASA",
+    "source_name": "Atassi Foundation – Modern Art of Syria Archive (MASA)",
+    "target": "@Syria",
+    "target_name": "Syria",
+    "type": "depicts",
+    "note": "Atassi Foundation – Modern Art of Syria Archive (MASA) holds images/records of Syria",
+    "start": 1930,
+    "end": 2023
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      55.37736,
+      25.32269
+     ],
+     [
+      31.2357,
+      30.0444
+     ]
+    ]
+   },
+   "properties": {
+    "source": "BARJEEL",
+    "source_name": "Barjeel Art Foundation",
+    "target": "@Egypt",
+    "target_name": "Egypt",
+    "type": "depicts",
+    "note": "Barjeel Art Foundation holds images/records of Egypt",
+    "start": 1900,
+    "end": 2025
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      55.37736,
+      25.32269
+     ],
+     [
+      44.3661,
+      33.3152
+     ]
+    ]
+   },
+   "properties": {
+    "source": "BARJEEL",
+    "source_name": "Barjeel Art Foundation",
+    "target": "@Iraq",
+    "target_name": "Iraq",
+    "type": "depicts",
+    "note": "Barjeel Art Foundation holds images/records of Iraq",
+    "start": 1900,
+    "end": 2025
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      55.37736,
+      25.32269
+     ],
+     [
+      36.2765,
+      33.5138
+     ]
+    ]
+   },
+   "properties": {
+    "source": "BARJEEL",
+    "source_name": "Barjeel Art Foundation",
+    "target": "@Syria",
+    "target_name": "Syria",
+    "type": "depicts",
+    "note": "Barjeel Art Foundation holds images/records of Syria",
+    "start": 1900,
+    "end": 2025
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      55.37736,
+      25.32269
+     ],
+     [
+      35.5018,
+      33.8938
+     ]
+    ]
+   },
+   "properties": {
+    "source": "BARJEEL",
+    "source_name": "Barjeel Art Foundation",
+    "target": "@Lebanon",
+    "target_name": "Lebanon",
+    "type": "depicts",
+    "note": "Barjeel Art Foundation holds images/records of Lebanon",
+    "start": 1900,
+    "end": 2025
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      55.37736,
+      25.32269
+     ],
+     [
+      35.2137,
+      31.7683
+     ]
+    ]
+   },
+   "properties": {
+    "source": "BARJEEL",
+    "source_name": "Barjeel Art Foundation",
+    "target": "@Palestine",
+    "target_name": "Palestine",
+    "type": "depicts",
+    "note": "Barjeel Art Foundation holds images/records of Palestine",
+    "start": 1900,
+    "end": 2025
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      55.37736,
+      25.32269
+     ],
+     [
+      -6.8416,
+      34.0209
+     ]
+    ]
+   },
+   "properties": {
+    "source": "BARJEEL",
+    "source_name": "Barjeel Art Foundation",
+    "target": "@Morocco",
+    "target_name": "Morocco",
+    "type": "depicts",
+    "note": "Barjeel Art Foundation holds images/records of Morocco",
+    "start": 1900,
+    "end": 2025
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      55.37736,
+      25.32269
+     ],
+     [
+      3.0588,
+      36.7538
+     ]
+    ]
+   },
+   "properties": {
+    "source": "BARJEEL",
+    "source_name": "Barjeel Art Foundation",
+    "target": "@Algeria",
+    "target_name": "Algeria",
+    "type": "depicts",
+    "note": "Barjeel Art Foundation holds images/records of Algeria",
+    "start": 1900,
+    "end": 2025
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      55.37736,
+      25.32269
+     ],
+     [
+      10.1815,
+      36.8065
+     ]
+    ]
+   },
+   "properties": {
+    "source": "BARJEEL",
+    "source_name": "Barjeel Art Foundation",
+    "target": "@Tunisia",
+    "target_name": "Tunisia",
+    "type": "depicts",
+    "note": "Barjeel Art Foundation holds images/records of Tunisia",
+    "start": 1900,
+    "end": 2025
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      55.4209,
+      25.3463
+     ],
+     [
+      35.5018,
+      33.8938
+     ]
+    ]
+   },
+   "properties": {
+    "source": "SAT",
+    "source_name": "Sharjah Architecture Triennial – Journeys into Architecture Archives",
+    "target": "@Lebanon",
+    "target_name": "Lebanon",
+    "type": "depicts",
+    "note": "Sharjah Architecture Triennial – Journeys into Architecture Archives holds images/records of Lebanon",
+    "start": 1930,
+    "end": 1980
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      55.4209,
+      25.3463
+     ],
+     [
+      31.2357,
+      30.0444
+     ]
+    ]
+   },
+   "properties": {
+    "source": "SAT",
+    "source_name": "Sharjah Architecture Triennial – Journeys into Architecture Archives",
+    "target": "@Egypt",
+    "target_name": "Egypt",
+    "type": "depicts",
+    "note": "Sharjah Architecture Triennial – Journeys into Architecture Archives holds images/records of Egypt",
+    "start": 1930,
+    "end": 1980
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      55.4209,
+      25.3463
+     ],
+     [
+      -6.8416,
+      34.0209
+     ]
+    ]
+   },
+   "properties": {
+    "source": "SAT",
+    "source_name": "Sharjah Architecture Triennial – Journeys into Architecture Archives",
+    "target": "@Morocco",
+    "target_name": "Morocco",
+    "type": "depicts",
+    "note": "Sharjah Architecture Triennial – Journeys into Architecture Archives holds images/records of Morocco",
+    "start": 1930,
+    "end": 1980
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      55.4209,
+      25.3463
+     ],
+     [
+      44.3661,
+      33.3152
+     ]
+    ]
+   },
+   "properties": {
+    "source": "SAT",
+    "source_name": "Sharjah Architecture Triennial – Journeys into Architecture Archives",
+    "target": "@Iraq",
+    "target_name": "Iraq",
+    "type": "depicts",
+    "note": "Sharjah Architecture Triennial – Journeys into Architecture Archives holds images/records of Iraq",
+    "start": 1930,
+    "end": 1980
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      55.4209,
+      25.3463
+     ],
+     [
+      36.2765,
+      33.5138
+     ]
+    ]
+   },
+   "properties": {
+    "source": "SAT",
+    "source_name": "Sharjah Architecture Triennial – Journeys into Architecture Archives",
+    "target": "@Syria",
+    "target_name": "Syria",
+    "type": "depicts",
+    "note": "Sharjah Architecture Triennial – Journeys into Architecture Archives holds images/records of Syria",
+    "start": 1930,
+    "end": 1980
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      55.4209,
+      25.3463
+     ],
+     [
+      10.1815,
+      36.8065
+     ]
+    ]
+   },
+   "properties": {
+    "source": "SAT",
+    "source_name": "Sharjah Architecture Triennial – Journeys into Architecture Archives",
+    "target": "@Tunisia",
+    "target_name": "Tunisia",
+    "type": "depicts",
+    "note": "Sharjah Architecture Triennial – Journeys into Architecture Archives holds images/records of Tunisia",
+    "start": 1930,
+    "end": 1980
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      51.4388,
+      25.3176
+     ],
+     [
+      51.531,
+      25.2854
+     ]
+    ]
+   },
+   "properties": {
+    "source": "QDL",
+    "source_name": "Qatar Digital Library",
+    "target": "@Qatar",
+    "target_name": "Qatar",
+    "type": "depicts",
+    "note": "Qatar Digital Library holds images/records of Qatar",
+    "start": 1600,
+    "end": 1950
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      51.4388,
+      25.3176
+     ],
+     [
+      50.586,
+      26.2285
+     ]
+    ]
+   },
+   "properties": {
+    "source": "QDL",
+    "source_name": "Qatar Digital Library",
+    "target": "@Bahrain",
+    "target_name": "Bahrain",
+    "type": "depicts",
+    "note": "Qatar Digital Library holds images/records of Bahrain",
+    "start": 1600,
+    "end": 1950
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      51.4388,
+      25.3176
+     ],
+     [
+      47.9774,
+      29.3759
+     ]
+    ]
+   },
+   "properties": {
+    "source": "QDL",
+    "source_name": "Qatar Digital Library",
+    "target": "@Kuwait",
+    "target_name": "Kuwait",
+    "type": "depicts",
+    "note": "Qatar Digital Library holds images/records of Kuwait",
+    "start": 1600,
+    "end": 1950
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      51.4388,
+      25.3176
+     ],
+     [
+      58.3829,
+      23.588
+     ]
+    ]
+   },
+   "properties": {
+    "source": "QDL",
+    "source_name": "Qatar Digital Library",
+    "target": "@Oman",
+    "target_name": "Oman",
+    "type": "depicts",
+    "note": "Qatar Digital Library holds images/records of Oman",
+    "start": 1600,
+    "end": 1950
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      51.4388,
+      25.3176
+     ],
+     [
+      54.3773,
+      24.4539
+     ]
+    ]
+   },
+   "properties": {
+    "source": "QDL",
+    "source_name": "Qatar Digital Library",
+    "target": "@UAE",
+    "target_name": "UAE",
+    "type": "depicts",
+    "note": "Qatar Digital Library holds images/records of UAE",
+    "start": 1600,
+    "end": 1950
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      51.4388,
+      25.3176
+     ],
+     [
+      46.6753,
+      24.7136
+     ]
+    ]
+   },
+   "properties": {
+    "source": "QDL",
+    "source_name": "Qatar Digital Library",
+    "target": "@Saudi Arabia",
+    "target_name": "Saudi Arabia",
+    "type": "depicts",
+    "note": "Qatar Digital Library holds images/records of Saudi Arabia",
+    "start": 1600,
+    "end": 1950
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      51.4388,
+      25.3176
+     ],
+     [
+      44.3661,
+      33.3152
+     ]
+    ]
+   },
+   "properties": {
+    "source": "QDL",
+    "source_name": "Qatar Digital Library",
+    "target": "@Iraq",
+    "target_name": "Iraq",
+    "type": "depicts",
+    "note": "Qatar Digital Library holds images/records of Iraq",
+    "start": 1600,
+    "end": 1950
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      51.4388,
+      25.3176
+     ],
+     [
+      39.8579,
+      21.3891
+     ]
+    ]
+   },
+   "properties": {
+    "source": "QDL",
+    "source_name": "Qatar Digital Library",
+    "target": "@Hejaz (Mecca)",
+    "target_name": "Hejaz (Mecca)",
+    "type": "depicts",
+    "note": "Qatar Digital Library holds images/records of Hejaz (Mecca)",
+    "start": 1600,
+    "end": 1950
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      29.9092,
+      31.2089
+     ],
+     [
+      31.2357,
+      30.0444
+     ]
+    ]
+   },
+   "properties": {
+    "source": "BA",
+    "source_name": "Memory of Modern Egypt, Bibliotheca Alexandrina",
+    "target": "@Egypt",
+    "target_name": "Egypt",
+    "type": "depicts",
+    "note": "Memory of Modern Egypt, Bibliotheca Alexandrina holds images/records of Egypt",
+    "start": 1805,
+    "end": 1981
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      31.4996,
+      30.0196
+     ],
+     [
+      31.2357,
+      30.0444
+     ]
+    ]
+   },
+   "properties": {
+    "source": "AUC",
+    "source_name": "AUC Rare Books & Special Collections Library",
+    "target": "@Egypt",
+    "target_name": "Egypt",
+    "type": "depicts",
+    "note": "AUC Rare Books & Special Collections Library holds images/records of Egypt",
+    "start": 1850,
+    "end": 2000
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      2.3522,
+      48.8566
+     ],
+     [
+      36.2765,
+      33.5138
+     ]
+    ]
+   },
+   "properties": {
+    "source": "CMSR",
+    "source_name": "Creative Memory of the Syrian Revolution",
+    "target": "@Syria",
+    "target_name": "Syria",
+    "type": "depicts",
+    "note": "Creative Memory of the Syrian Revolution holds images/records of Syria",
+    "start": 2011,
+    "end": 2026
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      13.405,
+      52.52
+     ],
+     [
+      36.2765,
+      33.5138
+     ]
+    ]
+   },
+   "properties": {
+    "source": "SYARCH",
+    "source_name": "Syrian Archive (Mnemonic)",
+    "target": "@Syria",
+    "target_name": "Syria",
+    "type": "depicts",
+    "note": "Syrian Archive (Mnemonic) holds images/records of Syria",
+    "start": 2011,
+    "end": 2026
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      13.405,
+      52.52
+     ],
+     [
+      44.191,
+      15.3694
+     ]
+    ]
+   },
+   "properties": {
+    "source": "SYARCH",
+    "source_name": "Syrian Archive (Mnemonic)",
+    "target": "@Yemen",
+    "target_name": "Yemen",
+    "type": "depicts",
+    "note": "Syrian Archive (Mnemonic) holds images/records of Yemen",
+    "start": 2011,
+    "end": 2026
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      13.405,
+      52.52
+     ],
+     [
+      32.5599,
+      15.5007
+     ]
+    ]
+   },
+   "properties": {
+    "source": "SYARCH",
+    "source_name": "Syrian Archive (Mnemonic)",
+    "target": "@Sudan",
+    "target_name": "Sudan",
+    "type": "depicts",
+    "note": "Syrian Archive (Mnemonic) holds images/records of Sudan",
+    "start": 2011,
+    "end": 2026
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      13.3963,
+      52.5212
+     ],
+     [
+      36.2765,
+      33.5138
+     ]
+    ]
+   },
+   "properties": {
+    "source": "SHAP",
+    "source_name": "Syrian Heritage Archive Project (Museum für Islamische Kunst + DAI)",
+    "target": "@Syria",
+    "target_name": "Syria",
+    "type": "depicts",
+    "note": "Syrian Heritage Archive Project (Museum für Islamische Kunst + DAI) holds images/records of Syria",
+    "start": 1900,
+    "end": 2017
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -1.2577,
+      51.752
+     ],
+     [
+      36.2765,
+      33.5138
+     ]
+    ]
+   },
+   "properties": {
+    "source": "MANAR",
+    "source_name": "Manar al-Athar Photo Archive, University of Oxford",
+    "target": "@Syria",
+    "target_name": "Syria",
+    "type": "depicts",
+    "note": "Manar al-Athar Photo Archive, University of Oxford holds images/records of Syria",
+    "start": 1960,
+    "end": 2020
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -1.2577,
+      51.752
+     ],
+     [
+      35.2137,
+      31.7683
+     ]
+    ]
+   },
+   "properties": {
+    "source": "MANAR",
+    "source_name": "Manar al-Athar Photo Archive, University of Oxford",
+    "target": "@Palestine",
+    "target_name": "Palestine",
+    "type": "depicts",
+    "note": "Manar al-Athar Photo Archive, University of Oxford holds images/records of Palestine",
+    "start": 1960,
+    "end": 2020
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -1.2577,
+      51.752
+     ],
+     [
+      35.9284,
+      31.9454
+     ]
+    ]
+   },
+   "properties": {
+    "source": "MANAR",
+    "source_name": "Manar al-Athar Photo Archive, University of Oxford",
+    "target": "@Jordan",
+    "target_name": "Jordan",
+    "type": "depicts",
+    "note": "Manar al-Athar Photo Archive, University of Oxford holds images/records of Jordan",
+    "start": 1960,
+    "end": 2020
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -1.2577,
+      51.752
+     ],
+     [
+      35.5018,
+      33.8938
+     ]
+    ]
+   },
+   "properties": {
+    "source": "MANAR",
+    "source_name": "Manar al-Athar Photo Archive, University of Oxford",
+    "target": "@Lebanon",
+    "target_name": "Lebanon",
+    "type": "depicts",
+    "note": "Manar al-Athar Photo Archive, University of Oxford holds images/records of Lebanon",
+    "start": 1960,
+    "end": 2020
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -1.2577,
+      51.752
+     ],
+     [
+      31.2357,
+      30.0444
+     ]
+    ]
+   },
+   "properties": {
+    "source": "MANAR",
+    "source_name": "Manar al-Athar Photo Archive, University of Oxford",
+    "target": "@Egypt",
+    "target_name": "Egypt",
+    "type": "depicts",
+    "note": "Manar al-Athar Photo Archive, University of Oxford holds images/records of Egypt",
+    "start": 1960,
+    "end": 2020
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -1.2577,
+      51.752
+     ],
+     [
+      13.1913,
+      32.8872
+     ]
+    ]
+   },
+   "properties": {
+    "source": "MANAR",
+    "source_name": "Manar al-Athar Photo Archive, University of Oxford",
+    "target": "@Libya",
+    "target_name": "Libya",
+    "type": "depicts",
+    "note": "Manar al-Athar Photo Archive, University of Oxford holds images/records of Libya",
+    "start": 1960,
+    "end": 2020
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -1.2577,
+      51.752
+     ],
+     [
+      44.3661,
+      33.3152
+     ]
+    ]
+   },
+   "properties": {
+    "source": "MANAR",
+    "source_name": "Manar al-Athar Photo Archive, University of Oxford",
+    "target": "@Iraq",
+    "target_name": "Iraq",
+    "type": "depicts",
+    "note": "Manar al-Athar Photo Archive, University of Oxford holds images/records of Iraq",
+    "start": 1960,
+    "end": 2020
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -1.2622,
+      51.7627
+     ],
+     [
+      35.2137,
+      31.7683
+     ]
+    ]
+   },
+   "properties": {
+    "source": "MECA",
+    "source_name": "Middle East Centre Archive, St Antony's College",
+    "target": "@Palestine",
+    "target_name": "Palestine",
+    "type": "depicts",
+    "note": "Middle East Centre Archive, St Antony's College holds images/records of Palestine",
+    "start": 1850,
+    "end": 1979
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -1.2622,
+      51.7627
+     ],
+     [
+      44.3661,
+      33.3152
+     ]
+    ]
+   },
+   "properties": {
+    "source": "MECA",
+    "source_name": "Middle East Centre Archive, St Antony's College",
+    "target": "@Iraq",
+    "target_name": "Iraq",
+    "type": "depicts",
+    "note": "Middle East Centre Archive, St Antony's College holds images/records of Iraq",
+    "start": 1850,
+    "end": 1979
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -1.2622,
+      51.7627
+     ],
+     [
+      36.2765,
+      33.5138
+     ]
+    ]
+   },
+   "properties": {
+    "source": "MECA",
+    "source_name": "Middle East Centre Archive, St Antony's College",
+    "target": "@Syria",
+    "target_name": "Syria",
+    "type": "depicts",
+    "note": "Middle East Centre Archive, St Antony's College holds images/records of Syria",
+    "start": 1850,
+    "end": 1979
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -1.2622,
+      51.7627
+     ],
+     [
+      35.5018,
+      33.8938
+     ]
+    ]
+   },
+   "properties": {
+    "source": "MECA",
+    "source_name": "Middle East Centre Archive, St Antony's College",
+    "target": "@Lebanon",
+    "target_name": "Lebanon",
+    "type": "depicts",
+    "note": "Middle East Centre Archive, St Antony's College holds images/records of Lebanon",
+    "start": 1850,
+    "end": 1979
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -1.2622,
+      51.7627
+     ],
+     [
+      31.2357,
+      30.0444
+     ]
+    ]
+   },
+   "properties": {
+    "source": "MECA",
+    "source_name": "Middle East Centre Archive, St Antony's College",
+    "target": "@Egypt",
+    "target_name": "Egypt",
+    "type": "depicts",
+    "note": "Middle East Centre Archive, St Antony's College holds images/records of Egypt",
+    "start": 1850,
+    "end": 1979
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -1.2622,
+      51.7627
+     ],
+     [
+      58.3829,
+      23.588
+     ]
+    ]
+   },
+   "properties": {
+    "source": "MECA",
+    "source_name": "Middle East Centre Archive, St Antony's College",
+    "target": "@Oman",
+    "target_name": "Oman",
+    "type": "depicts",
+    "note": "Middle East Centre Archive, St Antony's College holds images/records of Oman",
+    "start": 1850,
+    "end": 1979
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -1.2622,
+      51.7627
+     ],
+     [
+      35.9284,
+      31.9454
+     ]
+    ]
+   },
+   "properties": {
+    "source": "MECA",
+    "source_name": "Middle East Centre Archive, St Antony's College",
+    "target": "@Jordan",
+    "target_name": "Jordan",
+    "type": "depicts",
+    "note": "Middle East Centre Archive, St Antony's College holds images/records of Jordan",
+    "start": 1850,
+    "end": 1979
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1277,
+      51.5299
+     ],
+     [
+      51.531,
+      25.2854
+     ]
+    ]
+   },
+   "properties": {
+    "source": "BL",
+    "source_name": "British Library (India Office Records; Endangered Archives Programme)",
+    "target": "@Qatar",
+    "target_name": "Qatar",
+    "type": "depicts",
+    "note": "British Library (India Office Records; Endangered Archives Programme) holds images/records of Qatar",
+    "start": 1600,
+    "end": 1950
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1277,
+      51.5299
+     ],
+     [
+      50.586,
+      26.2285
+     ]
+    ]
+   },
+   "properties": {
+    "source": "BL",
+    "source_name": "British Library (India Office Records; Endangered Archives Programme)",
+    "target": "@Bahrain",
+    "target_name": "Bahrain",
+    "type": "depicts",
+    "note": "British Library (India Office Records; Endangered Archives Programme) holds images/records of Bahrain",
+    "start": 1600,
+    "end": 1950
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1277,
+      51.5299
+     ],
+     [
+      47.9774,
+      29.3759
+     ]
+    ]
+   },
+   "properties": {
+    "source": "BL",
+    "source_name": "British Library (India Office Records; Endangered Archives Programme)",
+    "target": "@Kuwait",
+    "target_name": "Kuwait",
+    "type": "depicts",
+    "note": "British Library (India Office Records; Endangered Archives Programme) holds images/records of Kuwait",
+    "start": 1600,
+    "end": 1950
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1277,
+      51.5299
+     ],
+     [
+      58.3829,
+      23.588
+     ]
+    ]
+   },
+   "properties": {
+    "source": "BL",
+    "source_name": "British Library (India Office Records; Endangered Archives Programme)",
+    "target": "@Oman",
+    "target_name": "Oman",
+    "type": "depicts",
+    "note": "British Library (India Office Records; Endangered Archives Programme) holds images/records of Oman",
+    "start": 1600,
+    "end": 1950
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1277,
+      51.5299
+     ],
+     [
+      10.1815,
+      36.8065
+     ]
+    ]
+   },
+   "properties": {
+    "source": "BL",
+    "source_name": "British Library (India Office Records; Endangered Archives Programme)",
+    "target": "@Tunisia",
+    "target_name": "Tunisia",
+    "type": "depicts",
+    "note": "British Library (India Office Records; Endangered Archives Programme) holds images/records of Tunisia",
+    "start": 1600,
+    "end": 1950
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1277,
+      51.5299
+     ],
+     [
+      35.2137,
+      31.7683
+     ]
+    ]
+   },
+   "properties": {
+    "source": "BL",
+    "source_name": "British Library (India Office Records; Endangered Archives Programme)",
+    "target": "@Palestine",
+    "target_name": "Palestine",
+    "type": "depicts",
+    "note": "British Library (India Office Records; Endangered Archives Programme) holds images/records of Palestine",
+    "start": 1600,
+    "end": 1950
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1277,
+      51.5299
+     ],
+     [
+      35.5018,
+      33.8938
+     ]
+    ]
+   },
+   "properties": {
+    "source": "BL",
+    "source_name": "British Library (India Office Records; Endangered Archives Programme)",
+    "target": "@Lebanon",
+    "target_name": "Lebanon",
+    "type": "depicts",
+    "note": "British Library (India Office Records; Endangered Archives Programme) holds images/records of Lebanon",
+    "start": 1600,
+    "end": 1950
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.2797,
+      51.481
+     ],
+     [
+      54.3773,
+      24.4539
+     ]
+    ]
+   },
+   "properties": {
+    "source": "KEW",
+    "source_name": "The National Archives (UK), Kew",
+    "target": "@UAE",
+    "target_name": "UAE",
+    "type": "depicts",
+    "note": "The National Archives (UK), Kew holds images/records of UAE",
+    "start": 1800,
+    "end": 1990
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.2797,
+      51.481
+     ],
+     [
+      58.3829,
+      23.588
+     ]
+    ]
+   },
+   "properties": {
+    "source": "KEW",
+    "source_name": "The National Archives (UK), Kew",
+    "target": "@Oman",
+    "target_name": "Oman",
+    "type": "depicts",
+    "note": "The National Archives (UK), Kew holds images/records of Oman",
+    "start": 1800,
+    "end": 1990
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.2797,
+      51.481
+     ],
+     [
+      51.531,
+      25.2854
+     ]
+    ]
+   },
+   "properties": {
+    "source": "KEW",
+    "source_name": "The National Archives (UK), Kew",
+    "target": "@Qatar",
+    "target_name": "Qatar",
+    "type": "depicts",
+    "note": "The National Archives (UK), Kew holds images/records of Qatar",
+    "start": 1800,
+    "end": 1990
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.2797,
+      51.481
+     ],
+     [
+      50.586,
+      26.2285
+     ]
+    ]
+   },
+   "properties": {
+    "source": "KEW",
+    "source_name": "The National Archives (UK), Kew",
+    "target": "@Bahrain",
+    "target_name": "Bahrain",
+    "type": "depicts",
+    "note": "The National Archives (UK), Kew holds images/records of Bahrain",
+    "start": 1800,
+    "end": 1990
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      2.228,
+      48.842
+     ],
+     [
+      35.5018,
+      33.8938
+     ]
+    ]
+   },
+   "properties": {
+    "source": "KAHN",
+    "source_name": "Musée départemental Albert-Kahn – Archives of the Planet",
+    "target": "@Lebanon",
+    "target_name": "Lebanon",
+    "type": "depicts",
+    "note": "Musée départemental Albert-Kahn – Archives of the Planet holds images/records of Lebanon",
+    "start": 1909,
+    "end": 1931
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      2.228,
+      48.842
+     ],
+     [
+      36.2765,
+      33.5138
+     ]
+    ]
+   },
+   "properties": {
+    "source": "KAHN",
+    "source_name": "Musée départemental Albert-Kahn – Archives of the Planet",
+    "target": "@Syria",
+    "target_name": "Syria",
+    "type": "depicts",
+    "note": "Musée départemental Albert-Kahn – Archives of the Planet holds images/records of Syria",
+    "start": 1909,
+    "end": 1931
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      2.228,
+      48.842
+     ],
+     [
+      35.2137,
+      31.7683
+     ]
+    ]
+   },
+   "properties": {
+    "source": "KAHN",
+    "source_name": "Musée départemental Albert-Kahn – Archives of the Planet",
+    "target": "@Palestine",
+    "target_name": "Palestine",
+    "type": "depicts",
+    "note": "Musée départemental Albert-Kahn – Archives of the Planet holds images/records of Palestine",
+    "start": 1909,
+    "end": 1931
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      2.228,
+      48.842
+     ],
+     [
+      -6.8416,
+      34.0209
+     ]
+    ]
+   },
+   "properties": {
+    "source": "KAHN",
+    "source_name": "Musée départemental Albert-Kahn – Archives of the Planet",
+    "target": "@Morocco",
+    "target_name": "Morocco",
+    "type": "depicts",
+    "note": "Musée départemental Albert-Kahn – Archives of the Planet holds images/records of Morocco",
+    "start": 1909,
+    "end": 1931
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      2.228,
+      48.842
+     ],
+     [
+      3.0588,
+      36.7538
+     ]
+    ]
+   },
+   "properties": {
+    "source": "KAHN",
+    "source_name": "Musée départemental Albert-Kahn – Archives of the Planet",
+    "target": "@Algeria",
+    "target_name": "Algeria",
+    "type": "depicts",
+    "note": "Musée départemental Albert-Kahn – Archives of the Planet holds images/records of Algeria",
+    "start": 1909,
+    "end": 1931
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      2.228,
+      48.842
+     ],
+     [
+      10.1815,
+      36.8065
+     ]
+    ]
+   },
+   "properties": {
+    "source": "KAHN",
+    "source_name": "Musée départemental Albert-Kahn – Archives of the Planet",
+    "target": "@Tunisia",
+    "target_name": "Tunisia",
+    "type": "depicts",
+    "note": "Musée départemental Albert-Kahn – Archives of the Planet holds images/records of Tunisia",
+    "start": 1909,
+    "end": 1931
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      2.228,
+      48.842
+     ],
+     [
+      31.2357,
+      30.0444
+     ]
+    ]
+   },
+   "properties": {
+    "source": "KAHN",
+    "source_name": "Musée départemental Albert-Kahn – Archives of the Planet",
+    "target": "@Egypt",
+    "target_name": "Egypt",
+    "type": "depicts",
+    "note": "Musée départemental Albert-Kahn – Archives of the Planet holds images/records of Egypt",
+    "start": 1909,
+    "end": 1931
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.497,
+      52.1601
+     ],
+     [
+      39.8579,
+      21.3891
+     ]
+    ]
+   },
+   "properties": {
+    "source": "LEIDEN",
+    "source_name": "Leiden University Libraries – Middle Eastern Collections",
+    "target": "@Hejaz (Mecca)",
+    "target_name": "Hejaz (Mecca)",
+    "type": "depicts",
+    "note": "Leiden University Libraries – Middle Eastern Collections holds images/records of Hejaz (Mecca)",
+    "start": 1850,
+    "end": 1940
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.497,
+      52.1601
+     ],
+     [
+      46.6753,
+      24.7136
+     ]
+    ]
+   },
+   "properties": {
+    "source": "LEIDEN",
+    "source_name": "Leiden University Libraries – Middle Eastern Collections",
+    "target": "@Saudi Arabia",
+    "target_name": "Saudi Arabia",
+    "type": "depicts",
+    "note": "Leiden University Libraries – Middle Eastern Collections holds images/records of Saudi Arabia",
+    "start": 1850,
+    "end": 1940
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      28.9747,
+      41.0236
+     ],
+     [
+      35.5018,
+      33.8938
+     ]
+    ]
+   },
+   "properties": {
+    "source": "SALT",
+    "source_name": "SALT Research",
+    "target": "@Lebanon",
+    "target_name": "Lebanon",
+    "type": "depicts",
+    "note": "SALT Research holds images/records of Lebanon",
+    "start": 1850,
+    "end": 2000
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      28.9747,
+      41.0236
+     ],
+     [
+      36.2765,
+      33.5138
+     ]
+    ]
+   },
+   "properties": {
+    "source": "SALT",
+    "source_name": "SALT Research",
+    "target": "@Syria",
+    "target_name": "Syria",
+    "type": "depicts",
+    "note": "SALT Research holds images/records of Syria",
+    "start": 1850,
+    "end": 2000
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      28.9747,
+      41.0236
+     ],
+     [
+      35.2137,
+      31.7683
+     ]
+    ]
+   },
+   "properties": {
+    "source": "SALT",
+    "source_name": "SALT Research",
+    "target": "@Palestine",
+    "target_name": "Palestine",
+    "type": "depicts",
+    "note": "SALT Research holds images/records of Palestine",
+    "start": 1850,
+    "end": 2000
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      28.9747,
+      41.0236
+     ],
+     [
+      44.3661,
+      33.3152
+     ]
+    ]
+   },
+   "properties": {
+    "source": "SALT",
+    "source_name": "SALT Research",
+    "target": "@Iraq",
+    "target_name": "Iraq",
+    "type": "depicts",
+    "note": "SALT Research holds images/records of Iraq",
+    "start": 1850,
+    "end": 2000
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -77.0047,
+      38.8887
+     ],
+     [
+      35.2137,
+      31.7683
+     ]
+    ]
+   },
+   "properties": {
+    "source": "MATSON",
+    "source_name": "Library of Congress – Matson (American Colony) Photograph Collection",
+    "target": "@Palestine",
+    "target_name": "Palestine",
+    "type": "depicts",
+    "note": "Library of Congress – Matson (American Colony) Photograph Collection holds images/records of Palestine",
+    "start": 1898,
+    "end": 1946
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -77.0047,
+      38.8887
+     ],
+     [
+      35.9284,
+      31.9454
+     ]
+    ]
+   },
+   "properties": {
+    "source": "MATSON",
+    "source_name": "Library of Congress – Matson (American Colony) Photograph Collection",
+    "target": "@Jordan",
+    "target_name": "Jordan",
+    "type": "depicts",
+    "note": "Library of Congress – Matson (American Colony) Photograph Collection holds images/records of Jordan",
+    "start": 1898,
+    "end": 1946
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -77.0047,
+      38.8887
+     ],
+     [
+      35.5018,
+      33.8938
+     ]
+    ]
+   },
+   "properties": {
+    "source": "MATSON",
+    "source_name": "Library of Congress – Matson (American Colony) Photograph Collection",
+    "target": "@Lebanon",
+    "target_name": "Lebanon",
+    "type": "depicts",
+    "note": "Library of Congress – Matson (American Colony) Photograph Collection holds images/records of Lebanon",
+    "start": 1898,
+    "end": 1946
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -77.0047,
+      38.8887
+     ],
+     [
+      36.2765,
+      33.5138
+     ]
+    ]
+   },
+   "properties": {
+    "source": "MATSON",
+    "source_name": "Library of Congress – Matson (American Colony) Photograph Collection",
+    "target": "@Syria",
+    "target_name": "Syria",
+    "type": "depicts",
+    "note": "Library of Congress – Matson (American Colony) Photograph Collection holds images/records of Syria",
+    "start": 1898,
+    "end": 1946
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -77.0047,
+      38.8887
+     ],
+     [
+      31.2357,
+      30.0444
+     ]
+    ]
+   },
+   "properties": {
+    "source": "MATSON",
+    "source_name": "Library of Congress – Matson (American Colony) Photograph Collection",
+    "target": "@Egypt",
+    "target_name": "Egypt",
+    "type": "depicts",
+    "note": "Library of Congress – Matson (American Colony) Photograph Collection holds images/records of Egypt",
+    "start": 1898,
+    "end": 1946
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -77.0047,
+      38.8887
+     ],
+     [
+      44.3661,
+      33.3152
+     ]
+    ]
+   },
+   "properties": {
+    "source": "MATSON",
+    "source_name": "Library of Congress – Matson (American Colony) Photograph Collection",
+    "target": "@Iraq",
+    "target_name": "Iraq",
+    "type": "depicts",
+    "note": "Library of Congress – Matson (American Colony) Photograph Collection holds images/records of Iraq",
+    "start": 1898,
+    "end": 1946
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -118.4741,
+      34.078
+     ],
+     [
+      28.9784,
+      41.0082
+     ]
+    ]
+   },
+   "properties": {
+    "source": "GETTY",
+    "source_name": "Getty Research Institute – Gigord & Jacobson collections",
+    "target": "@Ottoman centre (Istanbul)",
+    "target_name": "Ottoman centre (Istanbul)",
+    "type": "depicts",
+    "note": "Getty Research Institute – Gigord & Jacobson collections holds images/records of Ottoman centre (Istanbul)",
+    "start": 1850,
+    "end": 1958
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -118.4741,
+      34.078
+     ],
+     [
+      35.5018,
+      33.8938
+     ]
+    ]
+   },
+   "properties": {
+    "source": "GETTY",
+    "source_name": "Getty Research Institute – Gigord & Jacobson collections",
+    "target": "@Lebanon",
+    "target_name": "Lebanon",
+    "type": "depicts",
+    "note": "Getty Research Institute – Gigord & Jacobson collections holds images/records of Lebanon",
+    "start": 1850,
+    "end": 1958
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -118.4741,
+      34.078
+     ],
+     [
+      36.2765,
+      33.5138
+     ]
+    ]
+   },
+   "properties": {
+    "source": "GETTY",
+    "source_name": "Getty Research Institute – Gigord & Jacobson collections",
+    "target": "@Syria",
+    "target_name": "Syria",
+    "type": "depicts",
+    "note": "Getty Research Institute – Gigord & Jacobson collections holds images/records of Syria",
+    "start": 1850,
+    "end": 1958
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -118.4741,
+      34.078
+     ],
+     [
+      31.2357,
+      30.0444
+     ]
+    ]
+   },
+   "properties": {
+    "source": "GETTY",
+    "source_name": "Getty Research Institute – Gigord & Jacobson collections",
+    "target": "@Egypt",
+    "target_name": "Egypt",
+    "type": "depicts",
+    "note": "Getty Research Institute – Gigord & Jacobson collections holds images/records of Egypt",
+    "start": 1850,
+    "end": 1958
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -118.4741,
+      34.078
+     ],
+     [
+      35.2137,
+      31.7683
+     ]
+    ]
+   },
+   "properties": {
+    "source": "GETTY",
+    "source_name": "Getty Research Institute – Gigord & Jacobson collections",
+    "target": "@Palestine",
+    "target_name": "Palestine",
+    "type": "depicts",
+    "note": "Getty Research Institute – Gigord & Jacobson collections holds images/records of Palestine",
+    "start": 1850,
+    "end": 1958
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.0942,
+      42.3601
+     ],
+     [
+      44.3661,
+      33.3152
+     ]
+    ]
+   },
+   "properties": {
+    "source": "AKDC",
+    "source_name": "Aga Khan Documentation Center at MIT / Archnet",
+    "target": "@Iraq",
+    "target_name": "Iraq",
+    "type": "depicts",
+    "note": "Aga Khan Documentation Center at MIT / Archnet holds images/records of Iraq",
+    "start": 1920,
+    "end": 1980
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.0942,
+      42.3601
+     ],
+     [
+      36.2765,
+      33.5138
+     ]
+    ]
+   },
+   "properties": {
+    "source": "AKDC",
+    "source_name": "Aga Khan Documentation Center at MIT / Archnet",
+    "target": "@Syria",
+    "target_name": "Syria",
+    "type": "depicts",
+    "note": "Aga Khan Documentation Center at MIT / Archnet holds images/records of Syria",
+    "start": 1920,
+    "end": 1980
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -73.9632,
+      40.7794
+     ],
+     [
+      31.2357,
+      30.0444
+     ]
+    ]
+   },
+   "properties": {
+    "source": "MET",
+    "source_name": "The Metropolitan Museum of Art – Open Access",
+    "target": "@Egypt",
+    "target_name": "Egypt",
+    "type": "depicts",
+    "note": "The Metropolitan Museum of Art – Open Access holds images/records of Egypt",
+    "start": 600,
+    "end": 1900
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -73.9632,
+      40.7794
+     ],
+     [
+      36.2765,
+      33.5138
+     ]
+    ]
+   },
+   "properties": {
+    "source": "MET",
+    "source_name": "The Metropolitan Museum of Art – Open Access",
+    "target": "@Syria",
+    "target_name": "Syria",
+    "type": "depicts",
+    "note": "The Metropolitan Museum of Art – Open Access holds images/records of Syria",
+    "start": 600,
+    "end": 1900
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -73.9632,
+      40.7794
+     ],
+     [
+      44.3661,
+      33.3152
+     ]
+    ]
+   },
+   "properties": {
+    "source": "MET",
+    "source_name": "The Metropolitan Museum of Art – Open Access",
+    "target": "@Iraq",
+    "target_name": "Iraq",
+    "type": "depicts",
+    "note": "The Metropolitan Museum of Art – Open Access holds images/records of Iraq",
+    "start": 600,
+    "end": 1900
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -73.9632,
+      40.7794
+     ],
+     [
+      -6.8416,
+      34.0209
+     ]
+    ]
+   },
+   "properties": {
+    "source": "MET",
+    "source_name": "The Metropolitan Museum of Art – Open Access",
+    "target": "@Morocco",
+    "target_name": "Morocco",
+    "type": "depicts",
+    "note": "The Metropolitan Museum of Art – Open Access holds images/records of Morocco",
+    "start": 600,
+    "end": 1900
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -73.9632,
+      40.7794
+     ],
+     [
+      39.8579,
+      21.3891
+     ]
+    ]
+   },
+   "properties": {
+    "source": "MET",
+    "source_name": "The Metropolitan Museum of Art – Open Access",
+    "target": "@Hejaz (Mecca)",
+    "target_name": "Hejaz (Mecca)",
+    "type": "depicts",
+    "note": "The Metropolitan Museum of Art – Open Access holds images/records of Hejaz (Mecca)",
+    "start": 600,
+    "end": 1900
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -73.9822,
+      40.7532
+     ],
+     [
+      39.8579,
+      21.3891
+     ]
+    ]
+   },
+   "properties": {
+    "source": "NYPL",
+    "source_name": "New York Public Library – Digital Collections",
+    "target": "@Hejaz (Mecca)",
+    "target_name": "Hejaz (Mecca)",
+    "type": "depicts",
+    "note": "New York Public Library – Digital Collections holds images/records of Hejaz (Mecca)",
+    "start": 1880,
+    "end": 1940
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -73.9519,
+      40.7925
+     ],
+     [
+      -74.01389,
+      40.70806
+     ]
+    ]
+   },
+   "properties": {
+    "source": "MCNY",
+    "source_name": "Museum of the City of New York",
+    "target": "@Little Syria, New York",
+    "target_name": "Little Syria, New York",
+    "type": "depicts",
+    "note": "Museum of the City of New York holds images/records of Little Syria, New York",
+    "start": 1880,
+    "end": 1950
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -74.01389,
+      40.70806
+     ],
+     [
+      35.5018,
+      33.8938
+     ]
+    ]
+   },
+   "properties": {
+    "source": "WSHS",
+    "source_name": "Washington Street Historical Society (Little Syria)",
+    "target": "@Lebanon",
+    "target_name": "Lebanon",
+    "type": "depicts",
+    "note": "Washington Street Historical Society (Little Syria) holds images/records of Lebanon",
+    "start": 1880,
+    "end": 1946
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -74.01389,
+      40.70806
+     ],
+     [
+      36.2765,
+      33.5138
+     ]
+    ]
+   },
+   "properties": {
+    "source": "WSHS",
+    "source_name": "Washington Street Historical Society (Little Syria)",
+    "target": "@Syria",
+    "target_name": "Syria",
+    "type": "depicts",
+    "note": "Washington Street Historical Society (Little Syria) holds images/records of Syria",
+    "start": 1880,
+    "end": 1946
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -83.1763,
+      42.3223
+     ],
+     [
+      -74.01389,
+      40.70806
+     ]
+    ]
+   },
+   "properties": {
+    "source": "AANM",
+    "source_name": "Arab American National Museum",
+    "target": "@Little Syria, New York",
+    "target_name": "Little Syria, New York",
+    "type": "depicts",
+    "note": "Arab American National Museum holds images/records of Little Syria, New York",
+    "start": 1880,
+    "end": 2026
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -83.1763,
+      42.3223
+     ],
+     [
+      35.5018,
+      33.8938
+     ]
+    ]
+   },
+   "properties": {
+    "source": "AANM",
+    "source_name": "Arab American National Museum",
+    "target": "@Lebanon",
+    "target_name": "Lebanon",
+    "type": "depicts",
+    "note": "Arab American National Museum holds images/records of Lebanon",
+    "start": 1880,
+    "end": 2026
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -83.1763,
+      42.3223
+     ],
+     [
+      36.2765,
+      33.5138
+     ]
+    ]
+   },
+   "properties": {
+    "source": "AANM",
+    "source_name": "Arab American National Museum",
+    "target": "@Syria",
+    "target_name": "Syria",
+    "type": "depicts",
+    "note": "Arab American National Museum holds images/records of Syria",
+    "start": 1880,
+    "end": 2026
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -83.1763,
+      42.3223
+     ],
+     [
+      35.2137,
+      31.7683
+     ]
+    ]
+   },
+   "properties": {
+    "source": "AANM",
+    "source_name": "Arab American National Museum",
+    "target": "@Palestine",
+    "target_name": "Palestine",
+    "type": "depicts",
+    "note": "Arab American National Museum holds images/records of Palestine",
+    "start": 1880,
+    "end": 2026
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -83.1763,
+      42.3223
+     ],
+     [
+      44.3661,
+      33.3152
+     ]
+    ]
+   },
+   "properties": {
+    "source": "AANM",
+    "source_name": "Arab American National Museum",
+    "target": "@Iraq",
+    "target_name": "Iraq",
+    "type": "depicts",
+    "note": "Arab American National Museum holds images/records of Iraq",
+    "start": 1880,
+    "end": 2026
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -83.1763,
+      42.3223
+     ],
+     [
+      44.191,
+      15.3694
+     ]
+    ]
+   },
+   "properties": {
+    "source": "AANM",
+    "source_name": "Arab American National Museum",
+    "target": "@Yemen",
+    "target_name": "Yemen",
+    "type": "depicts",
+    "note": "Arab American National Museum holds images/records of Yemen",
+    "start": 1880,
+    "end": 2026
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -78.6821,
+      35.7847
+     ],
+     [
+      35.5018,
+      33.8938
+     ]
+    ]
+   },
+   "properties": {
+    "source": "KCLDS",
+    "source_name": "Khayrallah Center – Nassour Archive of Lebanese Diaspora (NC State)",
+    "target": "@Lebanon",
+    "target_name": "Lebanon",
+    "type": "depicts",
+    "note": "Khayrallah Center – Nassour Archive of Lebanese Diaspora (NC State) holds images/records of Lebanon",
+    "start": 1880,
+    "end": 2020
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -78.6821,
+      35.7847
+     ],
+     [
+      -46.6333,
+      -23.5505
+     ]
+    ]
+   },
+   "properties": {
+    "source": "KCLDS",
+    "source_name": "Khayrallah Center – Nassour Archive of Lebanese Diaspora (NC State)",
+    "target": "@Brazil (São Paulo)",
+    "target_name": "Brazil (São Paulo)",
+    "type": "depicts",
+    "note": "Khayrallah Center – Nassour Archive of Lebanese Diaspora (NC State) holds images/records of Brazil (São Paulo)",
+    "start": 1880,
+    "end": 2020
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -78.6821,
+      35.7847
+     ],
+     [
+      -99.1332,
+      19.4326
+     ]
+    ]
+   },
+   "properties": {
+    "source": "KCLDS",
+    "source_name": "Khayrallah Center – Nassour Archive of Lebanese Diaspora (NC State)",
+    "target": "@Mexico",
+    "target_name": "Mexico",
+    "type": "depicts",
+    "note": "Khayrallah Center – Nassour Archive of Lebanese Diaspora (NC State) holds images/records of Mexico",
+    "start": 1880,
+    "end": 2020
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -77.03,
+      38.8913
+     ],
+     [
+      35.5018,
+      33.8938
+     ]
+    ]
+   },
+   "properties": {
+    "source": "NMAH",
+    "source_name": "Smithsonian NMAH Archives Center – Faris & Yamna Naff Arab American Collection",
+    "target": "@Lebanon",
+    "target_name": "Lebanon",
+    "type": "depicts",
+    "note": "Smithsonian NMAH Archives Center – Faris & Yamna Naff Arab American Collection holds images/records of Lebanon",
+    "start": 1880,
+    "end": 1985
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -77.03,
+      38.8913
+     ],
+     [
+      36.2765,
+      33.5138
+     ]
+    ]
+   },
+   "properties": {
+    "source": "NMAH",
+    "source_name": "Smithsonian NMAH Archives Center – Faris & Yamna Naff Arab American Collection",
+    "target": "@Syria",
+    "target_name": "Syria",
+    "type": "depicts",
+    "note": "Smithsonian NMAH Archives Center – Faris & Yamna Naff Arab American Collection holds images/records of Syria",
+    "start": 1880,
+    "end": 1985
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -77.03,
+      38.8913
+     ],
+     [
+      -83.1763,
+      42.3223
+     ]
+    ]
+   },
+   "properties": {
+    "source": "NMAH",
+    "source_name": "Smithsonian NMAH Archives Center – Faris & Yamna Naff Arab American Collection",
+    "target": "@Arab America (Dearborn)",
+    "target_name": "Arab America (Dearborn)",
+    "type": "depicts",
+    "note": "Smithsonian NMAH Archives Center – Faris & Yamna Naff Arab American Collection holds images/records of Arab America (Dearborn)",
+    "start": 1880,
+    "end": 1985
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -76.9579,
+      38.9989
+     ],
+     [
+      44.3661,
+      33.3152
+     ]
+    ]
+   },
+   "properties": {
+    "source": "IJA",
+    "source_name": "Iraqi Jewish Archive (US National Archives)",
+    "target": "@Iraq",
+    "target_name": "Iraq",
+    "type": "depicts",
+    "note": "Iraqi Jewish Archive (US National Archives) holds images/records of Iraq",
+    "start": 1540,
+    "end": 1975
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -94.3926,
+      45.5938
+     ],
+     [
+      44.3661,
+      33.3152
+     ]
+    ]
+   },
+   "properties": {
+    "source": "HMML",
+    "source_name": "Hill Museum & Manuscript Library – vHMML Reading Room",
+    "target": "@Iraq",
+    "target_name": "Iraq",
+    "type": "depicts",
+    "note": "Hill Museum & Manuscript Library – vHMML Reading Room holds images/records of Iraq",
+    "start": 900,
+    "end": 1950
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -94.3926,
+      45.5938
+     ],
+     [
+      36.2765,
+      33.5138
+     ]
+    ]
+   },
+   "properties": {
+    "source": "HMML",
+    "source_name": "Hill Museum & Manuscript Library – vHMML Reading Room",
+    "target": "@Syria",
+    "target_name": "Syria",
+    "type": "depicts",
+    "note": "Hill Museum & Manuscript Library – vHMML Reading Room holds images/records of Syria",
+    "start": 900,
+    "end": 1950
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -95.3698,
+      29.7604
+     ],
+     [
+      46.6753,
+      24.7136
+     ]
+    ]
+   },
+   "properties": {
+    "source": "ARAMCO",
+    "source_name": "AramcoWorld Photo Archive",
+    "target": "@Saudi Arabia",
+    "target_name": "Saudi Arabia",
+    "type": "depicts",
+    "note": "AramcoWorld Photo Archive holds images/records of Saudi Arabia",
+    "start": 1964,
+    "end": 2026
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -95.3698,
+      29.7604
+     ],
+     [
+      31.2357,
+      30.0444
+     ]
+    ]
+   },
+   "properties": {
+    "source": "ARAMCO",
+    "source_name": "AramcoWorld Photo Archive",
+    "target": "@Egypt",
+    "target_name": "Egypt",
+    "type": "depicts",
+    "note": "AramcoWorld Photo Archive holds images/records of Egypt",
+    "start": 1964,
+    "end": 2026
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -95.3698,
+      29.7604
+     ],
+     [
+      -6.8416,
+      34.0209
+     ]
+    ]
+   },
+   "properties": {
+    "source": "ARAMCO",
+    "source_name": "AramcoWorld Photo Archive",
+    "target": "@Morocco",
+    "target_name": "Morocco",
+    "type": "depicts",
+    "note": "AramcoWorld Photo Archive holds images/records of Morocco",
+    "start": 1964,
+    "end": 2026
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -95.3698,
+      29.7604
+     ],
+     [
+      36.2765,
+      33.5138
+     ]
+    ]
+   },
+   "properties": {
+    "source": "ARAMCO",
+    "source_name": "AramcoWorld Photo Archive",
+    "target": "@Syria",
+    "target_name": "Syria",
+    "type": "depicts",
+    "note": "AramcoWorld Photo Archive holds images/records of Syria",
+    "start": 1964,
+    "end": 2026
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -95.3698,
+      29.7604
+     ],
+     [
+      44.191,
+      15.3694
+     ]
+    ]
+   },
+   "properties": {
+    "source": "ARAMCO",
+    "source_name": "AramcoWorld Photo Archive",
+    "target": "@Yemen",
+    "target_name": "Yemen",
+    "type": "depicts",
+    "note": "AramcoWorld Photo Archive holds images/records of Yemen",
+    "start": 1964,
+    "end": 2026
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -95.3698,
+      29.7604
+     ],
+     [
+      58.3829,
+      23.588
+     ]
+    ]
+   },
+   "properties": {
+    "source": "ARAMCO",
+    "source_name": "AramcoWorld Photo Archive",
+    "target": "@Oman",
+    "target_name": "Oman",
+    "type": "depicts",
+    "note": "AramcoWorld Photo Archive holds images/records of Oman",
+    "start": 1964,
+    "end": 2026
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -77.0723,
+      38.9076
+     ],
+     [
+      35.2137,
+      31.7683
+     ]
+    ]
+   },
+   "properties": {
+    "source": "PPPA",
+    "source_name": "Palestine Poster Project Archives",
+    "target": "@Palestine",
+    "target_name": "Palestine",
+    "type": "depicts",
+    "note": "Palestine Poster Project Archives holds images/records of Palestine",
+    "start": 1900,
+    "end": 2026
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -46.611,
+      -23.5475
+     ],
+     [
+      35.5018,
+      33.8938
+     ]
+    ]
+   },
+   "properties": {
+    "source": "MI-SP",
+    "source_name": "Museu da Imigração do Estado de São Paulo",
+    "target": "@Lebanon",
+    "target_name": "Lebanon",
+    "type": "depicts",
+    "note": "Museu da Imigração do Estado de São Paulo holds images/records of Lebanon",
+    "start": 1882,
+    "end": 1973
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -46.611,
+      -23.5475
+     ],
+     [
+      36.2765,
+      33.5138
+     ]
+    ]
+   },
+   "properties": {
+    "source": "MI-SP",
+    "source_name": "Museu da Imigração do Estado de São Paulo",
+    "target": "@Syria",
+    "target_name": "Syria",
+    "type": "depicts",
+    "note": "Museu da Imigração do Estado de São Paulo holds images/records of Syria",
+    "start": 1882,
+    "end": 1973
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      10.8575,
+      33.8756
+     ],
+     [
+      10.1815,
+      36.8065
+     ]
+    ]
+   },
+   "properties": {
+    "source": "DJERBA",
+    "source_name": "al-Basi Family Library, Djerba (EAP1020)",
+    "target": "@Tunisia",
+    "target_name": "Tunisia",
+    "type": "depicts",
+    "note": "al-Basi Family Library, Djerba (EAP1020) holds images/records of Tunisia",
+    "start": null,
+    "end": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      35.5018,
+      33.8938
+     ],
+     [
+      -71.0942,
+      42.3601
+     ]
+    ]
+   },
+   "properties": {
+    "source": "AIF",
+    "source_name": "Arab Image Foundation",
+    "target": "AKDC",
+    "target_name": "Aga Khan Documentation Center at MIT / Archnet",
+    "type": "custody",
+    "note": "Chadirji photographic archive: on loan at AIF Beirut, given to MIT",
+    "start": null,
+    "end": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      44.3661,
+      33.3152
+     ],
+     [
+      -71.0942,
+      42.3601
+     ]
+    ]
+   },
+   "properties": {
+    "source": "@Iraq",
+    "source_name": "Iraq",
+    "target": "AKDC",
+    "target_name": "Aga Khan Documentation Center at MIT / Archnet",
+    "type": "custody",
+    "note": "Chadirji negatives made in Iraq, now in Cambridge MA",
+    "start": null,
+    "end": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      39.8579,
+      21.3891
+     ],
+     [
+      4.497,
+      52.1601
+     ]
+    ]
+   },
+   "properties": {
+    "source": "@Hejaz (Mecca)",
+    "source_name": "Hejaz (Mecca)",
+    "target": "LEIDEN",
+    "target_name": "Leiden University Libraries – Middle Eastern Collections",
+    "type": "custody",
+    "note": "Mecca photographs (1884–85) taken to Leiden",
+    "start": null,
+    "end": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      44.3661,
+      33.3152
+     ],
+     [
+      -76.9579,
+      38.9989
+     ]
+    ]
+   },
+   "properties": {
+    "source": "@Iraq",
+    "source_name": "Iraq",
+    "target": "IJA",
+    "target_name": "Iraqi Jewish Archive (US National Archives)",
+    "type": "custody",
+    "note": "Recovered in Baghdad 2003, shipped to US National Archives",
+    "start": null,
+    "end": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      35.2137,
+      31.7683
+     ],
+     [
+      -77.0047,
+      38.8887
+     ]
+    ]
+   },
+   "properties": {
+    "source": "@Palestine",
+    "source_name": "Palestine",
+    "target": "MATSON",
+    "target_name": "Library of Congress – Matson (American Colony) Photograph Collection",
+    "type": "custody",
+    "note": "American Colony negatives from Jerusalem to Library of Congress (1966–81)",
+    "start": null,
+    "end": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      28.9784,
+      41.0082
+     ],
+     [
+      -118.4741,
+      34.078
+     ]
+    ]
+   },
+   "properties": {
+    "source": "@Ottoman centre (Istanbul)",
+    "source_name": "Ottoman centre (Istanbul)",
+    "target": "GETTY",
+    "target_name": "Getty Research Institute – Gigord & Jacobson collections",
+    "type": "custody",
+    "note": "Gigord bought photographs in Istanbul markets, now in Los Angeles",
+    "start": null,
+    "end": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.2797,
+      51.481
+     ],
+     [
+      54.3773,
+      24.4539
+     ]
+    ]
+   },
+   "properties": {
+    "source": "KEW",
+    "source_name": "The National Archives (UK), Kew",
+    "target": "AGDA",
+    "target_name": "Arabian Gulf Digital Archive (National Library & Archives UAE)",
+    "type": "custody",
+    "note": "British Gulf records returned as digital copies to Abu Dhabi",
+    "start": null,
+    "end": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1277,
+      51.5299
+     ],
+     [
+      51.4388,
+      25.3176
+     ]
+    ]
+   },
+   "properties": {
+    "source": "BL",
+    "source_name": "British Library (India Office Records; Endangered Archives Programme)",
+    "target": "QDL",
+    "target_name": "Qatar Digital Library",
+    "type": "custody",
+    "note": "India Office Gulf records digitised for Doha",
+    "start": null,
+    "end": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      44.3661,
+      33.3152
+     ],
+     [
+      -94.3926,
+      45.5938
+     ]
+    ]
+   },
+   "properties": {
+    "source": "@Iraq",
+    "source_name": "Iraq",
+    "target": "HMML",
+    "target_name": "Hill Museum & Manuscript Library – vHMML Reading Room",
+    "type": "custody",
+    "note": "Iraqi church/private manuscripts digitised with CNMO Erbil, hosted in Minnesota",
+    "start": null,
+    "end": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      36.2765,
+      33.5138
+     ],
+     [
+      28.9784,
+      41.0082
+     ]
+    ]
+   },
+   "properties": {
+    "source": "CHD",
+    "source_name": "Centre for Historical Documents, Damascus",
+    "target": "@Ottoman centre (Istanbul)",
+    "target_name": "Ottoman centre (Istanbul)",
+    "type": "custody",
+    "note": "'Damascus Documents' moved from Qubbat al-Khazna to Istanbul, early 20th c.",
+    "start": null,
+    "end": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -76.9579,
+      38.9989
+     ],
+     [
+      44.3845,
+      33.3464
+     ]
+    ]
+   },
+   "properties": {
+    "source": "IJA",
+    "source_name": "Iraqi Jewish Archive (US National Archives)",
+    "target": "INLA",
+    "target_name": "Iraq National Library and Archive",
+    "type": "custody",
+    "note": "US custody is temporary; return to Iraq agreed in principle, still disputed",
+    "start": null,
+    "end": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1277,
+      51.5299
+     ],
+     [
+      10.8575,
+      33.8756
+     ]
+    ]
+   },
+   "properties": {
+    "source": "BL",
+    "source_name": "British Library (India Office Records; Endangered Archives Programme)",
+    "target": "DJERBA",
+    "target_name": "al-Basi Family Library, Djerba (EAP1020)",
+    "type": "partnership",
+    "note": "EAP grant digitised the al-Basi library",
+    "start": null,
+    "end": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      35.48,
+      33.9
+     ],
+     [
+      -0.1277,
+      51.5299
+     ]
+    ]
+   },
+   "properties": {
+    "source": "AUB",
+    "source_name": "AUB Libraries – Archives & Special Collections",
+    "target": "BL",
+    "target_name": "British Library (India Office Records; Endangered Archives Programme)",
+    "type": "partnership",
+    "note": "AUB is EAP regional hub; al-Ma'luf collection online at both",
+    "start": null,
+    "end": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      13.3963,
+      52.5212
+     ],
+     [
+      36.2765,
+      33.5138
+     ]
+    ]
+   },
+   "properties": {
+    "source": "SHAP",
+    "source_name": "Syrian Heritage Archive Project (Museum für Islamische Kunst + DAI)",
+    "target": "@Syria",
+    "target_name": "Syria",
+    "type": "partnership",
+    "note": "4,000+ Syrian places added to iDAI.gazetteer",
+    "start": null,
+    "end": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -83.1763,
+      42.3223
+     ],
+     [
+      -78.6821,
+      35.7847
+     ]
+    ]
+   },
+   "properties": {
+    "source": "AANM",
+    "source_name": "Arab American National Museum",
+    "target": "KCLDS",
+    "target_name": "Khayrallah Center – Nassour Archive of Lebanese Diaspora (NC State)",
+    "type": "partnership",
+    "note": "Index of Arab American Archives (with UH-Clear Lake)",
+    "start": null,
+    "end": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -83.1763,
+      42.3223
+     ],
+     [
+      -77.03,
+      38.8913
+     ]
+    ]
+   },
+   "properties": {
+    "source": "AANM",
+    "source_name": "Arab American National Museum",
+    "target": "NMAH",
+    "target_name": "Smithsonian NMAH Archives Center – Faris & Yamna Naff Arab American Collection",
+    "type": "partnership",
+    "note": "Naff collection audio copies at both",
+    "start": null,
+    "end": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -83.1763,
+      42.3223
+     ],
+     [
+      -74.01389,
+      40.70806
+     ]
+    ]
+   },
+   "properties": {
+    "source": "AANM",
+    "source_name": "Arab American National Museum",
+    "target": "WSHS",
+    "target_name": "Washington Street Historical Society (Little Syria)",
+    "type": "partnership",
+    "note": "'Little Syria, NY 1880–1940' exhibition",
+    "start": null,
+    "end": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -73.9822,
+      40.7532
+     ],
+     [
+      -74.01389,
+      40.70806
+     ]
+    ]
+   },
+   "properties": {
+    "source": "NYPL",
+    "source_name": "New York Public Library – Digital Collections",
+    "target": "WSHS",
+    "target_name": "Washington Street Historical Society (Little Syria)",
+    "type": "partnership",
+    "note": "Little Syria photographs and research guide",
+    "start": null,
+    "end": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -73.9519,
+      40.7925
+     ],
+     [
+      -74.01389,
+      40.70806
+     ]
+    ]
+   },
+   "properties": {
+    "source": "MCNY",
+    "source_name": "Museum of the City of New York",
+    "target": "WSHS",
+    "target_name": "Washington Street Historical Society (Little Syria)",
+    "type": "partnership",
+    "note": "Abbott's 1936 Washington St photographs",
+    "start": null,
+    "end": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      35.5232,
+      33.8868
+     ],
+     [
+      55.4209,
+      25.3463
+     ]
+    ]
+   },
+   "properties": {
+    "source": "ACA",
+    "source_name": "Arab Center for Architecture",
+    "target": "SAT",
+    "target_name": "Sharjah Architecture Triennial – Journeys into Architecture Archives",
+    "type": "partnership",
+    "note": "Lent to 'Journey into Architecture Archives' 2023",
+    "start": null,
+    "end": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      31.4996,
+      30.0196
+     ],
+     [
+      55.4209,
+      25.3463
+     ]
+    ]
+   },
+   "properties": {
+    "source": "AUC",
+    "source_name": "AUC Rare Books & Special Collections Library",
+    "target": "SAT",
+    "target_name": "Sharjah Architecture Triennial – Journeys into Architecture Archives",
+    "type": "partnership",
+    "note": "Lent to 'Journey into Architecture Archives' 2023",
+    "start": null,
+    "end": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -6.8416,
+      34.0209
+     ],
+     [
+      55.4209,
+      25.3463
+     ]
+    ]
+   },
+   "properties": {
+    "source": "ADM",
+    "source_name": "Archives du Maroc",
+    "target": "SAT",
+    "target_name": "Sharjah Architecture Triennial – Journeys into Architecture Archives",
+    "type": "partnership",
+    "note": "Lent to 'Journey into Architecture Archives' 2023",
+    "start": null,
+    "end": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      35.5018,
+      33.8938
+     ],
+     [
+      35.5167,
+      33.8925
+     ]
+    ]
+   },
+   "properties": {
+    "source": "AIF",
+    "source_name": "Arab Image Foundation",
+    "target": "DEBBAS",
+    "target_name": "Fouad Debbas Collection, Sursock Museum",
+    "type": "partnership",
+    "note": "Joint exhibition 'Looking for Leisure' (2018)",
+    "start": null,
+    "end": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      55.2708,
+      25.2048
+     ],
+     [
+      54.4352,
+      24.524
+     ]
+    ]
+   },
+   "properties": {
+    "source": "MASA",
+    "source_name": "Atassi Foundation – Modern Art of Syria Archive (MASA)",
+    "target": "MAWRID",
+    "target_name": "al Mawrid Arab Art Archive, NYU Abu Dhabi",
+    "type": "partnership",
+    "note": "Atassi Foundation collection listed in Arab Art Archive",
+    "start": null,
+    "end": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -73.9632,
+      40.7794
+     ],
+     [
+      -71.0942,
+      42.3601
+     ]
+    ]
+   },
+   "properties": {
+    "source": "MET",
+    "source_name": "The Metropolitan Museum of Art – Open Access",
+    "target": "AKDC",
+    "target_name": "Aga Khan Documentation Center at MIT / Archnet",
+    "type": "partnership",
+    "note": "Met Islamic Art photographs digitised for Archnet",
+    "start": null,
+    "end": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      35.5018,
+      33.8938
+     ],
+     [
+      -74.01389,
+      40.70806
+     ]
+    ]
+   },
+   "properties": {
+    "source": "@Lebanon",
+    "source_name": "Lebanon",
+    "target": "WSHS",
+    "target_name": "Washington Street Historical Society (Little Syria)",
+    "type": "migration",
+    "note": "Sea route Beirut → New York (via Ellis Island), 1880–1940",
+    "start": null,
+    "end": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      36.2765,
+      33.5138
+     ],
+     [
+      -74.01389,
+      40.70806
+     ]
+    ]
+   },
+   "properties": {
+    "source": "@Syria",
+    "source_name": "Syria",
+    "target": "WSHS",
+    "target_name": "Washington Street Historical Society (Little Syria)",
+    "type": "migration",
+    "note": "Sea route from Ottoman Syria → New York",
+    "start": null,
+    "end": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      35.5018,
+      33.8938
+     ],
+     [
+      -46.611,
+      -23.5475
+     ]
+    ]
+   },
+   "properties": {
+    "source": "@Lebanon",
+    "source_name": "Lebanon",
+    "target": "MI-SP",
+    "target_name": "Museu da Imigração do Estado de São Paulo",
+    "type": "migration",
+    "note": "Sea route Beirut → Santos/São Paulo, from 1870s",
+    "start": null,
+    "end": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      35.5018,
+      33.8938
+     ],
+     [
+      -83.1763,
+      42.3223
+     ]
+    ]
+   },
+   "properties": {
+    "source": "@Lebanon",
+    "source_name": "Lebanon",
+    "target": "AANM",
+    "target_name": "Arab American National Museum",
+    "type": "migration",
+    "note": "Migration to Detroit/Dearborn",
+    "start": null,
+    "end": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      35.5018,
+      33.8938
+     ],
+     [
+      -78.6821,
+      35.7847
+     ]
+    ]
+   },
+   "properties": {
+    "source": "@Lebanon",
+    "source_name": "Lebanon",
+    "target": "KCLDS",
+    "target_name": "Khayrallah Center – Nassour Archive of Lebanese Diaspora (NC State)",
+    "type": "migration",
+    "note": "Migration to North Carolina",
+    "start": null,
+    "end": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      35.5018,
+      33.8938
+     ],
+     [
+      -99.1332,
+      19.4326
+     ]
+    ]
+   },
+   "properties": {
+    "source": "@Lebanon",
+    "source_name": "Lebanon",
+    "target": "@Mexico",
+    "target_name": "Mexico",
+    "type": "migration",
+    "note": "Lebanese community in Mexico (AIF Madrigal de Bulhosen collection)",
+    "start": null,
+    "end": null
+   }
+  }
+ ]
+}
